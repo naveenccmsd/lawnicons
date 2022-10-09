@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<icons>
+    <icon drawable="@drawable/coindcx" package="com.coindcx.btc" name="Coindcx" />
+    <icon drawable="@drawable/coindcx" package="com.coindcx" name="Coindcx" />
+    <icon drawable="@drawable/coindcx" package="com.coindcx.security.ScreenLock" name="Coindcx" />
+    <icon drawable="@drawable/smartflasher" package="com.tneb.tangedco" name="Flasher" />
+
+</icons>
