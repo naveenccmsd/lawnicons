@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - develop
+      - Main
     paths-ignore:
       - '.idea/**'
       - '.gitattributes'
@@ -38,7 +38,7 @@ jobs:
           java-version: 17
       - uses: gradle/gradle-build-action@v2
       - name: Write sign info
-        if: github.repository_owner == 'LawnchairLauncher'
+        if: github.repository_owner == 'LawnchairLauncher' || github.repository_owner == 'naveenccmsd'
         run: |
           if [ ! -z "${{ secrets.KEYSTORE }}" ]; then
             echo storePassword='${{ secrets.KEYSTORE_PASSWORD }}' >> keystore.properties
