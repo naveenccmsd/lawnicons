@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
+    <icon drawable="@drawable/dialer" package="com.android.contacts.activities.DialtactsActivity" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.DialtactsActivity" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.DialtactsActivityAlias" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.activities.DialtactsActivity" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.activities.TwelveKeyDialer" name="Phone" />
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
@@ -205,6 +210,7 @@
     <icon drawable="@drawable/dialer" package="com.android.contacts.activities.DialtactsActivity" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.DialtactsActivity" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.DialtactsActivityAlias" name="Phone" />
+    <icon drawable="@drawable/dialer" package="com.android.contacts.activities.DialtactsActivity" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.dialer" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.incallui" name="Phone" />
     <icon drawable="@drawable/dialer" package="com.android.phone" name="Phone" />
