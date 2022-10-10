@@ -49,6 +49,7 @@
   <icon drawable="@drawable/lawn_bank_jago" package="com.jago.digitalbanking" name="Jago"/>
   <icon drawable="@drawable/lawn_bca_mobile" package="com.bca" name="BCA Mobile"/>
   <icon drawable="@drawable/lawn_bgram" package="org.telegram.BifToGram" name="BGram"/>
+  <icon drawable="@drawable/lawn_bigbasket" package="com.bigbasket.mobileapp" name="BigBasket"/>
   <icon drawable="@drawable/lawn_bima_plus" package="com.linkit.bimatri" name="Bima+"/>
   <icon drawable="@drawable/lawn_binance" package="com.binance.dev" name="Binance"/>
   <icon drawable="@drawable/lawn_binary_eye" package="de.markusfisch.android.binaryeye" name="Binary Eye"/>
@@ -317,6 +318,7 @@
   <icon drawable="@drawable/lawn_fortnite" package="com.epicgames.fortnite" name="Fortnite"/>
   <icon drawable="@drawable/lawn_fox_mmm" package="com.fox2code.mmm" name="Fox's Magisk Module Manager"/>
   <icon drawable="@drawable/lawn_franco_kernel_manager" package="com.franco.kernel" name="Franco Kernel Manager"/>
+  <icon drawable="@drawable/lawn_free" package="com.samsung.android.app.spage" name="Samsung Free"/>
   <icon drawable="@drawable/lawn_free_download_manager" package="org.freedownloadmanager.fdm" name="Free Download Manager"/>
   <icon drawable="@drawable/lawn_fritter" package="com.jonjomckay.fritter" name="Fritter"/>
   <icon drawable="@drawable/lawn_fxxxs_given" package="rocks.poopjournal.fucksgiven" name="F***s Given"/>
@@ -899,6 +901,7 @@
   <icon drawable="@drawable/lawn_zara" package="com.inditex.zara" name="Zara"/>
   <icon drawable="@drawable/lawn_zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver"/>
   <icon drawable="@drawable/lawn_zepp_life" package="com.xiaomi.hm.health" name="Zepp Life"/>
+  <icon drawable="@drawable/lawn_zepto" package="com.zeptoconsumerapp" name="Zepto"/>
   <icon drawable="@drawable/lawn_zoom" package="us.zoom.videomeetings" name="Zoom"/>
   <icon drawable="@drawable/rk_admin_hands" package="com.arpaplus.adminhands" name="Admin hands"/>
   <icon drawable="@drawable/rk_aurora_store" package="com.aurora.store.nightly" name="Aurora Store"/>
@@ -2727,7 +2730,6 @@
   <icon drawable="@drawable/arc_biblioteket" package="app.redia.dk.biblioteket.MainActivity" name="Biblioteket"/>
   <icon drawable="@drawable/arc_biblio" package="com.Axiellmedia.LibraryApp" name="Biblio"/>
   <icon drawable="@drawable/arc_biblio" package="com.Axiellmedia.LibraryApp.SplashActivity" name="Biblio"/>
-  <icon drawable="@drawable/arc_bigbasket" package="com.bigbasket.mobileapp" name="Bigbasket"/>
   <icon drawable="@drawable/arc_bigbasket" package="com.bigbasket.mobileapp.activity.SplashActivity" name="Bigbasket"/>
   <icon drawable="@drawable/arc_bikesharinghub" package="fr.fdesousa.bikesharinghub" name="Bikesharinghub"/>
   <icon drawable="@drawable/arc_bikesharinghub" package="be.brunoparmentier.openbikesharing.app.activities.StationsListActivity" name="Bikesharinghub"/>
@@ -4992,11 +4994,9 @@
   <icon drawable="@drawable/arc_google_assistant" package="com.google.android.apps.assistant" name="Google_assistant"/>
   <icon drawable="@drawable/arc_google_assistant" package="com.google.android.apps.assistant.go.MainActivity" name="Google_assistant"/>
   <icon drawable="@drawable/arc_google_authenticator" package="com.google.android.apps.authenticator.AuthenticatorActivity" name="Google_authenticator"/>
-  <icon drawable="@drawable/arc_calendar_google_31" package="com.google.android.calendar" name="Calendar_google_31"/>
   <icon drawable="@drawable/arc_google_camera" package="com.google.android.CameraRedmi5Plus" name="Google_camera"/>
   <icon drawable="@drawable/arc_google_camera" package="com.camera.lmc84lite" name="Google_camera"/>
   <icon drawable="@drawable/arc_google_chat" package="com.google.android.apps.dynamite.startup.StartUpActivity" name="Google_chat"/>
-  <icon drawable="@drawable/arc_clock" package="com.google.android.deskclock" name="Clock"/>
   <icon drawable="@drawable/arc_google_docs" package="com.google.android.apps.docs.app.NewMainProxyActivity" name="Google_docs"/>
   <icon drawable="@drawable/arc_google_earth" package="com.google.earth" name="Google_earth"/>
   <icon drawable="@drawable/arc_google_earth" package="com.google.android.apps.earth.EarthActivity" name="Google_earth"/>
