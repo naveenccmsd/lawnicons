@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">  
-  <path android:strokeWidth="1" android:pathData="M30.597,26.455m-12.903,0a12.903,12.903 0,1 1,25.806 0a12.903,12.903 0,1 1,-25.806 0" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
-  <path android:strokeWidth="1" android:pathData="M7.78,19.311L7.78,19.311A3.28,3.28 0,0 1,11.061 22.592L11.061,36.078A3.28,3.28 0,0 1,7.78 39.358L7.78,39.358A3.28,3.28 0,0 1,4.5 36.078L4.5,22.592A3.28,3.28 0,0 1,7.78 19.311z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
-  <path android:strokeWidth="1" android:pathData="M7.78,11.922m-3.28,0a3.28,3.28 0,1 1,6.561 0a3.28,3.28 0,1 1,-6.561 0" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/> 
+  <path android:strokeWidth="3" android:pathData="M30.597,26.455m-12.903,0a12.903,12.903 0,1 1,25.806 0a12.903,12.903 0,1 1,-25.806 0" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round"/>  
+  <path android:strokeWidth="3" android:pathData="M7.78,19.311L7.78,19.311A3.28,3.28 0,0 1,11.061 22.592L11.061,36.078A3.28,3.28 0,0 1,7.78 39.358L7.78,39.358A3.28,3.28 0,0 1,4.5 36.078L4.5,22.592A3.28,3.28 0,0 1,7.78 19.311z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round"/>  
+  <path android:strokeWidth="3" android:pathData="M7.78,11.922m-3.28,0a3.28,3.28 0,1 1,6.561 0a3.28,3.28 0,1 1,-6.561 0" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round"/> 
 </vector>
