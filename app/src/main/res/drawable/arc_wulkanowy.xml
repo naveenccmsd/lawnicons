@@ -1,34 +1,8 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="48dp"
-    android:height="48dp"
-    android:viewportWidth="48"
-    android:viewportHeight="48">
-  <path
-      android:strokeWidth="1"
-      android:pathData="M42.493,42.5H35.745l-4.343,-5.775 -1.841,-6.183 -5.553,-2.81L23.073,23.62l-1.689,-2.458 1.406,-2.73 2.202,-0.056L27.07,17.129 32.288,27.272l0.398,3.709 9.81,10.889Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M29.308,42.5h-9.674l-2.69,-6.411 2.186,-5.236 -1.603,-3.286 2.408,-4.63 0.597,0.186 2.474,7.105 4.494,1.529 2.177,6.345Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M16.261,40.555 L14.78,42.5H5.504l5.801,-9.075 2.592,-11.282 3.47,-2.223a9.414,9.414 0,0 1,0.184 -2.258c0.281,-0.459 1.587,-0.279 1.587,-0.279a0.841,0.841 0,0 1,0.415 0.922L15.999,27.449 16.84,31.785 14.768,36.28Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M21.002,16.26c0.453,-1.034 0.104,-1.354 0.104,-1.354 -2.193,-0.451 -3.798,-3.549 -0.743,-5.211 -0.39,-0.921 0.787,-1.647 1.542,-1.55 0.482,-0.731 0.879,-0.852 1.593,-0.61 1.458,-2.013 3.617,-1.919 6.495,-1.34 2.495,-1.734 4.189,0.169 3.74,1.466 2.363,0.398 1.592,3.503 -0.254,3.083 0.006,0.802 -0.323,1.243 -1.188,1.108 -0.625,1.967 -2.679,2.568 -5.962,1.994a0.975,0.975 0,0 1,-1.271 0.697c-0.036,0.943 -0.126,1.858 -2.508,1.581a0.974,0.974 0,0 1,-0.902 0.788C21.15,16.9 20.815,16.687 21.002,16.26Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">  
+  <path android:strokeWidth="1" android:pathData="M42.493,42.5H35.745l-4.343,-5.775 -1.841,-6.183 -5.553,-2.81L23.073,23.62l-1.689,-2.458 1.406,-2.73 2.202,-0.056L27.07,17.129 32.288,27.272l0.398,3.709 9.81,10.889Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M29.308,42.5h-9.674l-2.69,-6.411 2.186,-5.236 -1.603,-3.286 2.408,-4.63 0.597,0.186 2.474,7.105 4.494,1.529 2.177,6.345Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M16.261,40.555 L14.78,42.5H5.504l5.801,-9.075 2.592,-11.282 3.47,-2.223a9.414,9.414 0,0 1,0.184 -2.258c0.281,-0.459 1.587,-0.279 1.587,-0.279a0.841,0.841 0,0 1,0.415 0.922L15.999,27.449 16.84,31.785 14.768,36.28Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M21.002,16.26c0.453,-1.034 0.104,-1.354 0.104,-1.354 -2.193,-0.451 -3.798,-3.549 -0.743,-5.211 -0.39,-0.921 0.787,-1.647 1.542,-1.55 0.482,-0.731 0.879,-0.852 1.593,-0.61 1.458,-2.013 3.617,-1.919 6.495,-1.34 2.495,-1.734 4.189,0.169 3.74,1.466 2.363,0.398 1.592,3.503 -0.254,3.083 0.006,0.802 -0.323,1.243 -1.188,1.108 -0.625,1.967 -2.679,2.568 -5.962,1.994a0.975,0.975 0,0 1,-1.271 0.697c-0.036,0.943 -0.126,1.858 -2.508,1.581a0.974,0.974 0,0 1,-0.902 0.788C21.15,16.9 20.815,16.687 21.002,16.26Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/> 
 </vector>

@@ -1,20 +1,6 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="48dp"
-    android:height="48dp"
-    android:viewportWidth="48"
-    android:viewportHeight="48">
-  <path
-      android:strokeWidth="1"
-      android:pathData="M31.959,17.678H9.403A4.9,4.9 0,0 0,4.74 24.081l3.976,12.333a4.715,4.715 0,0 0,4.488 3.269H35.759a4.9,4.9 0,0 0,4.663 -6.403l-3.976,-12.333A4.715,4.715 0,0 0,31.959 17.678Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M36.696,39.683A6.804,6.804 0,0 0,43.5 32.879V18.258a6.804,6.804 0,0 0,-6.804 -6.804H24.731A4.45,4.45 0,0 1,22.253 10.7L19.821,9.07a4.45,4.45 0,0 0,-2.477 -0.753h-2.97A5.464,5.464 0,0 0,10.598 9.831h0A4.932,4.932 0,0 0,9.09 13.794l0.314,3.885"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">  
+  <path android:strokeWidth="1" android:pathData="M31.959,17.678H9.403A4.9,4.9 0,0 0,4.74 24.081l3.976,12.333a4.715,4.715 0,0 0,4.488 3.269H35.759a4.9,4.9 0,0 0,4.663 -6.403l-3.976,-12.333A4.715,4.715 0,0 0,31.959 17.678Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M36.696,39.683A6.804,6.804 0,0 0,43.5 32.879V18.258a6.804,6.804 0,0 0,-6.804 -6.804H24.731A4.45,4.45 0,0 1,22.253 10.7L19.821,9.07a4.45,4.45 0,0 0,-2.477 -0.753h-2.97A5.464,5.464 0,0 0,10.598 9.831h0A4.932,4.932 0,0 0,9.09 13.794l0.314,3.885" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/> 
 </vector>

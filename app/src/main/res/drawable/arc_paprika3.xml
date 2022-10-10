@@ -1,41 +1,9 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="48dp"
-    android:height="48dp"
-    android:viewportWidth="48"
-    android:viewportHeight="48">
-  <path
-      android:strokeWidth="1"
-      android:pathData="M10.714,28.547c0.722,-0.516 1.933,-0.038 3.402,0.961a60.361,60.361 0,0 1,9.083 -0.285,10.364 10.364,0 0,0 3.156,-1.246c1.698,-1.348 2.324,-2.885 5.856,-3.81 0.966,-0.022 1.668,-0.046 2.946,3.738a6.917,6.917 0,0 1,-0.631 4.557c-1.161,1.505 -3.234,2.852 -9.854,3.418 -3.338,-0.139 -6.985,-0.121 -9.083,-0.89 0.393,0.279 -6.621,-4.268 -4.875,-6.444Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M35.157,27.906c2.466,-0.452 3.296,-1.744 3.051,-3.24"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M23.969,20.333H12.566c-5.036,0 -6.314,-3.618 -6.523,-5.366l0,0C5.958,11.183 7.804,5.5 14.031,5.5H33.907c6.227,0 8.073,5.683 7.989,9.467l0,0c-0.209,1.747 -1.488,5.366 -6.523,5.366Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M6.042,14.967l0.066,19.015c0.046,6.441 3.439,8.197 7.857,8.517H33.311c6.476,-0.375 8.296,-3.544 8.65,-7.593V14.77"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M16.21,12.755a7.791,4.919 0,1 0,15.582 0a7.791,4.919 0,1 0,-15.582 0z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">  
+  <path android:strokeWidth="1" android:pathData="M10.714,28.547c0.722,-0.516 1.933,-0.038 3.402,0.961a60.361,60.361 0,0 1,9.083 -0.285,10.364 10.364,0 0,0 3.156,-1.246c1.698,-1.348 2.324,-2.885 5.856,-3.81 0.966,-0.022 1.668,-0.046 2.946,3.738a6.917,6.917 0,0 1,-0.631 4.557c-1.161,1.505 -3.234,2.852 -9.854,3.418 -3.338,-0.139 -6.985,-0.121 -9.083,-0.89 0.393,0.279 -6.621,-4.268 -4.875,-6.444Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M35.157,27.906c2.466,-0.452 3.296,-1.744 3.051,-3.24" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M23.969,20.333H12.566c-5.036,0 -6.314,-3.618 -6.523,-5.366l0,0C5.958,11.183 7.804,5.5 14.031,5.5H33.907c6.227,0 8.073,5.683 7.989,9.467l0,0c-0.209,1.747 -1.488,5.366 -6.523,5.366Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M6.042,14.967l0.066,19.015c0.046,6.441 3.439,8.197 7.857,8.517H33.311c6.476,-0.375 8.296,-3.544 8.65,-7.593V14.77" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M16.21,12.755a7.791,4.919 0,1 0,15.582 0a7.791,4.919 0,1 0,-15.582 0z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/> 
 </vector>

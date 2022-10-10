@@ -1,13 +1,5 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="48dp"
-    android:height="48dp"
-    android:viewportWidth="48"
-    android:viewportHeight="48">
-  <path
-      android:strokeWidth="1"
-      android:pathData="M43.5,32.208c-2.491,-0.766 -4.552,-1.246 -4.552,-1.246 0,-2.923 0.144,-6.468 -1.198,-9.103 1.294,-3.45 -0.689,-12.991 -3.546,-13.607 -2.444,-0.527 -6.133,5.797 -6.133,5.797a8.058,8.058 0,0 0,-2.156 -0.614V11.87l-1.556,1.419 0.622,-3.168L21.8,13.486a7.76,7.76 0,0 0,-1.872 0.564s-3.689,-6.324 -6.133,-5.797C10.938,8.869 8.956,18.41 10.249,21.86c-1.342,2.635 -1.198,6.18 -1.198,9.103 0,0 -2.06,0.479 -4.552,1.246a10.731,10.731 0,0 0,4.648 1.437s-0.815,0.287 -1.677,0.575c1.725,1.677 9.055,5.558 16.53,5.558S38.805,35.898 40.53,34.221c-0.862,-0.287 -1.677,-0.575 -1.677,-0.575A10.73,10.73 0,0 0,43.5 32.208Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">  
+  <path android:strokeWidth="1" android:pathData="M43.5,32.208c-2.491,-0.766 -4.552,-1.246 -4.552,-1.246 0,-2.923 0.144,-6.468 -1.198,-9.103 1.294,-3.45 -0.689,-12.991 -3.546,-13.607 -2.444,-0.527 -6.133,5.797 -6.133,5.797a8.058,8.058 0,0 0,-2.156 -0.614V11.87l-1.556,1.419 0.622,-3.168L21.8,13.486a7.76,7.76 0,0 0,-1.872 0.564s-3.689,-6.324 -6.133,-5.797C10.938,8.869 8.956,18.41 10.249,21.86c-1.342,2.635 -1.198,6.18 -1.198,9.103 0,0 -2.06,0.479 -4.552,1.246a10.731,10.731 0,0 0,4.648 1.437s-0.815,0.287 -1.677,0.575c1.725,1.677 9.055,5.558 16.53,5.558S38.805,35.898 40.53,34.221c-0.862,-0.287 -1.677,-0.575 -1.677,-0.575A10.73,10.73 0,0 0,43.5 32.208Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/> 
 </vector>

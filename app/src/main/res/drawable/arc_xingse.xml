@@ -1,41 +1,9 @@
-<vector xmlns:android="http://schemas.android.com/apk/res/android"
-    android:width="48dp"
-    android:height="48dp"
-    android:viewportWidth="48"
-    android:viewportHeight="48">
-  <path
-      android:strokeWidth="1"
-      android:pathData="M24.328,8.869c-0.164,0.995 0.004,2.257 -0.616,2.888 -4.496,2.785 -8.735,6.077 -5.429,11.782 1.768,3.05 3.627,4.362 6.776,5.775 6.145,2.757 11.115,-3.996 9.664,-8.278 -0.16,-0.472 1.449,-2.963 2.965,-3.581 -2.954,-0.873 -4.584,-0.779 -5.544,-0.154a34.983,34.983 0,0 0,0.116 -4.697,16.047 16.047,0 0,0 -4.582,2.079c-1.139,-1.908 -0.356,-4.277 -3.35,-5.814Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M21.384,27.223c-2.46,3.637 -4.955,7.268 -1.907,11.908"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M21.326,33.202c2.617,2.437 5.392,3.131 8.316,0.77C26.319,30.709 23.278,31.679 21.326,33.202Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M12.816,22.729c-0.492,2.349 -1.654,4.81 2.888,7.777C16.961,27.531 16.036,24.558 12.816,22.729Z"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
-  <path
-      android:strokeWidth="1"
-      android:pathData="M37.836,5.5C41.769,5.5 42.5,6.654 42.5,10.356m0,27.326c0,3.432 -1.077,4.818 -4.74,4.818m-27.288,0C6.231,42.5 5.5,42.039 5.5,37.567m0,-27.172C5.5,6.462 6.5,5.5 10.587,5.5"
-      android:strokeLineJoin="round"
-      android:fillColor="#00000000"
-      android:strokeColor="#000"
-      android:strokeLineCap="round"/>
+<?xml version="1.0" encoding="UTF-8"?>
+
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:width="48dp" android:height="48dp" android:viewportWidth="48" android:viewportHeight="48">  
+  <path android:strokeWidth="1" android:pathData="M24.328,8.869c-0.164,0.995 0.004,2.257 -0.616,2.888 -4.496,2.785 -8.735,6.077 -5.429,11.782 1.768,3.05 3.627,4.362 6.776,5.775 6.145,2.757 11.115,-3.996 9.664,-8.278 -0.16,-0.472 1.449,-2.963 2.965,-3.581 -2.954,-0.873 -4.584,-0.779 -5.544,-0.154a34.983,34.983 0,0 0,0.116 -4.697,16.047 16.047,0 0,0 -4.582,2.079c-1.139,-1.908 -0.356,-4.277 -3.35,-5.814Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M21.384,27.223c-2.46,3.637 -4.955,7.268 -1.907,11.908" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M21.326,33.202c2.617,2.437 5.392,3.131 8.316,0.77C26.319,30.709 23.278,31.679 21.326,33.202Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M12.816,22.729c-0.492,2.349 -1.654,4.81 2.888,7.777C16.961,27.531 16.036,24.558 12.816,22.729Z" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/>  
+  <path android:strokeWidth="1" android:pathData="M37.836,5.5C41.769,5.5 42.5,6.654 42.5,10.356m0,27.326c0,3.432 -1.077,4.818 -4.74,4.818m-27.288,0C6.231,42.5 5.5,42.039 5.5,37.567m0,-27.172C5.5,6.462 6.5,5.5 10.587,5.5" android:strokeLineJoin="round" android:fillColor="#00000000" android:strokeColor="#000" android:strokeLineCap="round" style="stroke-width:3;stroke-dasharray:none"/> 
 </vector>
