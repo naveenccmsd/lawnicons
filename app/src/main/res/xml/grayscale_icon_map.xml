@@ -52,6 +52,7 @@
   <icon drawable="@drawable/lawn_bima_plus" package="com.linkit.bimatri" name="Bima+"/>
   <icon drawable="@drawable/lawn_binance" package="com.binance.dev" name="Binance"/>
   <icon drawable="@drawable/lawn_binary_eye" package="de.markusfisch.android.binaryeye" name="Binary Eye"/>
+  <icon drawable="@drawable/lawn_bitmoji" package="com.bitstrips.imoji" name="Bitmoji"/>
   <icon drawable="@drawable/lawn_bitwarden" package="com.x8bit.bitwarden" name="Bitwarden"/>
   <icon drawable="@drawable/lawn_black_screen" package="io.japp.blackscreen" name="Black Screen"/>
   <icon drawable="@drawable/lawn_blokada" package="org.blokada.alarm.dnschanger" name="Blokada"/>
@@ -163,6 +164,8 @@
   <icon drawable="@drawable/lawn_cardboard" package="com.google.samples.apps.cardboarddemo" name="Cardboard"/>
   <icon drawable="@drawable/lawn_catogram" package="org.nift4.catox" name="Catogram"/>
   <icon drawable="@drawable/lawn_catogram" package="ua.itaysonlab.messenger" name="Catogram"/>
+  <icon drawable="@drawable/lawn_google_chrome" package="org.chromium.chrome" name="Chromium"/>
+  <icon drawable="@drawable/lawn_chrome_remote_desktop" package="com.google.chromeremotedesktop" name="Chrome Remote Desktop"/>
   <icon drawable="@drawable/lawn_cellmapper" package="cellmapper.net.cellmapper" name="Cellmapper"/>
   <icon drawable="@drawable/lawn_citymapper" package="com.citymapper.app.release" name="Citymapper"/>
   <icon drawable="@drawable/lawn_citibank_mobile" package="com.citi.citimobile" name="Citi Mobile"/>
@@ -350,7 +353,6 @@
   <icon drawable="@drawable/lawn_google_chrome_canary" package="com.chrome.canary" name="Google Chrome Canary"/>
   <icon drawable="@drawable/lawn_google_chrome_dev" package="com.chrome.dev" name="Google Chrome Dev"/>
   <icon drawable="@drawable/lawn_google_chrome" package="com.android.chrome" name="Google Chrome"/>
-  <icon drawable="@drawable/lawn_google_chrome" package="org.chromium.chrome" name="Chromium"/>
   <icon drawable="@drawable/lawn_google_chrome" package="org.ungoogled.chromium.stable" name="Ungoogled Chromium"/>
   <icon drawable="@drawable/lawn_google_classroom" package="com.google.android.apps.classroom" name="Google Classroom"/>
   <icon drawable="@drawable/lawn_google_docs" package="com.google.android.apps.docs.editors.docs" name="Google Docs"/>
@@ -461,6 +463,7 @@
   <icon drawable="@drawable/lawn_lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons"/>
   <icon drawable="@drawable/lawn_lazada" package="com.lazada.android" name="Lazada"/>
   <icon drawable="@drawable/lawn_lbry" package="io.lbry.browser" name="LBRY"/>
+  <icon drawable="@drawable/lawn_leboncoin" package="fr.leboncoin" name="Leboncoin"/>
   <icon drawable="@drawable/lawn_lemuroid" package="com.swordfish.lemuroid" name="Lemuroid"/>
   <icon drawable="@drawable/lawn_lesspass" package="com.lesspass.android" name="LessPass"/>
   <icon drawable="@drawable/lawn_libretube" package="com.github.libretube" name="LibreTube"/>
@@ -998,7 +1001,6 @@
   <icon drawable="@drawable/rk_pepper" package="com.tippingcanoe.promodescuentos" name="Pepper"/>
   <icon drawable="@drawable/rk_librus" package="pl.librus.synergiaDru2" name="Librus"/>
   <icon drawable="@drawable/rk_flex" package="com.orange.rn.dop" name="Orange Flex"/>
-  <icon drawable="@drawable/rk_chrome_remote" package="com.google.chromeremotedesktop" name="Chrome Remote"/>
   <icon drawable="@drawable/rk_adm" package="com.dv.adm" name="ADM"/>
   <icon drawable="@drawable/rk_pekao" package="softax.pekao.powerpay" name="Pekao"/>
   <icon drawable="@drawable/rk_samsung_health" package="com.sec.android.app.shealth" name="Samsung health"/>
@@ -1205,7 +1207,6 @@
   <icon drawable="@drawable/tf_themed_icon_bing" package="com.microsoft.bing" name="Microsoft Advertising"/>
   <icon drawable="@drawable/tf_themed_icon_bir" package="az.kapitalbank.mbanking" name="Birbank"/>
   <icon drawable="@drawable/tf_themed_icon_bird" package="co.bird.android" name="Bird — Ride Electric"/>
-  <icon drawable="@drawable/tf_themed_icon_bitmoji" package="com.bitstrips.imoji" name="Bitmoji"/>
   <icon drawable="@drawable/tf_themed_icon_bkash" package="com.bKash.customerapp" name="bKash"/>
   <icon drawable="@drawable/tf_themed_icon_blackboard" package="com.blackboard.android.bbstudent" name="Blackboard"/>
   <icon drawable="@drawable/tf_themed_icon_blackhole" package="com.shadow.blackhole" name="BlackHole"/>
@@ -5956,7 +5957,6 @@
   <icon drawable="@drawable/arc_learn_html" package="com.codeliber.html.MainActivity" name="Learn_html"/>
   <icon drawable="@drawable/arc_learn_javascript" package="com.codeliber.js" name="Learn_javascript"/>
   <icon drawable="@drawable/arc_learn_javascript" package="com.codeliber.js.MainActivity" name="Learn_javascript"/>
-  <icon drawable="@drawable/arc_leboncoin" package="fr.leboncoin" name="Leboncoin"/>
   <icon drawable="@drawable/arc_leboncoin" package="fr.leboncoin.feature.splashscreen.ui.activities.SplashScreenActivity" name="Leboncoin"/>
   <icon drawable="@drawable/arc_leboncoin" package="fr.leboncoin.splashscreen.ui.activities.SplashScreenActivity" name="Leboncoin"/>
   <icon drawable="@drawable/arc_leboncoin" package="fr.leboncoin.features.splashscreen.ui.activities.SplashScreenActivity" name="Leboncoin"/>
