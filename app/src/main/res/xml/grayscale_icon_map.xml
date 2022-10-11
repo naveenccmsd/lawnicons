@@ -4,7 +4,6 @@
   <icon drawable="@drawable/ccmsd_coindcx" package="com.coindcx.btc" name="Coindcx"/>
   <icon drawable="@drawable/ccmsd_coindcx" package="com.coindcx" name="Coindcx"/>
   <icon drawable="@drawable/ccmsd_coindcx" package="com.coindcx.security.ScreenLock" name="Coindcx"/>
-  <icon drawable="@drawable/ccmsd_smartflasher" package="com.tneb.tangedco" name="Flasher"/>
   <icon drawable="@drawable/lawn_a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions"/>
   <icon drawable="@drawable/lawn_accubattery" package="com.digibites.accubattery" name="AccuBattery"/>
   <icon drawable="@drawable/lawn_adaway" package="org.adaway" name="AdAway"/>
@@ -303,6 +302,7 @@
   <icon drawable="@drawable/lawn_firstcry" package="fc.admin.fcexpressadmin" name="Firstcry"/>
   <icon drawable="@drawable/lawn_flamingo" package="com.samruston.twitter" name="Flamingo"/>
   <icon drawable="@drawable/lawn_flashy" package="rocks.poopjournal.flashy" name="Flashy"/>
+  <icon drawable="@drawable/lawn_flasher" package="com.tneb.tangedco" name="Flasher"/>
   <icon drawable="@drawable/lawn_flightradar24" package="com.flightradar24free" name="Flightradar24"/>
   <icon drawable="@drawable/lawn_flip_id" package="id.flip" name="Flip"/>
   <icon drawable="@drawable/lawn_flud" package="com.delphicoder.flud.paid" name="Flud"/>
