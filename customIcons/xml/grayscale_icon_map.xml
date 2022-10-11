@@ -3,6 +3,4 @@
     <icon drawable="@drawable/coindcx" package="com.coindcx.btc" name="Coindcx" />
     <icon drawable="@drawable/coindcx" package="com.coindcx" name="Coindcx" />
     <icon drawable="@drawable/coindcx" package="com.coindcx.security.ScreenLock" name="Coindcx" />
-    <icon drawable="@drawable/smartflasher" package="com.tneb.tangedco" name="Flasher" />
-
 </icons>
