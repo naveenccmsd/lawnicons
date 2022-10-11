@@ -108,7 +108,6 @@
   <icon drawable="@drawable/lawn_burger_king" package="ru.burgerking" name="Burger King"/>
   <icon drawable="@drawable/lawn_burger_king" package="se.burgerking.ordersapp" name="Burger King"/>
   <icon drawable="@drawable/lawn_by_u" package="com.byu.id" name="by.U"/>
-  <icon drawable="@drawable/lawn_calendar" package="com.samsung.android.calendar" name="Calendar"/>
   <icon drawable="@drawable/lawn_calculator" package="com.android.bbkcalculator" name="Calculator"/>
   <icon drawable="@drawable/lawn_calculator" package="com.android.calculator2" name="Calculator"/>
   <icon drawable="@drawable/lawn_calculator" package="com.google.android.calculator" name="Calculator"/>
@@ -173,10 +172,6 @@
   <icon drawable="@drawable/lawn_clash_of_clans" package="com.supercell.clashofclans" name="Clash Of Clans"/>
   <icon drawable="@drawable/lawn_clash_royale" package="com.supercell.clashroyale" name="Clash Royale"/>
   <icon drawable="@drawable/lawn_clipto" package="com.wb.clipboard.pro" name="Clipto"/>
-  <icon drawable="@drawable/lawn_clock" package="com.sec.android.app.clockpackage" name="Clock"/>
-  <icon drawable="@drawable/lawn_clock" package="com.simplemobiletools.clock" name="Clock"/>
-  <icon drawable="@drawable/lawn_clock" package="com.android.deskclock" name="Clock"/>
-  <icon drawable="@drawable/lawn_clock" package="com.dslit.floatingclock" name="Floating Clock"/>
   <icon drawable="@drawable/lawn_cod_mobile" package="com.activision.callofduty.shooter" name="Call of Duty Mobile"/>
   <icon drawable="@drawable/lawn_codecademy_go" package="com.ryzac.codecademygo" name="Codecademy Go"/>
   <icon drawable="@drawable/lawn_coffee" package="com.github.muellerma.coffee" name="Coffee"/>
