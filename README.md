@@ -25,7 +25,7 @@ Uninstall any Lawnicons or it's fork before installing this apk.
 
 ## Adding icons
 I don't create new icons in this repo insted will get latest icon from offical repo and add/update here.
-If you find official icons missing here or have suggestions to add more lawnicons pack, create an issue I will update latest icons.
+If you find official icons missing here or have suggestions to add more lawnicons forks, create an issue I will update latest icons.
 
 
 - [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
