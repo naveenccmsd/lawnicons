@@ -1819,184 +1819,6 @@
   <icon drawable="@drawable/tf_themed_icon_zedge" package="net.zedge.android" name="ZEDGE Wallpapers"/>
   <icon drawable="@drawable/tf_themed_icon_zepp" package="com.huami.watch.hmwatchmanager" name="Zepp（formerly Amazfit）"/>
   <icon drawable="@drawable/tf_themed_icon_zomato" package="com.application.zomato" name="Zomato"/>
-  <icon drawable="@drawable/dg_a_1998_cam" package="com.ffffstudio.kojicam" name="1998 Cam"/>
-  <icon drawable="@drawable/dg_action_dash" package="com.actiondash.playstore" name="ActionDash"/>
-  <icon drawable="@drawable/dg_aids" package="com.nick80835.add" name="AIDS"/>
-  <icon drawable="@drawable/dg_anywhere" package="com.absinthe.anywhere_" name="Anywhere"/>
-  <icon drawable="@drawable/dg_app_market" package="com.heytap.market" name="App Market"/>
-  <icon drawable="@drawable/dg_apps_ops" package="rikka.appops" name="Apps Ops"/>
-  <icon drawable="@drawable/dg_appsales" package="net.tsapps.appsales" name="AppSales"/>
-  <icon drawable="@drawable/dg_appsfree" package="com.appsfree.android" name="AppsFree"/>
-  <icon drawable="@drawable/dg_appteka" package="com.tomclaw.appsend" name="Appteka"/>
-  <icon drawable="@drawable/dg_aptoide" package="cm.aptoide.pt" name="Aptoide"/>
-  <icon drawable="@drawable/dg_apx" package="com.saxena.apx" name="APX"/>
-  <icon drawable="@drawable/dg_atlas_vpn" package="com.atlasvpn.free.android.proxy.secure" name="Atlas VPN"/>
-  <icon drawable="@drawable/dg_auto_notification" package="com.joaomgcd.autonotification" name="Auto Notification"/>
-  <icon drawable="@drawable/dg_automatag" package="com.fillobotto.mp3tagger" name="AutomaTag"/>
-  <icon drawable="@drawable/dg_avee_player" package="com.daaw.avee" name="Avee Player"/>
-  <icon drawable="@drawable/dg_eraser" package="photoeditor.cutout.backgrounderaser" name="Background Eraser"/>
-  <icon drawable="@drawable/dg_eraser" package="com.handycloset.android.eraser" name="Background Eraser"/>
-  <icon drawable="@drawable/dg_banco_azteca" package="mx.com.bancoazteca.bazdigitalmovil" name="Banco Azteca"/>
-  <icon drawable="@drawable/dg_banco_estado" package="net.veritran.becl.prod" name="Banco Estado"/>
-  <icon drawable="@drawable/dg_coppel" package="mx.com.miapp" name="BanCoppel"/>
-  <icon drawable="@drawable/dg_bible" package="ua.mybible" name="Bible"/>
-  <icon drawable="@drawable/dg_banco_azteca" package="com.bancoazteca.bienestarazteca" name="Bienestar Azteca"/>
-  <icon drawable="@drawable/dg_bitdefender" package="com.bitdefender.antivirus" name="Bitdefender"/>
-  <icon drawable="@drawable/dg_blackplayer" package="com.kodarkooperativet.blackplayerex" name="BlackPlayer Ex"/>
-  <icon drawable="@drawable/dg_blim" package="com.blim" name="Blim TV"/>
-  <icon drawable="@drawable/dg_borealis" package="com.unvoid.borealis" name="Borealis"/>
-  <icon drawable="@drawable/dg_brevent" package="me.piebridge.brevent" name="Brevent"/>
-  <icon drawable="@drawable/dg_browser" package="com.huawei.browser" name="Browser"/>
-  <icon drawable="@drawable/dg_caffine" package="moe.zhs.caffeine" name="Caffine"/>
-  <icon drawable="@drawable/dg_calculator" package="com.coloros.calculator" name="Calculator"/>
-  <icon drawable="@drawable/dg_camera_roll" package="us.koller.cameraroll" name="Camera Roll"/>
-  <icon drawable="@drawable/dg_canl" package="com.canlidoviz" name="Canlı Döviz"/>
-  <icon drawable="@drawable/dg_clefs" package="com.crazyootka.clefs" name="Clefs"/>
-  <icon drawable="@drawable/dg_clone_phone" package="com.coloros.backuprestore" name="Clone Phone"/>
-  <icon drawable="@drawable/dg_clue" package="com.clue.android" name="Clue"/>
-  <icon drawable="@drawable/dg_codora" package="com.kokoschka.michael.qrtools" name="Codora"/>
-  <icon drawable="@drawable/dg_coffee" package="com.camerafilter.coffeecamera.procamera" name="Coffee Cam"/>
-  <icon drawable="@drawable/dg_color_palette" package="com.apps.offbeat.colorpalette" name="Color Palette"/>
-  <icon drawable="@drawable/dg_compass" package="com.coloros.compass2" name="Compass"/>
-  <icon drawable="@drawable/dg_creative" package="com.kubix.creative" name="CreativeApp"/>
-  <icon drawable="@drawable/dg_sensor_box" package="air.com.RustyLake.CubeEscapeCollection" name="Cube Escape"/>
-  <icon drawable="@drawable/dg_dealabs" package="com.dealabs.apps.android" name="Dealabs"/>
-  <icon drawable="@drawable/dg_deep_tv_pro" package="com.deeptv.pro" name="Deep TV Pro"/>
-  <icon drawable="@drawable/dg_dev_assistant" package="com.appsisle.developerassistant" name="Developer Assistant"/>
-  <icon drawable="@drawable/dg_dev_assistant" package="com.appsisle.developerassistantx" name="Developer Assistant"/>
-  <icon drawable="@drawable/dg_dialer" package="com.android.contacts/.activities.DialtactsActivity" name="Phone"/>
-  <icon drawable="@drawable/dg_disk_info" package="com.drhowdydoo.diskinfo" name="DiskInfo+ Hotstar"/>
-  <icon drawable="@drawable/dg_dolby" package="com.dolby.dolby234" name="Dolby"/>
-  <icon drawable="@drawable/dg_dream" package="com.womboai.wombodream" name="Dream"/>
-  <icon drawable="@drawable/dg_dso" package="com.dirror.music" name="Dso Music"/>
-  <icon drawable="@drawable/dg_duskwood" package="com.everbytestudio.interactive.text.chat.story.rpg.cyoa.duskwood" name="Duskwood"/>
-  <icon drawable="@drawable/dg_enix" package="com.lknninex.enix" name="ENIX"/>
-  <icon drawable="@drawable/dg_entel" package="cl.entel.appswlsdesa" name="Entel"/>
-  <icon drawable="@drawable/dg_facelapse" package="io.skripi.facelapse" name="Facelapse"/>
-  <icon drawable="@drawable/dg_files" package="com.coloros.filemanager" name="Files"/>
-  <icon drawable="@drawable/dg_fine_lock" package="yuh.yuh.finelock" name="Fine Lock"/>
-  <icon drawable="@drawable/dg_fluffy" package="chat.fluffy.fluffychat" name="FluffyChat"/>
-  <icon drawable="@drawable/dg_formulia" package="m4.enginary" name="Formulia"/>
-  <icon drawable="@drawable/dg_freecharge" package="com.freecharge.android" name="Freecharge"/>
-  <icon drawable="@drawable/dg_ic_gallerywst" package="com.alensw.PicFoldes" name="Gallery"/>
-  <icon drawable="@drawable/dg_gallery" package="com.coloros.gallery3d" name="Gallery"/>
-  <icon drawable="@drawable/dg_game_center" package="com.nearme.gamecenter" name="Game Center"/>
-  <icon drawable="@drawable/dg_gator" package="com.mitigator.gator" name="Gator"/>
-  <icon drawable="@drawable/dg_glip" package="glip.gg" name="Glip"/>
-  <icon drawable="@drawable/dg_gtaimgtool" package="by.lsdsl.gta.imgtool" name="GTA img tool"/>
-  <icon drawable="@drawable/dg_hiper" package="cz.hipercalc" name="HiPER Scientific Calculator"/>
-  <icon drawable="@drawable/dg_hide_navbar" package="com.ivianuu.hidenavbar" name="Hide Navbar"/>
-  <icon drawable="@drawable/dg_hishoot" package="com.hishoot2i" name="HiShoot2i Material"/>
-  <icon drawable="@drawable/dg_yandex_mail" package="com.android.email" name="Huawei Mail"/>
-  <icon drawable="@drawable/dg_emui_updater" package="com.huawei.android.hwouc" name="Huawei Updater"/>
-  <icon drawable="@drawable/dg_xiaomi_sc" package="com.huawei.phoneservice" name="Huawei Support"/>
-  <icon drawable="@drawable/dg_bank_wallet" package="com.huntington.m" name="Huntington Bank"/>
-  <icon drawable="@drawable/dg_icebox" package="com.catchingnow.icebox" name="IceBox"/>
-  <icon drawable="@drawable/dg_jio_tv" package="com.jio.jioplay.tv" name="Jio TV"/>
-  <icon drawable="@drawable/dg_joey" package="o.o.joey" name="Joey"/>
-  <icon drawable="@drawable/dg_json_genie" package="com.tuyware.jsongenie.premium" name="Json Genie"/>
-  <icon drawable="@drawable/dg_anime" package="aplicaciones.paleta.legionanimefull" name="Legion Anime"/>
-  <icon drawable="@drawable/dg_anime" package="aplicaciones.paleta.legionanimeday" name="Legion Anime"/>
-  <icon drawable="@drawable/dg_anime" package="aplicaciones.paleta.alterlegionanime" name="Legion Anime"/>
-  <icon drawable="@drawable/dg_lensa" package="com.lensa.app" name="Lensa"/>
-  <icon drawable="@drawable/dg_earbuds" package="com.lge.tonentalkplus.tonentalkfree" name="LG Tone Free"/>
-  <icon drawable="@drawable/dg_librera_pro" package="com.foobnix.pro.pdf.reader" name="Librera Pro"/>
-  <icon drawable="@drawable/dg_linex" package="com.jndapp.line.x.iconpack" name="LineX Icon Pack"/>
-  <icon drawable="@drawable/dg_literal" package="com.literal" name="Literal Club"/>
-  <icon drawable="@drawable/dg_lp" package="ru.YbKCoYQH.HRGGCftgu" name="Lucky Patcher"/>
-  <icon drawable="@drawable/dg_microg_settings" package="com.mgoogle.android.gms" name="microG Settings"/>
-  <icon drawable="@drawable/dg_miui_storage" package="com.akim.storageactivity" name="MIUI storage"/>
-  <icon drawable="@drawable/dg_moto" package="com.motorola.moto" name="Moto"/>
-  <icon drawable="@drawable/dg_moto_audio" package="com.motorola.dolby.dolbyui" name="Moto Audio"/>
-  <icon drawable="@drawable/dg_movistar" package="com.movistarmx.mx.app" name="Movistar MX"/>
-  <icon drawable="@drawable/dg_musescore" package="com.musescore.playerlite" name="MuseScore"/>
-  <icon drawable="@drawable/dg_samsung_music" package="com.nomad88.nomadmusic" name="Music"/>
-  <icon drawable="@drawable/dg_samsung_music" package="com.oppo.music" name="Music"/>
-  <icon drawable="@drawable/dg_miui_music" package="com.android.mediacenter" name="Music MIUI"/>
-  <icon drawable="@drawable/dg_mwalls" package="com.theveloper.mwalls.app" name="MWalls"/>
-  <icon drawable="@drawable/dg_myxl" package="com.apps.myXL" name="myXL"/>
-  <icon drawable="@drawable/dg_newsbreaks" package="lite.newsbreak" name="Newsbreaks"/>
-  <icon drawable="@drawable/dg_next_widgets" package="nextwidgets.kustom.pack" name="Next Widgets"/>
-  <icon drawable="@drawable/dg_nintendo_switch_online" package="com.nintendo.znca" name="Nintendo Switch Online"/>
-  <icon drawable="@drawable/dg_nothing_butwalls" package="com.dev.nothingbutwalls.app" name="Nothing Butwalls"/>
-  <icon drawable="@drawable/dg_np_manager" package="player.normal.np" name="NP manager"/>
-  <icon drawable="@drawable/dg_drm_info" package="com.coloros.onekeylockscreen" name="One Tap lock screen"/>
-  <icon drawable="@drawable/dg_ondynamic_icon_pack" package="iconpack.onsurface.monet" name="OnDynamic Icon Pack"/>
-  <icon drawable="@drawable/dg_optimization_huawei" package="com.huawei.systemmanager" name="Optimizator"/>
-  <icon drawable="@drawable/dg_quickswitch" package="com.fossor.panels" name="Panels"/>
-  <icon drawable="@drawable/dg_paramount" package="com.cbs.ca" name="Paramount+"/>
-  <icon drawable="@drawable/dg_phone_manager" package="com.coloros.phonemanager" name="Phone Manager"/>
-  <icon drawable="@drawable/dg_photoshop" package="air.com.adobe.pstouchphone" name="Photoshop Touch"/>
-  <icon drawable="@drawable/dg_picturethis" package="cn.danatech.xingseus" name="PictureThis"/>
-  <icon drawable="@drawable/dg_pix_material_you" package="com.pashapuma.pix.material.you.iconpack" name="Pix Material You"/>
-  <icon drawable="@drawable/dg_pix_material_you_light_dark" package="com.pashapuma.pix.material.you.dark" name="Pix Material You Light Dark"/>
-  <icon drawable="@drawable/dg_pixolor" package="com.embermitre.pixolor.app" name="Pixolor"/>
-  <icon drawable="@drawable/dg_pocket_city" package="com.codebrewgames.pocketcitygame" name="Pocket City"/>
-  <icon drawable="@drawable/dg_pocket_farm" package="com.apponly.farmland.supermarket" name="Pocket_Farm"/>
-  <icon drawable="@drawable/dg_polarr" package="photo.editor.polarr" name="Polarr"/>
-  <icon drawable="@drawable/dg_popwalls" package="com.pop.walls" name="popWalls"/>
-  <icon drawable="@drawable/dg_popwalls_new" package="dev.n3rd3x3.popWALLS" name="popWalls New"/>
-  <icon drawable="@drawable/dg_quickpass" package="com.mikhailgrigorev.quickpass" name="QuickPass"/>
-  <icon drawable="@drawable/dg_quickpass" package="com.mikhailgrigorev.quickpassword" name="QuickPass"/>
-  <icon drawable="@drawable/dg_quran" package="com.andi.alquran.urdu" name="Quran"/>
-  <icon drawable="@drawable/dg_radio_miui" package="com.huawei.android.FMRadio" name="Radio"/>
-  <icon drawable="@drawable/dg_recorder" package="com.coloros.soundrecorder" name="Recorder"/>
-  <icon drawable="@drawable/dg_reminder" package="com.samsung.android.app.reminder" name="Reminder"/>
-  <icon drawable="@drawable/dg_rescue_time" package="com.rescuetime.android" name="RescueTime"/>
-  <icon drawable="@drawable/dg_ruthless_launcher" package="shubh.ruthless" name="Ruthless Launcher"/>
-  <icon drawable="@drawable/dg_samsung_max" package="com.opera.max.global" name="Samsung Max"/>
-  <icon drawable="@drawable/dg_samsung_max" package="com.opera.max.oem" name="Samsung Max"/>
-  <icon drawable="@drawable/dg_samsung_members" package="com.samsung.android.voc" name="Samsung Members"/>
-  <icon drawable="@drawable/dg_qr_scanner" package="com.camvision.qrcode.barcode.reader" name="Scanner QR"/>
-  <icon drawable="@drawable/dg_screen_dimmer" package="com.github.ericytsang.screenfilter.app.android" name="Screen Dimmer"/>
-  <icon drawable="@drawable/dg_security" package="com.miui.securitycenter" name="Security"/>
-  <icon drawable="@drawable/dg_seguimientoescolar" package="com.ambikon.seguimientoescolar" name="Seguimiento Escolar"/>
-  <icon drawable="@drawable/dg_settings" package="by4a.setedit22" name="SetEdit"/>
-  <icon drawable="@drawable/dg_smarty" package="com.zzkko" name="SHEIN"/>
-  <icon drawable="@drawable/dg_sim" package="com.android.stk2" name="SIM"/>
-  <icon drawable="@drawable/dg_sketch" package="com.sonymobile.sketch" name="Sketch"/>
-  <icon drawable="@drawable/dg_smash" package="com.smashco.smash" name="Smash"/>
-  <icon drawable="@drawable/dg_snapseed" package="com.niksoftware.snapseed2" name="Snapseed"/>
-  <icon drawable="@drawable/dg_snow" package="com.campmobile.snow" name="SNOW"/>
-  <icon drawable="@drawable/dg_microsoft_solitaire" package="com.easybrain.solitaire.klondike.free" name="Solitaire Klondike"/>
-  <icon drawable="@drawable/dg_sticker_maker" package="com.marsvard.stickermakerforwhatsapp" name="Sticker Maker"/>
-  <icon drawable="@drawable/dg_super_fowlst" package="com.thomasyoung.superfowlst" name="Super Fowlst"/>
-  <icon drawable="@drawable/dg_tapet" package="com.sharpregion.tapet" name="Tapet"/>
-  <icon drawable="@drawable/dg_taptap" package="com.taptap.global" name="TapTap"/>
-  <icon drawable="@drawable/dg_taskito" package="com.fenchtose.reflog" name="Taskito"/>
-  <icon drawable="@drawable/dg_telmex" package="com.telmex.mitelmex" name="Telmex"/>
-  <icon drawable="@drawable/dg_tgtowa" package="com.edasriyan.tgtowatransfer" name="Tg to WA"/>
-  <icon drawable="@drawable/dg_themes" package="com.samsung.android.themestore" name="Themes"/>
-  <icon drawable="@drawable/dg_themes" package="com.huawei.android.thememanager" name="Themes"/>
-  <icon drawable="@drawable/dg_themes" package="com.heytap.themestore" name="Themes"/>
-  <icon drawable="@drawable/dg_themex" package="com.redphx.themex" name="ThemeX"/>
-  <icon drawable="@drawable/dg_tiles" package="com.rascarlo.quick.settings.tiles" name="Tiles"/>
-  <icon drawable="@drawable/dg_titanium_backup" package="com.keramidas.TitaniumBackup" name="Titanium Backup"/>
-  <icon drawable="@drawable/dg_retouch" package="com.advasoft.touchretouch" name="Touch Retouch"/>
-  <icon drawable="@drawable/dg_user_land" package="tech.ula" name="User Land"/>
-  <icon drawable="@drawable/dg_v_live" package="com.naver.vapp" name="V Live"/>
-  <icon drawable="@drawable/dg_vertical_abstract_wallpapers" package="com.hexoline.verticalabstract" name="Vertical Abstract Wallpapers"/>
-  <icon drawable="@drawable/dg_vertical_wallpapers" package="com.hexoline.fwfgold" name="Vertical Wallpapers"/>
-  <icon drawable="@drawable/dg_youtube_music" package="com.coloros.video" name="Video Player"/>
-  <icon drawable="@drawable/dg_vimusic" package="it.vfsfitvnm.vimusic" name="ViMusic"/>
-  <icon drawable="@drawable/dg_vpnclientpro" package="it.colucciweb.vpnclientpro" name="VPN Client Pro"/>
-  <icon drawable="@drawable/dg_vn" package="com.frontrow.vlog" name="VN Video Editor"/>
-  <icon drawable="@drawable/dg_voice_rr" package="com.first75.voicerecorder2pro" name="Voice Recorder"/>
-  <icon drawable="@drawable/dg_wallcandy" package="in.wallpaper.wallpapers" name="WallCandy"/>
-  <icon drawable="@drawable/dg_wallique" package="dev.introdructor.walliquepro.app" name="Wallique+"/>
-  <icon drawable="@drawable/dg_wallsweets" package="com.lazr.wallsweets" name="WallSweets"/>
-  <icon drawable="@drawable/dg_wattpad" package="wp.wpbeta" name="Wattpad"/>
-  <icon drawable="@drawable/dg_wavy" package="wavy.walls.droidbeauty.pack" name="Wavy Walls"/>
-  <icon drawable="@drawable/dg_weather" package="com.coloros.weather2" name="Weather"/>
-  <icon drawable="@drawable/dg_weather" package="com.vivo.weather" name="Weather"/>
-  <icon drawable="@drawable/dg_weverse_shop" package="co.benx.weply" name="Weverse Shop"/>
-  <icon drawable="@drawable/dg_widget" package="uzuri.icarusap" name="Widget"/>
-  <icon drawable="@drawable/dg_wps" package="com.themausoft.wpsapp" name="WPSApp"/>
-  <icon drawable="@drawable/dg_wps_pdf" package="cn.wps.pdf" name="WPS PDF"/>
-  <icon drawable="@drawable/dg_xiaomi_sc" package="com.miui.miservice" name="Xiaomi SC"/>
-  <icon drawable="@drawable/dg_you_icons" package="com.jndapp.pastel.material.you.iconpack" name="You Icons"/>
-  <icon drawable="@drawable/dg_vanced_youtube_music" package="com.vanced.android.apps.youtube.music+" name="YouTube Music Vanced"/>
-  <icon drawable="@drawable/dg_zfont" package="com.htetznaing.zfont2" name="ZFont"/>
   <icon drawable="@drawable/arc_shell" package="in.ac.dducollegedu.shell" name="Shell"/>
   <icon drawable="@drawable/arc_shell" package="in.ac.dducollegedu.shell.MainActivity" name="Shell"/>
   <icon drawable="@drawable/arc_a_0h_h1" package="com.q42.ohhi.MainActivity" name="A_0h_h1"/>
@@ -2200,6 +2022,7 @@
   <icon drawable="@drawable/arc_acode" package="com.foxdebug.acodefree.MainActivity" name="Acode"/>
   <icon drawable="@drawable/arc_acorns" package="com.acorns.androic" name="Acorns"/>
   <icon drawable="@drawable/arc_acorns" package="com.acorns.android.splash.SplashActivity" name="Acorns"/>
+  <icon drawable="@drawable/arc_actiondash" package="com.actiondash.playstore" name="Actiondash"/>
   <icon drawable="@drawable/arc_actiondash" package="actiondash.MainActivity" name="Actiondash"/>
   <icon drawable="@drawable/arc_actionlauncher" package="com.actionlauncher.playstore" name="Actionlauncher"/>
   <icon drawable="@drawable/arc_actionlauncher" package="com.actionlauncher.ActionLauncherActivity" name="Actionlauncher"/>
@@ -2467,6 +2290,7 @@
   <icon drawable="@drawable/arc_anytype" package="com.anytypeio.anytype.ui.main.MainActivity" name="Anytype"/>
   <icon drawable="@drawable/arc_anyun_continuing_education" package="com.ay.aymobile" name="Anyun_continuing_education"/>
   <icon drawable="@drawable/arc_anyun_continuing_education" package="com.safeluck.schoolorder.ui.SplashActivity_" name="Anyun_continuing_education"/>
+  <icon drawable="@drawable/arc_anywhere" package="com.absinthe.anywhere_" name="Anywhere"/>
   <icon drawable="@drawable/arc_anywhere" package="com.absinthe.anywhere_.MainAliasActivity" name="Anywhere"/>
   <icon drawable="@drawable/arc_aodnotify" package="com.jamworks.aodnotificationledlight" name="Aodnotify"/>
   <icon drawable="@drawable/arc_aodnotify" package="com.jamworks.aodnotificationledlight.SettingsHome" name="Aodnotify"/>
@@ -2515,9 +2339,11 @@
   <icon drawable="@drawable/arc_appcloner" package="com.applisto.appcloner.activity.StartActivity" name="Appcloner"/>
   <icon drawable="@drawable/arc_appcloner" package="com.applisto.appcloner.premium.StartActivity" name="Appcloner"/>
   <icon drawable="@drawable/arc_appmanager" package="io.github.muntashirakon.AppManager.main.SplashActivity" name="Appmanager"/>
+  <icon drawable="@drawable/arc_appops" package="rikka.appops" name="Appops"/>
   <icon drawable="@drawable/arc_appops" package="rikka.appops.home.HomeActivity" name="Appops"/>
   <icon drawable="@drawable/arc_apptester" package="dev.firebase.appdistribution" name="Apptester"/>
   <icon drawable="@drawable/arc_apptester" package="dev.firebase.appdistribution.main.MainActivity" name="Apptester"/>
+  <icon drawable="@drawable/arc_aptoide" package="cm.aptoide.pt" name="Aptoide"/>
   <icon drawable="@drawable/arc_aptoide" package="cm.aptoide.pt.view.MainActivity" name="Aptoide"/>
   <icon drawable="@drawable/arc_aqua_mail" package="org.kman.AquaMail" name="Aqua_mail"/>
   <icon drawable="@drawable/arc_aqua_mail" package="org.kman.AquaMail.ui.AccountListActivity" name="Aqua_mail"/>
@@ -2565,6 +2391,7 @@
   <icon drawable="@drawable/arc_assembly_line" package="com.olympus.assemblyline" name="Assembly_line"/>
   <icon drawable="@drawable/arc_asteroidossync" package="org.asteroidos.sync" name="Asteroidossync"/>
   <icon drawable="@drawable/arc_asteroidossync" package="org.asteroidos.sync.PermissionsActivity" name="Asteroidossync"/>
+  <icon drawable="@drawable/arc_atlas_vpn" package="com.atlasvpn.free.android.proxy.secure" name="Atlas_vpn"/>
   <icon drawable="@drawable/arc_atlas_vpn" package="com.atlasvpn.free.android.proxy.secure.view.splash.SplashActivity" name="Atlas_vpn"/>
   <icon drawable="@drawable/arc_atmospherelogger" package="org.tamanegi.atmosphere" name="Atmospherelogger"/>
   <icon drawable="@drawable/arc_atmospherelogger" package="org.tamanegi.atmosphere.AtmosphereActivity" name="Atmospherelogger"/>
@@ -2659,6 +2486,7 @@
   <icon drawable="@drawable/arc_autoshare" package="com.joaomgcd.autoshare" name="Autoshare"/>
   <icon drawable="@drawable/arc_autoshare" package="com.joaomgcd.autoapps.ActivityLaunchApp" name="Autoshare"/>
   <icon drawable="@drawable/arc_autotagger" package="com.serg.chuprin.tageditor.app.main.view.MainActivity" name="Autotagger"/>
+  <icon drawable="@drawable/arc_automatag" package="com.fillobotto.mp3tagger" name="Automatag"/>
   <icon drawable="@drawable/arc_automatag" package="activities.MainActivity" name="Automatag"/>
   <icon drawable="@drawable/arc_automate" package="com.llamalab.automate" name="Automate"/>
   <icon drawable="@drawable/arc_automate" package="com.llamalab.automate.FlowListActivity" name="Automate"/>
@@ -2782,6 +2610,7 @@
   <icon drawable="@drawable/arc_bamowi" package="com.bytesculptor.bamowiplus.MainActivity" name="Bamowi"/>
   <icon drawable="@drawable/arc_bananakong" package="com.fdgentertainment.bananakong" name="Bananakong"/>
   <icon drawable="@drawable/arc_bananakong" package="com.prime31.UnityPlayerNativeActivity" name="Bananakong"/>
+  <icon drawable="@drawable/arc_banco_azteca" package="mx.com.bancoazteca.bazdigitalmovil" name="Banco_azteca"/>
   <icon drawable="@drawable/arc_banco_azteca" package="mx.com.bancoazteca.bancadigital.landing.presentation.view.LandingActivity" name="Banco_azteca"/>
   <icon drawable="@drawable/arc_bandlab" package="com.bandlab.navigation.entry.NavigationActivity" name="Bandlab"/>
   <icon drawable="@drawable/arc_bandcamp" package="com.bandcamp.android" name="Bandcamp"/>
@@ -2974,6 +2803,7 @@
   <icon drawable="@drawable/arc_simpledraw" package="notepad.note.notas.notes.notizen.main.SplashActivity" name="Simpledraw"/>
   <icon drawable="@drawable/arc_blackplayer" package="com.musicplayer.blackplayerfree" name="Blackplayer"/>
   <icon drawable="@drawable/arc_blackplayer" package="com.kodarkooperativet.blackplayerfree.activities.ViewPagerActivity" name="Blackplayer"/>
+  <icon drawable="@drawable/arc_blackplayer" package="com.kodarkooperativet.blackplayerex" name="Blackplayer"/>
   <icon drawable="@drawable/arc_blackplayer" package="com.kodarkooperativet.blackplayerex.activities.ViewPagerActivity" name="Blackplayer"/>
   <icon drawable="@drawable/arc_blackboard" package="com.blackboard.android.bbstudent.launch.LaunchActivityImpl" name="Blackboard"/>
   <icon drawable="@drawable/arc_blacklistblocker" package="com.kaliturin.blacklist" name="Blacklistblocker"/>
@@ -3085,6 +2915,7 @@
   <icon drawable="@drawable/arc_breathly" package="com.mmazzarolo.breathly.SplashActivity" name="Breathly"/>
   <icon drawable="@drawable/arc_letter_uppercase_b" package="com.jithware.brethap" name="Letter_uppercase_b"/>
   <icon drawable="@drawable/arc_letter_uppercase_b" package="com.jithware.brethap.MainActivity" name="Letter_uppercase_b"/>
+  <icon drawable="@drawable/arc_brevent" package="me.piebridge.brevent" name="Brevent"/>
   <icon drawable="@drawable/arc_brevent" package="me.piebridge.brevent.ui.BreventActivity" name="Brevent"/>
   <icon drawable="@drawable/arc_breviary" package="sk.breviar.android" name="Breviary"/>
   <icon drawable="@drawable/arc_breviary" package="sk.breviar.android.Breviar" name="Breviary"/>
@@ -3239,6 +3070,7 @@
   <icon drawable="@drawable/arc_calculator" package="com.sec.android.app.popupcalculator.Calculator" name="Calculator"/>
   <icon drawable="@drawable/arc_calculator" package="com.miui.calculator.cal.CalculatorActivity" name="Calculator"/>
   <icon drawable="@drawable/arc_calculator" package="com.android.bbkcalculator.Calculator" name="Calculator"/>
+  <icon drawable="@drawable/arc_calculator" package="com.coloros.calculator" name="Calculator"/>
   <icon drawable="@drawable/arc_calculator" package="com.cyb3rg0d.calculator" name="Calculator"/>
   <icon drawable="@drawable/arc_calculator" package="com.cyb3rg0d.calculator.MainActivity" name="Calculator"/>
   <icon drawable="@drawable/arc_calculator" package="com.sonymobile.exactcalculator" name="Calculator"/>
@@ -3336,6 +3168,7 @@
   <icon drawable="@drawable/arc_cameraconnect" package="jp.co.canon.ic.cameraconnect.top.CCTopActivity" name="Cameraconnect"/>
   <icon drawable="@drawable/arc_cameraremote" package="com.fujifilm_dsc.app.remoteshooter" name="Cameraremote"/>
   <icon drawable="@drawable/arc_cameraremote" package="com.fujifilm_dsc.app.remoteshooter.InitializeActivity" name="Cameraremote"/>
+  <icon drawable="@drawable/arc_cameraroll" package="us.koller.cameraroll" name="Cameraroll"/>
   <icon drawable="@drawable/arc_cameraroll" package="us.koller.cameraroll.ui.MainActivity" name="Cameraroll"/>
   <icon drawable="@drawable/arc_cameraroll" package="us.koller.cameraroll.debug" name="Cameraroll"/>
   <icon drawable="@drawable/arc_canadabusiness" package="ca.canada.isedisde.gcbusiness" name="Canadabusiness"/>
@@ -3650,6 +3483,7 @@
   <icon drawable="@drawable/arc_compass" package="com.vivo.compass" name="Compass"/>
   <icon drawable="@drawable/arc_compass" package="com.vivo.compass.CalibrationActivity" name="Compass"/>
   <icon drawable="@drawable/arc_compass" package="apps.r.compass.StartTheme.Black" name="Compass"/>
+  <icon drawable="@drawable/arc_compass" package="com.coloros.compass2" name="Compass"/>
   <icon drawable="@drawable/arc_compass" package="com.coloros.compass.flat.FlatCompass" name="Compass"/>
   <icon drawable="@drawable/arc_concentricclock" package="org.gringene.concentricclock" name="Concentricclock"/>
   <icon drawable="@drawable/arc_concentricclock" package="org.gringene.concentricclock.ClockActivity" name="Concentricclock"/>
@@ -3741,6 +3575,7 @@
   <icon drawable="@drawable/arc_crashontherun" package="com.king.crash.UnityMainActivity" name="Crashontherun"/>
   <icon drawable="@drawable/arc_crayon" package="com.jndapp.cartoon.crayon.iconpack" name="Crayon"/>
   <icon drawable="@drawable/arc_crayon" package="com.jndapp.cartoon.crayon.iconpack.MainActivity" name="Crayon"/>
+  <icon drawable="@drawable/arc_creativeapp" package="com.kubix.creative" name="Creativeapp"/>
   <icon drawable="@drawable/arc_creativeapp" package="com.kubix.creative.activity.IntroActivity" name="Creativeapp"/>
   <icon drawable="@drawable/arc_creator_studio" package="com.facebook.creatorstudio" name="Creator_studio"/>
   <icon drawable="@drawable/arc_creator_studio" package="com.facebook.creatorstudio.login.CreatorStudioLoginActivity" name="Creator_studio"/>
@@ -3787,6 +3622,7 @@
   <icon drawable="@drawable/arc_ctrl_c_programming_idle_game" package="com.amorfatite.pretentious.MainActivity" name="Ctrl_c_programming_idle_game"/>
   <icon drawable="@drawable/arc_cube_acr" package="com.catalinagroup.callrecorder" name="Cube_acr"/>
   <icon drawable="@drawable/arc_cube_acr" package="com.catalinagroup.callrecorder.AppListActivityAlias" name="Cube_acr"/>
+  <icon drawable="@drawable/arc_cube_escape" package="air.com.RustyLake.CubeEscapeCollection" name="Cube_escape"/>
   <icon drawable="@drawable/arc_cube_escape" package="air.com.RustyLake.CubeEscapeCollection.AppEntry" name="Cube_escape"/>
   <icon drawable="@drawable/arc_cuppa" package="com.nathanatos.Cuppa" name="Cuppa"/>
   <icon drawable="@drawable/arc_cuppa" package="com.nathanatos.Cuppa.MainActivity" name="Cuppa"/>
@@ -4149,6 +3985,7 @@
   <icon drawable="@drawable/arc_dodopizza" package="ru.dodopizza.app.presentation.splash.SplashActivity" name="Dodopizza"/>
   <icon drawable="@drawable/arc_dolby" package="com.dolby.daxappUI" name="Dolby"/>
   <icon drawable="@drawable/arc_dolby" package="com.dolby.daxappUI.MainActivity" name="Dolby"/>
+  <icon drawable="@drawable/arc_dolby" package="com.dolby.dolby234" name="Dolby"/>
   <icon drawable="@drawable/arc_dolby" package="com.dolby.sessions.Launcher" name="Dolby"/>
   <icon drawable="@drawable/arc_dolphinemulator" package="org.dolphinemu.dolphinemu" name="Dolphinemulator"/>
   <icon drawable="@drawable/arc_dolphinemulator" package="org.dolphinemu.dolphinemu.ui.main.MainActivity" name="Dolphinemulator"/>
@@ -4359,6 +4196,7 @@
   <icon drawable="@drawable/arc_eleven" package="com.ymber.eleven" name="Eleven"/>
   <icon drawable="@drawable/arc_eleven" package="com.ymber.eleven.ui.activities.HomeActivity" name="Eleven"/>
   <icon drawable="@drawable/arc_elisa" package="org.kde.elisa" name="Elisa"/>
+  <icon drawable="@drawable/arc_mail" package="com.android.email" name="Mail"/>
   <icon drawable="@drawable/arc_mail" package="com.android.email.activity.Welcome" name="Mail"/>
   <icon drawable="@drawable/arc_mail" package="org.dystopia.email" name="Mail"/>
   <icon drawable="@drawable/arc_mail" package="org.dystopia.email.ActivityMain" name="Mail"/>
@@ -4395,6 +4233,7 @@
   <icon drawable="@drawable/arc_enpass" package="io.enpass.app.SplashScreenActivity" name="Enpass"/>
   <icon drawable="@drawable/arc_enroute" package="de.akaflieg_freiburg.enroute" name="Enroute"/>
   <icon drawable="@drawable/arc_enroute" package="de.akaflieg_freiburg.enroute.MobileAdaptor" name="Enroute"/>
+  <icon drawable="@drawable/arc_entel" package="cl.entel.appswlsdesa" name="Entel"/>
   <icon drawable="@drawable/arc_entel" package="cl.entel.appswlsdesa.MainActivity" name="Entel"/>
   <icon drawable="@drawable/arc_episodes_two" package="com.redcoracle.episodes" name="Episodes_two"/>
   <icon drawable="@drawable/arc_episodes_two" package="com.redcoracle.episodes.MainActivity" name="Episodes_two"/>
@@ -4513,6 +4352,7 @@
   <icon drawable="@drawable/arc_fmiweather" package="fi.fmi.mobileweather.MainActivity" name="Fmiweather"/>
   <icon drawable="@drawable/arc_radio" package="com.android.fmradio.FmMainActivity" name="Radio"/>
   <icon drawable="@drawable/arc_radio" package="com.caf.fmradio.FMRadio" name="Radio"/>
+  <icon drawable="@drawable/arc_radio" package="com.huawei.android.FMRadio" name="Radio"/>
   <icon drawable="@drawable/arc_radio" package="com.huawei.android.FMRadio.FMRadioMainActivity" name="Radio"/>
   <icon drawable="@drawable/arc_radio" package="com.motorola.fmplayer.ChangeThemeActivity" name="Radio"/>
   <icon drawable="@drawable/arc_radio" package="com.miui.fmradio.FmActivity" name="Radio"/>
@@ -4593,7 +4433,9 @@
   <icon drawable="@drawable/arc_feedwatcher" package="me.murks.feedwatcher.activities.OverviewActivity" name="Feedwatcher"/>
   <icon drawable="@drawable/arc_feedback" package="com.miui.bugreport" name="Feedback"/>
   <icon drawable="@drawable/arc_feedback" package="com.miui.bugreport.ui.MainTabActivity" name="Feedback"/>
+  <icon drawable="@drawable/arc_feedback" package="com.miui.miservice" name="Feedback"/>
   <icon drawable="@drawable/arc_feedback" package="com.miui.miservice.main.MainActivity" name="Feedback"/>
+  <icon drawable="@drawable/arc_feedback" package="com.huawei.phoneservice" name="Feedback"/>
   <icon drawable="@drawable/arc_feedback" package="com.huawei.phoneservice.LaunchActivity" name="Feedback"/>
   <icon drawable="@drawable/arc_feedback" package="com.motorola.genie" name="Feedback"/>
   <icon drawable="@drawable/arc_feedback" package="com.motorola.genie.app.DashboardActivity" name="Feedback"/>
@@ -4648,6 +4490,7 @@
   <icon drawable="@drawable/arc_files" package="com.oneplus.filemanager.HomePageActivity" name="Files"/>
   <icon drawable="@drawable/arc_files" package="com.android.fileexplorer.FileExplorerTabActivity" name="Files"/>
   <icon drawable="@drawable/arc_files" package="com.android.filemanager.FileManagerActivity" name="Files"/>
+  <icon drawable="@drawable/arc_files" package="com.coloros.filemanager" name="Files"/>
   <icon drawable="@drawable/arc_files" package="com.coloros.filemanager.filerefactor.ui.main.MainActivity" name="Files"/>
   <icon drawable="@drawable/arc_files" package="com.oplus.filemanager.main.ui.MainActivity" name="Files"/>
   <icon drawable="@drawable/arc_files" package="com.lge.filemanager" name="Files"/>
@@ -4681,6 +4524,7 @@
   <icon drawable="@drawable/arc_findroid" package="dev.jdtech.jellyfin" name="Findroid"/>
   <icon drawable="@drawable/arc_findroid" package="dev.jdtech.jellyfin.MainActivity" name="Findroid"/>
   <icon drawable="@drawable/arc_finddevice" package="com.google.android.apps.adm.activities.MainActivity" name="Finddevice"/>
+  <icon drawable="@drawable/arc_fine_lock" package="yuh.yuh.finelock" name="Fine_lock"/>
   <icon drawable="@drawable/arc_fine_lock" package="yuh.yuh.finelock.M" name="Fine_lock"/>
   <icon drawable="@drawable/arc_fing" package="com.overlook.android.fing" name="Fing"/>
   <icon drawable="@drawable/arc_fing" package="com.overlook.android.fing.ui.main.SplashActivity" name="Fing"/>
@@ -4777,6 +4621,7 @@
   <icon drawable="@drawable/arc_flud" package="com.delphicoder.flud.MainActivity" name="Flud"/>
   <icon drawable="@drawable/arc_fluentreader" package="me.hyliu.fluent_reader_lite" name="Fluentreader"/>
   <icon drawable="@drawable/arc_fluentreader" package="me.hyliu.fluent_reader_lite.MainActivity" name="Fluentreader"/>
+  <icon drawable="@drawable/arc_fluffychat" package="chat.fluffy.fluffychat" name="Fluffychat"/>
   <icon drawable="@drawable/arc_fluffychat" package="chat.fluffy.fluffychat.MainActivity" name="Fluffychat"/>
   <icon drawable="@drawable/arc_fluid_ng" package="com.fb.fluid.ui.ActivitySettings" name="Fluid_ng"/>
   <icon drawable="@drawable/arc_flutterhole" package="sterrenburg.github.flutterhole" name="Flutterhole"/>
@@ -4825,6 +4670,7 @@
   <icon drawable="@drawable/arc_formula_1" package="com.softpauer.f1timingapp2014.basic" name="Formula_1"/>
   <icon drawable="@drawable/arc_formula_1" package="com.formula1.base.MainActivity" name="Formula_1"/>
   <icon drawable="@drawable/arc_formula_1" package="com.codemasters.F1Mobile" name="Formula_1"/>
+  <icon drawable="@drawable/arc_formulia" package="m4.enginary" name="Formulia"/>
   <icon drawable="@drawable/arc_formulia" package="m4.enginary.MainActivity" name="Formulia"/>
   <icon drawable="@drawable/arc_fortuneo" package="com.fortuneo.android" name="Fortuneo"/>
   <icon drawable="@drawable/arc_fortuneo" package="com.fortuneo.android.activities.SplashScreenActivity" name="Fortuneo"/>
@@ -4867,6 +4713,7 @@
   <icon drawable="@drawable/arc_freebox2" package="fr.freebox.android.compagnon" name="Freebox2"/>
   <icon drawable="@drawable/arc_freebox2" package="fr.freebox.android.compagnon.MainFreeboxActivityLauncher" name="Freebox2"/>
   <icon drawable="@drawable/arc_freebox" package="fr.freebox.android.compagnon.MainFreeboxActivity" name="Freebox"/>
+  <icon drawable="@drawable/arc_freecharge" package="com.freecharge.android" name="Freecharge"/>
   <icon drawable="@drawable/arc_freecharge" package="com.freecharge.activities.splash.SplashActivity" name="Freecharge"/>
   <icon drawable="@drawable/arc_freedombox" package="org.freedombox.freedombox" name="Freedombox"/>
   <icon drawable="@drawable/arc_freedombox" package="org.freedombox.freedombox.views.activities.MainActivity" name="Freedombox"/>
@@ -4990,6 +4837,7 @@
   <icon drawable="@drawable/arc_galaxyinvaders" package="com.alienshooter.galaxy.attack2" name="Galaxyinvaders"/>
   <icon drawable="@drawable/arc_galaxystore" package="com.sec.android.app.samsungapps.SamsungAppsMainActivity" name="Galaxystore"/>
   <icon drawable="@drawable/arc_galaxystore" package="com.sec.android.app.samsungapps.SKSamsungMainActivity" name="Galaxystore"/>
+  <icon drawable="@drawable/arc_galaxy_themes" package="com.samsung.android.themestore" name="Galaxy_themes"/>
   <icon drawable="@drawable/arc_galaxy_themes" package="com.samsung.android.themestore.activity.Launcher" name="Galaxy_themes"/>
   <icon drawable="@drawable/arc_galaxywearable" package="com.samsung.android.app.watchmanager.setupwizard.SetupWizardWelcomeActivity" name="Galaxywearable"/>
   <icon drawable="@drawable/arc_gallery" package="com.miui.gallery.activity.HomePageActivity" name="Gallery"/>
@@ -5002,6 +4850,7 @@
   <icon drawable="@drawable/arc_gallery" package="com.alensw.PicFolder.GalleryActivity" name="Gallery"/>
   <icon drawable="@drawable/arc_gallery" package="com.google.android.apps.photosgo.home.HomeActivity" name="Gallery"/>
   <icon drawable="@drawable/arc_gallery" package="com.android.gallery3d.vivo.GalleryTabActivity" name="Gallery"/>
+  <icon drawable="@drawable/arc_gallery" package="com.coloros.gallery3d" name="Gallery"/>
   <icon drawable="@drawable/arc_gallery" package="com.coloros.gallery3d.app.MainActivity" name="Gallery"/>
   <icon drawable="@drawable/arc_gallery" package="com.android.gallery3d.app.Gallery" name="Gallery"/>
   <icon drawable="@drawable/arc_gallery" package="com.asus.gallery.app.EPhotoActivity" name="Gallery"/>
@@ -5424,6 +5273,7 @@
   <icon drawable="@drawable/arc_huawei_appmarket" package="com.huawei.appmarket.MainActivity" name="Huawei_appmarket"/>
   <icon drawable="@drawable/arc_huawei_assistant" package="com.huawei.vassistant" name="Huawei_assistant"/>
   <icon drawable="@drawable/arc_huawei_assistant" package="com.huawei.vassistant.ui.main.VAssistantActivity" name="Huawei_assistant"/>
+  <icon drawable="@drawable/arc_huawei_browser" package="com.huawei.browser" name="Huawei_browser"/>
   <icon drawable="@drawable/arc_huawei_browser" package="com.huawei.browser.Main2" name="Huawei_browser"/>
   <icon drawable="@drawable/arc_huawei_calculator" package="com.huawei.calculator" name="Huawei_calculator"/>
   <icon drawable="@drawable/arc_huawei_calculator" package="com.huawei.calculator.Calculator" name="Huawei_calculator"/>
@@ -5469,7 +5319,9 @@
   <icon drawable="@drawable/arc_huawei_smartphone" package="com.huawei.smarthome.login.LauncherActivity" name="Huawei_smartphone"/>
   <icon drawable="@drawable/arc_huawei_soundrecorder" package="com.huawei.soundrecorder" name="Huawei_soundrecorder"/>
   <icon drawable="@drawable/arc_huawei_soundrecorder" package="com.android.soundrecorder.RecordListActivity" name="Huawei_soundrecorder"/>
+  <icon drawable="@drawable/arc_huaweisystemmanager" package="com.huawei.systemmanager" name="Huaweisystemmanager"/>
   <icon drawable="@drawable/arc_huaweisystemmanager" package="com.huawei.systemmanager.mainscreen.MainScreenActivity" name="Huaweisystemmanager"/>
+  <icon drawable="@drawable/arc_huawei_system_update" package="com.huawei.android.hwouc" name="Huawei_system_update"/>
   <icon drawable="@drawable/arc_huawei_system_update" package="com.huawei.android.hwouc.ui.activities.MainEntranceActivity" name="Huawei_system_update"/>
   <icon drawable="@drawable/arc_huawei_tips" package="com.huawei.android.tips" name="Huawei_tips"/>
   <icon drawable="@drawable/arc_huawei_tips" package="com.huawei.android.tips.launch.ui.SplashActivity" name="Huawei_tips"/>
@@ -5486,6 +5338,7 @@
   <icon drawable="@drawable/arc_hue_bt" package="com.signify.hue.hueblueapp.MainActivity" name="Hue_bt"/>
   <icon drawable="@drawable/arc_hulu" package="com.hulu.plus" name="Hulu"/>
   <icon drawable="@drawable/arc_hulu" package="com.hulu.features.splash.SplashActivity" name="Hulu"/>
+  <icon drawable="@drawable/arc_huntington" package="com.huntington.m" name="Huntington"/>
   <icon drawable="@drawable/arc_huntington" package="com.huntington.mobile.mobile.MainActivity" name="Huntington"/>
   <icon drawable="@drawable/arc_hushed" package="com.hushed.release" name="Hushed"/>
   <icon drawable="@drawable/arc_hushed" package="com.hushed.base.landing.SplashActivity" name="Hushed"/>
@@ -5591,6 +5444,7 @@
   <icon drawable="@drawable/arc_icecat" package="org.gnu.icecat" name="Icecat"/>
   <icon drawable="@drawable/arc_icecat" package="org.gnu.icecat.App" name="Icecat"/>
   <icon drawable="@drawable/arc_iceraven" package="io.github.forkmaintainers.iceraven.App" name="Iceraven"/>
+  <icon drawable="@drawable/arc_icebox" package="com.catchingnow.icebox" name="Icebox"/>
   <icon drawable="@drawable/arc_icebox" package="com.catchingnow.icebox.activity.mainActivity.MainAppActivity" name="Icebox"/>
   <icon drawable="@drawable/arc_ichaival" package="com.utazukin.ichaival" name="Ichaival"/>
   <icon drawable="@drawable/arc_ichaival" package="com.utazukin.ichaival.ArchiveList" name="Ichaival"/>
@@ -5772,11 +5626,13 @@
   <icon drawable="@drawable/arc_jiojoin" package="com.jio.jse" name="Jiojoin"/>
   <icon drawable="@drawable/arc_jiojoin" package="com.jio.jse.mobile.ui.activity.SplashScreenActivity" name="Jiojoin"/>
   <icon drawable="@drawable/arc_jiosaavn" package="com.jio.media.mobile.apps.jiobeats.splash.SplashScreen" name="Jiosaavn"/>
+  <icon drawable="@drawable/arc_jiotv" package="com.jio.jioplay.tv" name="Jiotv"/>
   <icon drawable="@drawable/arc_jiotv" package="com.jio.media.tv.ui.permission_onboarding.PermissionActivity" name="Jiotv"/>
   <icon drawable="@drawable/arc_jira" package="com.atlassian.android.jira.core" name="Jira"/>
   <icon drawable="@drawable/arc_jira" package="com.atlassian.android.jira.core.app.LauncherActivity" name="Jira"/>
   <icon drawable="@drawable/arc_jitsimeet" package="org.jitsi.meet" name="Jitsimeet"/>
   <icon drawable="@drawable/arc_jitsimeet" package="org.jitsi.meet.MainActivity" name="Jitsimeet"/>
+  <icon drawable="@drawable/arc_joey" package="o.o.joey" name="Joey"/>
   <icon drawable="@drawable/arc_joey" package="o.o.joey.Activities.HomeActivity" name="Joey"/>
   <icon drawable="@drawable/arc_joiplay" package="cyou.joiplay.joiplay" name="Joiplay"/>
   <icon drawable="@drawable/arc_joiplay" package="cyou.joiplay.joiplay.activities.SplashActivity" name="Joiplay"/>
@@ -6182,6 +6038,7 @@
   <icon drawable="@drawable/arc_libremsocial" package="one.librem.social" name="Libremsocial"/>
   <icon drawable="@drawable/arc_libremtunnel" package="one.librem.tunnel" name="Libremtunnel"/>
   <icon drawable="@drawable/arc_libremtunnel" package="de.blinkt.openvpn.activities.MainActivity" name="Libremtunnel"/>
+  <icon drawable="@drawable/arc_librerapro" package="com.foobnix.pro.pdf.reader" name="Librerapro"/>
   <icon drawable="@drawable/arc_librerapro" package="com.foobnix.ui2.MainTabs2" name="Librerapro"/>
   <icon drawable="@drawable/arc_librerapro" package="com.foobnix.pdf.reader" name="Librerapro"/>
   <icon drawable="@drawable/arc_libretorrent" package="org.proninyaroslav.libretorrent.MainActivity" name="Libretorrent"/>
@@ -6223,6 +6080,7 @@
   <icon drawable="@drawable/arc_lime" package="com.limebike.launcher.LauncherActivity" name="Lime"/>
   <icon drawable="@drawable/arc_linshare" package="com.linagora.android.linshare" name="Linshare"/>
   <icon drawable="@drawable/arc_linshare" package="com.linagora.flutter.linshare_flutter_app.MainActivity" name="Linshare"/>
+  <icon drawable="@drawable/arc_linex" package="com.jndapp.line.x.iconpack" name="Linex"/>
   <icon drawable="@drawable/arc_linex" package="com.jndapp.line.x.iconpack.MainActivity" name="Linex"/>
   <icon drawable="@drawable/arc_linex" package="com.jndapp.line.neon.iconpack" name="Linex"/>
   <icon drawable="@drawable/arc_linex" package="com.jndapp.line.neon.iconpack.MainActivity" name="Linex"/>
@@ -6860,7 +6718,9 @@
   <icon drawable="@drawable/arc_motonotifications" package="com.motorola.engageapp.ui.EngageActivity" name="Motonotifications"/>
   <icon drawable="@drawable/arc_motonotifications" package="com.motorola.engageapp.ui.CardsActivity" name="Motonotifications"/>
   <icon drawable="@drawable/arc_motonotifications" package="com.motorola.engageapp.ui.MotoplaceActivity" name="Motonotifications"/>
+  <icon drawable="@drawable/arc_moto" package="com.motorola.moto" name="Moto"/>
   <icon drawable="@drawable/arc_moto" package="com.motorola.assist.ui.screens.MainActivity" name="Moto"/>
+  <icon drawable="@drawable/arc_motoaudio" package="com.motorola.dolby.dolbyui" name="Motoaudio"/>
   <icon drawable="@drawable/arc_motoaudio" package="com.motorola.dolby.dolbyui.ui.welcome.WelcomeActivity" name="Motoaudio"/>
   <icon drawable="@drawable/arc_feedback" package="com.motorola.genie.main.start.LaunchActivity" name="Feedback"/>
   <icon drawable="@drawable/arc_motomarket" package="com.motorola.modstore" name="Motomarket"/>
@@ -6918,6 +6778,7 @@
   <icon drawable="@drawable/arc_letter_uppercase_m" package="paulscode.android.mupen64plusae.SplashActivity" name="Letter_uppercase_m"/>
   <icon drawable="@drawable/arc_letter_uppercase_m" package="paulscode.android.mupen64plusae" name="Letter_uppercase_m"/>
   <icon drawable="@drawable/arc_letter_uppercase_m" package="paulscode.android.mupen64plusae.MainActivity" name="Letter_uppercase_m"/>
+  <icon drawable="@drawable/arc_musescore" package="com.musescore.playerlite" name="Musescore"/>
   <icon drawable="@drawable/arc_musicbrainz" package="org.metabrainz.android" name="Musicbrainz"/>
   <icon drawable="@drawable/arc_musicbrainz" package="org.metabrainz.mobile.presentation.features.splash_screen.SplashActivity" name="Musicbrainz"/>
   <icon drawable="@drawable/arc_musicbrainz" package="org.metabrainz.android.presentation.features.splash_screen.SplashActivity" name="Musicbrainz"/>
@@ -6930,6 +6791,7 @@
   <icon drawable="@drawable/arc_music" package="code.name.monkey.retromusic.ui.activities.MainActivity" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.cyanogenmod.eleven" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.cyanogenmod.eleven.ui.activities.HomeActivity" name="Music"/>
+  <icon drawable="@drawable/arc_music" package="com.android.mediacenter" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.sonyericsson.music.MusicActivity" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.crdroid.music" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.kabouzeid.gramophone.ui.activities.MainActivity" name="Music"/>
@@ -6951,6 +6813,7 @@
   <icon drawable="@drawable/arc_music" package="com.zionhuang.music.ui.activities.MainActivity" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.droidheat.musicplayer" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.droidheat.musicplayer.ui.activities.SplashActivity" name="Music"/>
+  <icon drawable="@drawable/arc_music" package="com.oppo.music" name="Music"/>
   <icon drawable="@drawable/arc_music" package="com.oppo.music.MainListActivity" name="Music"/>
   <icon drawable="@drawable/arc_music_editor" package="com.fragileheart.mp3editor" name="Music_editor"/>
   <icon drawable="@drawable/arc_music_editor" package="com.fragileheart.mp3editor.activity.SplashActivity" name="Music_editor"/>
@@ -7964,6 +7827,7 @@
   <icon drawable="@drawable/arc_phone" package="com.orange.phone" name="Phone"/>
   <icon drawable="@drawable/arc_phone" package="com.orange.phone.DialtactsActivity" name="Phone"/>
   <icon drawable="@drawable/arc_phone" package="com.tct.dialer" name="Phone"/>
+  <icon drawable="@drawable/arc_phone_manager" package="com.coloros.phonemanager" name="Phone_manager"/>
   <icon drawable="@drawable/arc_phone_manager" package="com.coloros.phonemanager.FakeActivity" name="Phone_manager"/>
   <icon drawable="@drawable/arc_phonesaver" package="link.standen.michael.phonesaver" name="Phonesaver"/>
   <icon drawable="@drawable/arc_phonesaver" package="link.standen.michael.phonesaver.activity.FolderListActivity" name="Phonesaver"/>
@@ -8497,6 +8361,7 @@
   <icon drawable="@drawable/arc_recorder" package="com.coolncoolapps.easyvoicerecorder" name="Recorder"/>
   <icon drawable="@drawable/arc_recorder" package="com.coolncoolapps.secretsoundrecorderhd.activities.MainActivity" name="Recorder"/>
   <icon drawable="@drawable/arc_recorder" package="com.asus.soundrecorder.AsusRecorder" name="Recorder"/>
+  <icon drawable="@drawable/arc_recorder" package="com.coloros.soundrecorder" name="Recorder"/>
   <icon drawable="@drawable/arc_recorder" package="oppo.multimedia.soundrecorder.filebrowser.BrowseFile" name="Recorder"/>
   <icon drawable="@drawable/arc_recurrence" package="com.bleyl.recurrence" name="Recurrence"/>
   <icon drawable="@drawable/arc_recurrence" package="com.bleyl.recurrence.activities.MainActivity" name="Recurrence"/>
@@ -8537,6 +8402,7 @@
   <icon drawable="@drawable/arc_rekola" package="cz.rekola.app" name="Rekola"/>
   <icon drawable="@drawable/arc_rekola" package="cz.rekola.app.MainActivity" name="Rekola"/>
   <icon drawable="@drawable/arc_relayreddit" package="reddit.news.RedditNavigation" name="Relayreddit"/>
+  <icon drawable="@drawable/arc_reminder" package="com.samsung.android.app.reminder" name="Reminder"/>
   <icon drawable="@drawable/arc_reminder" package="com.samsung.android.app.reminder.ui.LaunchMainActivity" name="Reminder"/>
   <icon drawable="@drawable/arc_remind" package="com.remind101" name="Remind"/>
   <icon drawable="@drawable/arc_remind" package="com.remind101.splash.SplashActivity" name="Remind"/>
@@ -8653,6 +8519,7 @@
   <icon drawable="@drawable/arc_rust" package="com.facepunch.rust.companion" name="Rust"/>
   <icon drawable="@drawable/arc_rustdesk" package="com.carriez.flutter_hbb" name="Rustdesk"/>
   <icon drawable="@drawable/arc_rustdesk" package="com.carriez.flutter_hbb.MainActivity" name="Rustdesk"/>
+  <icon drawable="@drawable/arc_ruthlesssettings" package="shubh.ruthless" name="Ruthlesssettings"/>
   <icon drawable="@drawable/arc_ruthlesssettings" package="amirz.shade.ShadeSettings" name="Ruthlesssettings"/>
   <icon drawable="@drawable/arc_ruuvistation" package="com.ruuvi.station" name="Ruuvistation"/>
   <icon drawable="@drawable/arc_ruuvistation" package="com.ruuvi.station.startup.ui.StartupActivity" name="Ruuvistation"/>
@@ -8747,7 +8614,9 @@
   <icon drawable="@drawable/arc_samsung_health" package="com.samsung.android.app.shealth.home.HomeMainActivity" name="Samsung_health"/>
   <icon drawable="@drawable/arc_samsung_health_monitor" package="com.samsung.android.shealthmonitors" name="Samsung_health_monitor"/>
   <icon drawable="@drawable/arc_samsung_health_monitor" package="com.samsung.android.shealthmonitor.ui.activity.MainActivity" name="Samsung_health_monitor"/>
+  <icon drawable="@drawable/arc_samsung_max" package="com.opera.max.oem" name="Samsung_max"/>
   <icon drawable="@drawable/arc_samsung_max" package="com.opera.max.ui.v2.MainActivity" name="Samsung_max"/>
+  <icon drawable="@drawable/arc_samsung_members" package="com.samsung.android.voc" name="Samsung_members"/>
   <icon drawable="@drawable/arc_samsung_members" package="com.samsung.android.voc.LauncherActivity" name="Samsung_members"/>
   <icon drawable="@drawable/arc_samsung_music" package="com.sec.android.app.music.common.activity.MusicMainActivity" name="Samsung_music"/>
   <icon drawable="@drawable/arc_samsungpass" package="com.samsung.android.samsungpass" name="Samsungpass"/>
@@ -8849,6 +8718,7 @@
   <icon drawable="@drawable/arc_secure_box" package="com.momentolabs.app.security.applocker.ui.main.MainActivity" name="Secure_box"/>
   <icon drawable="@drawable/arc_securefolder" package="com.samsung.knox.securefolder" name="Securefolder"/>
   <icon drawable="@drawable/arc_securefolder" package="com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity" name="Securefolder"/>
+  <icon drawable="@drawable/arc_security" package="com.miui.securitycenter" name="Security"/>
   <icon drawable="@drawable/arc_security" package="com.miui.securityscan.MainActivity" name="Security"/>
   <icon drawable="@drawable/arc_secur" package="com.u2fa.secur" name="Secur"/>
   <icon drawable="@drawable/arc_secur" package="com.u2fa.secur.MainActivity" name="Secur"/>
@@ -8917,6 +8787,7 @@
   <icon drawable="@drawable/arc_settings" package="m.sefc" name="Settings"/>
   <icon drawable="@drawable/arc_settings" package="e.s" name="Settings"/>
   <icon drawable="@drawable/arc_settings" package="com.oppo.settings.SettingsActivity" name="Settings"/>
+  <icon drawable="@drawable/arc_set_edit" package="by4a.setedit22" name="Set_edit"/>
   <icon drawable="@drawable/arc_set_edit" package="by4a.setedit.EditorActivity" name="Set_edit"/>
   <icon drawable="@drawable/arc_number_7" package="se.perigee.android.seven" name="Number_7"/>
   <icon drawable="@drawable/arc_number_7" package="com.perigee.seven.ui.activity.SplashActivity" name="Number_7"/>
@@ -9666,6 +9537,7 @@
   <icon drawable="@drawable/arc_sipnetic" package="app.sipcomm.phone.OnboardingActivity" name="Sipnetic"/>
   <icon drawable="@drawable/arc_sketchbook" package="com.adsk.sketchbook" name="Sketchbook"/>
   <icon drawable="@drawable/arc_sketchbook" package="com.adsk.sketchbook.SketchBook" name="Sketchbook"/>
+  <icon drawable="@drawable/arc_sketch" package="com.sonymobile.sketch" name="Sketch"/>
   <icon drawable="@drawable/arc_sketch" package="com.sonymobile.sketch.dashboard.DashboardActivity" name="Sketch"/>
   <icon drawable="@drawable/arc_skilter" package="com.mobil80.skilter" name="Skilter"/>
   <icon drawable="@drawable/arc_skilter" package="com.mobil80.skilter.activities.SplashScreen" name="Skilter"/>
@@ -10302,9 +10174,11 @@
   <icon drawable="@drawable/arc_thalia" package="eu.thalia.app.ui.appstart.BootActivity" name="Thalia"/>
   <icon drawable="@drawable/arc_themes" package="org.cyanogenmod.theme.chooser" name="Themes"/>
   <icon drawable="@drawable/arc_themes" package="org.cyanogenmod.theme.chooser.ChooserActivity" name="Themes"/>
+  <icon drawable="@drawable/arc_themes" package="com.huawei.android.thememanager" name="Themes"/>
   <icon drawable="@drawable/arc_themes" package="com.huawei.android.thememanager.HwThemeManagerActivity" name="Themes"/>
   <icon drawable="@drawable/arc_themes" package="com.android.thememanager.ThemeResourceTabActivity" name="Themes"/>
   <icon drawable="@drawable/arc_themes" package="com.huawei.android.thememanager.mvp.view.activity.onlinebase.PageActivity" name="Themes"/>
+  <icon drawable="@drawable/arc_theme_store" package="com.heytap.themestore" name="Theme_store"/>
   <icon drawable="@drawable/arc_theme_store" package="com.nearme.themespace.activities.ThemeActivity" name="Theme_store"/>
   <icon drawable="@drawable/arc_therapeer" package="app.therapeer" name="Therapeer"/>
   <icon drawable="@drawable/arc_thermoworks" package="com.tworks.thermoworks_app" name="Thermoworks"/>
@@ -10407,6 +10281,7 @@
   <icon drawable="@drawable/arc_lightbulb" package="com.samsung.android.app.tips.TipsMainActivity" name="Lightbulb"/>
   <icon drawable="@drawable/arc_tisseo" package="fr.tisseo.android" name="Tisseo"/>
   <icon drawable="@drawable/arc_tisseo" package="fr.tisseo.android.activity.SplashScreenActivity" name="Tisseo"/>
+  <icon drawable="@drawable/arc_tibackup" package="com.keramidas.TitaniumBackup" name="Tibackup"/>
   <icon drawable="@drawable/arc_tibackup" package="com.keramidas.TitaniumBackup.MainActivity" name="Tibackup"/>
   <icon drawable="@drawable/arc_tlajoapp" package="com.radmas.iyc.tlajomulco.mx" name="Tlajoapp"/>
   <icon drawable="@drawable/arc_tlajoapp" package="com.radmas.android_base.LauncherActivity" name="Tlajoapp"/>
@@ -10792,6 +10667,7 @@
   <icon drawable="@drawable/arc_url_forwarder" package="net.daverix.urlforward.FiltersActivity" name="Url_forwarder"/>
   <icon drawable="@drawable/arc_usagedirect" package="godau.fynn.usagedirect" name="Usagedirect"/>
   <icon drawable="@drawable/arc_usagedirect" package="godau.fynn.usagedirect.AppUsageStatisticsActivity" name="Usagedirect"/>
+  <icon drawable="@drawable/arc_userland" package="tech.ula" name="Userland"/>
   <icon drawable="@drawable/arc_userland" package="tech.ula.MainActivity" name="Userland"/>
   <icon drawable="@drawable/arc_userland" package="tech.ula.library.MainActivity" name="Userland"/>
   <icon drawable="@drawable/arc_jsupdater" package="de.reckendrees.systems.userjsupdater" name="Jsupdater"/>
@@ -10845,6 +10721,7 @@
   <icon drawable="@drawable/arc_valetudocompanion" package="cloud.valetudo.companion.MainActivity" name="Valetudocompanion"/>
   <icon drawable="@drawable/arc_vancedmanager" package="com.vanced.manager.ui.core.SplashScreenActivity" name="Vancedmanager"/>
   <icon drawable="@drawable/arc_vancedmanager" package="com.vanced.manager.ui.SplashScreenActivity" name="Vancedmanager"/>
+  <icon drawable="@drawable/arc_vancedmicrogsettings" package="com.mgoogle.android.gms" name="Vancedmicrogsettings"/>
   <icon drawable="@drawable/arc_vanillamusic" package="ch.blinkenlights.android.vanilla" name="Vanillamusic"/>
   <icon drawable="@drawable/arc_vanillamusic" package="ch.blinkenlights.android.vanilla.LibraryActivity" name="Vanillamusic"/>
   <icon drawable="@drawable/arc_varobank" package="com.varomoney.bank" name="Varobank"/>
@@ -10881,6 +10758,7 @@
   <icon drawable="@drawable/arc_vespucci" package="de.blau.android.Splash" name="Vespucci"/>
   <icon drawable="@drawable/arc_vicare" package="com.viessmann.vicare" name="Vicare"/>
   <icon drawable="@drawable/arc_vicare" package="com.viessmann.vicare.mobile.login.LoginActivity" name="Vicare"/>
+  <icon drawable="@drawable/arc_vimusic" package="it.vfsfitvnm.vimusic" name="Vimusic"/>
   <icon drawable="@drawable/arc_vimusic" package="it.vfsfitvnm.vimusic.MainActivity" name="Vimusic"/>
   <icon drawable="@drawable/arc_vianavigo" package="com.is.android.views._start.StartFlowActivity" name="Vianavigo"/>
   <icon drawable="@drawable/arc_viaplay" package="com.viaplay.android" name="Viaplay"/>
@@ -10898,6 +10776,7 @@
   <icon drawable="@drawable/arc_mediaplayer" package="com.rahul.videoderbeta.appinit.ActivityInitLoader" name="Mediaplayer"/>
   <icon drawable="@drawable/arc_videoland" package="nl.rtl.videoland" name="Videoland"/>
   <icon drawable="@drawable/arc_videoland" package="nl.rtl.videoland.ui.onboarding.OnboardingActivity" name="Videoland"/>
+  <icon drawable="@drawable/arc_mediaplayer" package="com.coloros.video" name="Mediaplayer"/>
   <icon drawable="@drawable/arc_mediaplayer" package="com.oplus.video.SplashActivity" name="Mediaplayer"/>
   <icon drawable="@drawable/arc_videotvsideview" package="com.sony.tvsideview.phone" name="Videotvsideview"/>
   <icon drawable="@drawable/arc_videotvsideview" package="com.sony.tvsideview.MainActivity" name="Videotvsideview"/>
@@ -11073,7 +10952,9 @@
   <icon drawable="@drawable/arc_weather" package="com.miui.weather2.ActivityWeatherMain" name="Weather"/>
   <icon drawable="@drawable/arc_weather" package="com.huawei.android.totemweather" name="Weather"/>
   <icon drawable="@drawable/arc_weather" package="com.huawei.android.totemweather.WeatherHome" name="Weather"/>
+  <icon drawable="@drawable/arc_weather" package="com.vivo.weather" name="Weather"/>
   <icon drawable="@drawable/arc_weather" package="com.vivo.weather.WeatherMain" name="Weather"/>
+  <icon drawable="@drawable/arc_weather" package="com.coloros.weather2" name="Weather"/>
   <icon drawable="@drawable/arc_weather" package="com.coloros.weather.main.view.WeatherMainActivity" name="Weather"/>
   <icon drawable="@drawable/arc_weather" package="com.samruston.weather" name="Weather"/>
   <icon drawable="@drawable/arc_weather" package="com.samruston.weather.ui.MainActivity" name="Weather"/>
@@ -11371,6 +11252,7 @@
   <icon drawable="@drawable/arc_zee5" package="com.zee5.splash.SplashActivity" name="Zee5"/>
   <icon drawable="@drawable/arc_zencom" package="com.zen.application" name="Zencom"/>
   <icon drawable="@drawable/arc_zencom" package="com.codequest.zen.presentation.features.entrypoint.EntryPointActivity" name="Zencom"/>
+  <icon drawable="@drawable/arc_zfont" package="com.htetznaing.zfont2" name="Zfont"/>
   <icon drawable="@drawable/arc_zfont" package="com.htetznaing.zfont2.UI.SplashActivity" name="Zfont"/>
   <icon drawable="@drawable/arc_zvvfahrplan" package="de.hafas.android.zvv" name="Zvvfahrplan"/>
   <icon drawable="@drawable/arc_zxtune" package="app.zxtune" name="Zxtune"/>
@@ -11659,6 +11541,7 @@
   <icon drawable="@drawable/frost_speaking" package="com.sevenspeaking.ui.IntroActivity" name="Speaking"/>
   <icon drawable="@drawable/frost_actual" package="com.shiftreset.actual" name="Actual"/>
   <icon drawable="@drawable/frost_actual" package="com.actual.MainActivity" name="Actual"/>
+  <icon drawable="@drawable/frost_aids" package="com.nick80835.add" name="Aids"/>
   <icon drawable="@drawable/frost_aids" package="com.nick80835.add.MainActivity" name="Aids"/>
   <icon drawable="@drawable/frost_alliant" package="alliantmobile.droid.activities.SplashActivity" name="Alliant"/>
   <icon drawable="@drawable/frost_androidcustomization" package="com.android.customization" name="Androidcustomization"/>
