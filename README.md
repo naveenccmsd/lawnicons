@@ -2,29 +2,11 @@
 [![Build debug APK](https://github.com/naveenccmsd/singleicons/actions/workflows/build_debug_apk.yml/badge.svg)](https://github.com/naveenccmsd/singleicons/actions/workflows/build_debug_apk.yml)
 [![Build release APK](https://github.com/naveenccmsd/singleicons/actions/workflows/build_release_apk.yml/badge.svg)](https://github.com/naveenccmsd/singleicons/actions/workflows/build_release_apk.yml)
 
-SingleIcons is port of [Arcticons](https://github.com/Donnnno/Arcticons) into [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) and merger of lawnicons and some of it's forks into single app.
-The idea is to fill missing icons for lawnicons from other icon pack , like Arcticons,TeamFiles,RKicons etc..
+SingleIcons is fork from lawnicons and more icons from different lawnicons forks.
 
-## Lawnicons
-
-Lawnicons is an add-on for adding themed icons to [Lawnchair 12 Alpha 5](https://github.com/LawnchairLauncher/lawnchair) and above.
-This addon is now the source of all themed icons, for simplicity.
-
-## Versions 
-
-### SingleIcons versions
-
-- LTA
-- ALT
-
-L - LawnIcons
-
-T - TeamFiles-LawnIcons
-
-A - Arcticons
-
-The Icons will be created from former and missing icons will be replaced by latter.
-Example, LTA will have all icons from **LawnIcons** and missing icons will be replaced by **TeamFiles-LawnIcons** then replaced by **Articons**
+## Why SingleIcon
+Loved lawnicons, Still many icons are missing, there are many other lawnicons forks available,Sadly can't use them at same time.Also Lawnchair didn't support custom icons yet.
+So I created my own app adding more icons from different lawnicons forks.
 
 
 ## Download
@@ -41,25 +23,14 @@ Note that you'll need to have a GitHub account to download the debug apk.
 Uninstall any Lawnicons or it's fork before installing this apk.
 
 ## Adding icons
-To avoid duplicte work I request to contribue direclty on official repos.
+I don't create new icons in this repo insted will get latest icon from offical repo and add/update here.
+If you find official icons missing here or have suggestions to add more lawnicons pack, create an issue I will update latest icons.
 
+
+- [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
+- [TeamFiles-Lawnicons](https://github.com/TeamFiles/Lawnicons)
+- RK Icons
 - [Arcticons](https://github.com/Donnnno/Arcticons)
-- [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-- [TeamFiles-Lawnicons](https://github.com/TeamFiles/Lawnicons)
 
-
-## License
-
-Lawnicons is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [LICENSE](LICENSE) for additional information.
-
-## What else?
-Planning to add RK Icons.
-
-
-## Quick links
-
-- [Lawnchair GitHub page](https://github.com/LawnchairLauncher/lawnchair)
-- [Lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-- [Arcticons](https://github.com/Donnnno/Arcticons) 
-- [TeamFiles-Lawnicons](https://github.com/TeamFiles/Lawnicons)
+And few more
 
