@@ -5,7 +5,8 @@
 SingleIcons is fork from lawnicons and more icons from different lawnicons forks.
 
 ## Why SingleIcon
-Loved lawnicons, Still many icons are missing, there are many other lawnicons forks available,Sadly can't use them at same time.Also Lawnchair didn't support custom icons yet.
+Loved lawnicons, Still many icons are missing, there are many other lawnicons forks available,Sadly can't use them at same time.
+Lawnchair didn't support custom icons yet.
 So I created my own app adding more icons from different lawnicons forks.
 
 
