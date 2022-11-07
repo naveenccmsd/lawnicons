@@ -34,7 +34,7 @@ jobs:
           java-version: '11'
           distribution: 'adopt'
       - name: Build with Maven
-        run: cd others
+        working-directory: ./others
         run: mvn compile exec:java -Dexec.mainClass="org.example.App"
   build-debug-apk:
     runs-on: ubuntu-latest
