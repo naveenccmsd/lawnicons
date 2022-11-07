@@ -1,5 +1,1 @@
-<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
-<circle cx="96" cy="96" r="74" stroke="black" stroke-width="12"/>
-<path d="M116 98.5C116 112.32 105.421 123 93 123C80.579 123 70 112.32 70 98.5C70 84.6803 80.579 74 93 74C105.421 74 116 84.6803 116 98.5Z" stroke="black" stroke-width="12"/>
-<path d="M116 75L116 122" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
-</svg>
+<svg id="vector" xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><path fill="#00000000" d="M96,96m-74,0a74,74 0,1 1,148 0a74,74 0,1 1,-148 0" stroke-width="12" stroke="#000000" id="path_0"/><path fill="#00000000" d="M116,98.5C116,112.32 105.42,123 93,123C80.58,123 70,112.32 70,98.5C70,84.68 80.58,74 93,74C105.42,74 116,84.68 116,98.5Z" stroke-width="12" stroke="#000000" id="path_1"/><path fill="#00000000" d="M116,75L116,122" stroke-linejoin="round" stroke-width="12" stroke="#000000" stroke-linecap="round" id="path_2"/></svg>
