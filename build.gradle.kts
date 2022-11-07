@@ -6,6 +6,7 @@ plugins {
     id("com.google.dagger.hilt.android") version "2.44" apply false
     id("com.google.android.gms.oss-licenses-plugin") version "0.10.5" apply false
     id("org.jmailen.kotlinter") version "3.12.0" apply false
+
 }
 
 allprojects {
@@ -21,3 +22,4 @@ allprojects {
 tasks.register("clean") {
     delete(rootProject.buildDir)
 }
+
