@@ -47,6 +47,7 @@ jobs:
         run: mvn compile exec:java -Dexec.mainClass="org.example.SvgToVector"
   build-debug-apk:
     runs-on: ubuntu-latest
+    needs: build-copy-svg-xml
     continue-on-error: true
     steps:
       - name: Check out repository
