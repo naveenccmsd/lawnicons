@@ -2,8 +2,8 @@ package org.example;
 
 public class SvgToVector {
     public static void main(String args[]){
-            String sourceDirectory = "D:\\git\\Arcticons\\icons\\black";
-            String destDirectory = "D:\\git\\lawnicons\\app\\src\\main\\res\\drawable";
+            String sourceDirectory = "../svgs/";
+            String destDirectory = "../app/src/main/res/drawable";
         loadSvgToVector(sourceDirectory, destDirectory);
     }
 
