@@ -2,6 +2,9 @@
 [![Build debug APK](https://github.com/naveenccmsd/singleicons/actions/workflows/build_debug_apk.yml/badge.svg)](https://github.com/naveenccmsd/singleicons/actions/workflows/build_debug_apk.yml)
 [![Build release APK](https://github.com/naveenccmsd/singleicons/actions/workflows/build_release_apk.yml/badge.svg)](https://github.com/naveenccmsd/singleicons/actions/workflows/build_release_apk.yml)
 
+
+# I have dicontinued as lawnchair can support themed icons from icons pack......
+
 SingleIcons is fork from lawnicons and more icons from different lawnicons forks.
 
 ## Why SingleIcon
