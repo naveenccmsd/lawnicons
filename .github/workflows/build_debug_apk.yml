@@ -44,7 +44,7 @@ jobs:
           distribution: 'adopt'
       - name: Build with Maven
         working-directory: ./others
-        run: mvn compile exec:java -Dexec.mainClass="org.example.App"
+        run: mvn compile exec:java -Dexec.mainClass="org.example.SvgToVector"
   build-debug-apk:
     runs-on: ubuntu-latest
     continue-on-error: true
