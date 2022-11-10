@@ -1,4 +1,4 @@
-package org.example;
+package app.svToVector;
 
 import java.util.Objects;
 

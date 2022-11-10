@@ -1,7 +1,7 @@
-package org.example;
+package app.svToVector;
 
 import com.android.ide.common.vectordrawable.Svg2Vector;
-import com.android.utils.FileUtils;
+import com.google.common.base.Charsets;
 import org.dom4j.Attribute;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
@@ -22,7 +22,6 @@ import java.util.List;
 import static java.nio.file.FileVisitResult.CONTINUE;
 import static java.nio.file.StandardCopyOption.COPY_ATTRIBUTES;
 import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
-import static org.example.App.UTF_8;
 
 
 public class SvgFilesProcessor {
@@ -149,7 +148,7 @@ public class SvgFilesProcessor {
     private static void updateDocumentToFile(Document outDocument, String outputConfigPath) throws IOException {
         FileWriter fileWriter = new FileWriter(outputConfigPath);
         OutputFormat format = OutputFormat.createPrettyPrint();
-        format.setEncoding(UTF_8);
+        format.setEncoding(Charsets.UTF_8.name());
         XMLWriter writer = new XMLWriter(fileWriter, format);
         writer.write(outDocument);
         writer.close();
@@ -162,7 +161,7 @@ public class SvgFilesProcessor {
 
     private static Document getDocument(String xmlPath) throws DocumentException {
         SAXReader reader = new SAXReader();
-        reader.setEncoding(UTF_8);
+        reader.setEncoding(Charsets.UTF_8.name());
         Document document = reader.read(xmlPath);
         return document;
     }

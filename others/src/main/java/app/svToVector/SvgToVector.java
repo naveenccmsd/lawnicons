@@ -1,4 +1,4 @@
-package org.example;
+package app.svToVector;
 
 public class SvgToVector {
     public static void main(String args[]){
