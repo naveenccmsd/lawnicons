@@ -53,13 +53,15 @@ android {
     productFlavors {
         create("dark") {
             dimension = "variant"
-            applicationIdSuffix = ".dark"
-            versionNameSuffix = "-dark"
+            applicationIdSuffix = ""
+            versionNameSuffix = ""
+            resValue("string", "app_name", "Lawnicons")
         }
         create("light") {
             dimension = "variant"
             applicationIdSuffix = ".light"
             versionNameSuffix = "-light"
+            resValue("string", "app_name", "Lawnicons-light")
         }
     }
     sourceSets.getByName("dark") {
