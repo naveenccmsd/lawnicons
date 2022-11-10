@@ -55,13 +55,13 @@ android {
             dimension = "variant"
             applicationIdSuffix = ""
             versionNameSuffix = ""
-            resValue("string", "app_name", "Lawnicons")
+            resValue("string", "apps_name", "Lawnicons")
         }
         create("light") {
             dimension = "variant"
             applicationIdSuffix = ".light"
             versionNameSuffix = "-light"
-            resValue("string", "app_name", "Lawnicons-light")
+            resValue("string", "apps_name", "Lawnicons-light")
         }
     }
     sourceSets.getByName("dark") {
