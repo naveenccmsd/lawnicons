@@ -52,7 +52,7 @@ jobs:
         run: mvn clean install exec:java
       - name: Build debug APK
         run: ./gradlew app:assembleDarkDebug
-      - name: Build debug Loght APK
+      - name: Build debug Light APK
         run: ./gradlew app:assembleLightDebug
       - name: Upload artifact
         uses: actions/upload-artifact@v3
