@@ -48,12 +48,14 @@ jobs:
             echo ${{ secrets.KEYSTORE }} | base64 --decode > ${{ github.workspace }}/key.jks
           fi
       - name: Build debug APK
-        run: ./gradlew app:assembleDebug
+        run: ./gradlew app:assembleDarkDebug
+      - name: Build debug Light APK
+        run: ./gradlew app:assembleLightDebug
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
           name: Debug APK
-          path: app/build/outputs/apk/debug/*.apk
+          path: app/build/outputs/apk/*/debug/*.apk
 
   send-notifications:
     runs-on: ubuntu-latest
