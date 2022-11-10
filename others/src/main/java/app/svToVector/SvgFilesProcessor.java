@@ -113,12 +113,11 @@ public class SvgFilesProcessor {
 	private void convertToVector(Path source, Path target) throws IOException{
 		// convert only if it is .svg
 		if(source.getFileName().toString().endsWith(".svg")){
-			String targetFile =getFileWithXMlExtension(target, extension, extensionSuffix);
+			String targetFile =CommonUtil.getFileWithXMlExtension(target, extension, extensionSuffix);
 			FileOutputStream fileOutputStream = new FileOutputStream(targetFile);
 
             Svg2Vector.parseSvgToXml(source.toFile(), fileOutputStream);
             try {
-                System.out.println("Updating the xml file "+ targetFile);
                 if(mode.equals("dark"))
                     updatePath(targetFile,"android:strokeColor","#000");
                 else if (mode.equals("light")) {
@@ -133,7 +132,7 @@ public class SvgFilesProcessor {
     }
 
     private static void updatePath(String xmlPath, String key, String value) throws DocumentException, IOException {
-        Document aDocument = getDocument(xmlPath);
+        Document aDocument = CommonUtil.getDocument(xmlPath);
         String keyWithoutNameSpace = key.substring(key.indexOf(":")+1,key.length());
         for(Element e : aDocument.getRootElement().elements("path")){
             Attribute attr = e.attribute(keyWithoutNameSpace);
@@ -153,31 +152,6 @@ public class SvgFilesProcessor {
         writer.write(outDocument);
         writer.close();
     }
-    private static List<Element> getElements(Document document, String path) throws DocumentException {
-        Element rootElement = document.getRootElement();
-        List<Element> list = rootElement.elements(path);
-        return list;
-    }
 
-    private static Document getDocument(String xmlPath) throws DocumentException {
-        SAXReader reader = new SAXReader();
-        reader.setEncoding(Charsets.UTF_8.name());
-        Document document = reader.read(xmlPath);
-        return document;
-    }
-
-	private String getFileWithXMlExtension(Path target, String extension, String extensionSuffix){
-		String svgFilePath =  target.toFile().getAbsolutePath();
-		StringBuilder svgBaseFile = new StringBuilder();
-		int index = svgFilePath.lastIndexOf(".");
-		if(index != -1){
-			String subStr = svgFilePath.substring(0, index);
-			svgBaseFile.append(subStr);
-		}
-		svgBaseFile.append(null != extensionSuffix ? extensionSuffix : "");
-		svgBaseFile.append(".");
-		svgBaseFile.append(extension);
-		return svgBaseFile.toString();
-	}
 
 }
