@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
+  <path d="M42,30h30v132h-30z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-width="12"/>
+  <path d="M152,162V168L157.603,159.854L152,162ZM118,162L112.345,164.006L118,168V162ZM96,100L90.92,96.807C89.943,98.361 89.732,100.277 90.345,102.006L96,100ZM110.397,70.146L146.397,164.146L157.603,159.854L121.603,65.854L110.397,70.146ZM152,156H118V168H152V156ZM123.655,159.994L101.655,97.993L90.345,102.006L112.345,164.006L123.655,159.994ZM101.08,103.193L145.08,33.193L134.92,26.807L90.92,96.807L101.08,103.193Z" fill="#000000"/>
+  <path d="M30,30H84" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
+  <path d="M114,30L152,30" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
+  <path d="M30,162H84" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
+  <path d="M104,162H162" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
+</svg>
