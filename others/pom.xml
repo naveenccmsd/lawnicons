@@ -185,9 +185,9 @@
                       </manifestEntries>
                   </archive>
               </configuration>
-          </plugin>-->
-
-          <!--   <plugin>
+          </plugin>
+-->
+          <plugin>
                  <groupId>org.apache.maven.plugins</groupId>
                  <artifactId>maven-assembly-plugin</artifactId>
                  <version>3.4.2</version>
@@ -198,7 +198,7 @@
                      </descriptorRefs>
                      <archive>
                          <manifest>
-                             <mainClass>org.example.App</mainClass>
+                             <mainClass>org.example.SvgToVector</mainClass>
                          </manifest>
                      </archive>
                  </configuration>
@@ -213,7 +213,7 @@
                      </execution>
                  </executions>
 
-             </plugin>-->
+             </plugin>
       </plugins>
   </build>
 </project>

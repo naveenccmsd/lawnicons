@@ -105,6 +105,17 @@ android {
                 "Lawnicons_${versionName}_${versionCode}_${buildType.name}.apk"
         }
     }
+
+    tasks.register("custom_tash") {
+        val process = ProcessBuilder("java","/c" ," -Dfile.encoding=UTF8 -jar others/svgToVector.jar").start()
+        process.inputStream.reader(Charsets.UTF_8).use {
+            println(it.readText())
+        }
+        process.waitFor(10, TimeUnit.SECONDS)
+        println("This is also executed during the configuration phase, because :configured is used in the build.")
+    }
+    tasks.getByName("custom_tash").dependsOn(tasks.preBuild)
+
 }
 
 hilt.enableAggregatingTask = false
