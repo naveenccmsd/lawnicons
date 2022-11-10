@@ -21,13 +21,11 @@ android {
         versionCode = 3
         versionName = "1.2.0"
         vectorDrawables.useSupportLibrary = true
-        multiDexEnabled = true
     }
 
     val keystorePropertiesFile = rootProject.file("keystore.properties")
     val releaseSigning = if (keystorePropertiesFile.exists()) {
         val keystoreProperties = Properties()
-        keystoreProperties.load(FileInputStream(keystorePropertiesFile))
         keystoreProperties.load(FileInputStream(keystorePropertiesFile))
         signingConfigs.create("release") {
             keyAlias = keystoreProperties["keyAlias"].toString()
@@ -49,27 +47,7 @@ android {
             signingConfig = releaseSigning
         }
     }
-    flavorDimensions += "variant"
-    productFlavors {
-        create("dark") {
-            dimension = "variant"
-            applicationIdSuffix = ""
-            versionNameSuffix = ""
-            resValue("string", "apps_name", "Lawnicons")
-        }
-        create("light") {
-            dimension = "variant"
-            applicationIdSuffix = ".light"
-            versionNameSuffix = "-light"
-            resValue("string", "apps_name", "Lawnicons-light")
-        }
-    }
-    sourceSets.getByName("dark") {
-        res.setSrcDirs(listOf("src/dark/res/"))
-    }
-    sourceSets.getByName("light") {
-        res.setSrcDirs(listOf("src/light/res/"))
-    }
+
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
@@ -105,17 +83,6 @@ android {
                 "Lawnicons_${versionName}_${versionCode}_${buildType.name}.apk"
         }
     }
-
-    tasks.register("custom_tash") {
-        val process = ProcessBuilder("java","/c" ," -Dfile.encoding=UTF8 -jar others/svgToVector.jar").start()
-        process.inputStream.reader(Charsets.UTF_8).use {
-            println(it.readText())
-        }
-        process.waitFor(10, TimeUnit.SECONDS)
-        println("This is also executed during the configuration phase, because :configured is used in the build.")
-    }
-    tasks.getByName("custom_tash").dependsOn(tasks.preBuild)
-
 }
 
 hilt.enableAggregatingTask = false
