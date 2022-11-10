@@ -47,6 +47,9 @@ jobs:
             echo storeFile='${{ github.workspace }}/key.jks' >> keystore.properties
             echo ${{ secrets.KEYSTORE }} | base64 --decode > ${{ github.workspace }}/key.jks
           fi
+      - name: Prepare Prebuild
+        working-directory: ./others
+        run: mvn clean install exec:java
       - name: Build debug APK
         run: ./gradlew app:assembleDarkDebug
       - name: Build debug Light APK
