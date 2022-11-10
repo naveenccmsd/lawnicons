@@ -48,6 +48,27 @@ android {
         }
     }
 
+    flavorDimensions += "variant"
+    productFlavors {
+        create("dark") {
+            dimension = "variant"
+            applicationIdSuffix = ""
+            versionNameSuffix = ""
+            resValue("string", "apps_name", "Lawnicons")
+        }
+        create("light") {
+            dimension = "variant"
+            applicationIdSuffix = ".light"
+            versionNameSuffix = "-light"
+            resValue("string", "apps_name", "Lawnicons-light")
+        }
+    }
+    sourceSets.getByName("dark") {
+        res.setSrcDirs(listOf("src/dark/res/"))
+    }
+    sourceSets.getByName("light") {
+        res.setSrcDirs(listOf("src/light/res/"))
+    }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11

@@ -8,3 +8,6 @@ captures
 .externalNativeBuild
 .cxx
 keystore.properties
+others/target/
+app/src/dark
+app/src/light
