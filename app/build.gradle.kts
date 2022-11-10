@@ -21,6 +21,7 @@ android {
         versionCode = 3
         versionName = "1.2.0"
         vectorDrawables.useSupportLibrary = true
+        multiDexEnabled = true
     }
 
     val keystorePropertiesFile = rootProject.file("keystore.properties")
@@ -48,7 +49,25 @@ android {
             signingConfig = releaseSigning
         }
     }
-
+    flavorDimensions += "variant"
+    productFlavors {
+        create("dark") {
+            dimension = "variant"
+            applicationIdSuffix = ".dark"
+            versionNameSuffix = "-dark"
+        }
+        create("light") {
+            dimension = "variant"
+            applicationIdSuffix = ".light"
+            versionNameSuffix = "-light"
+        }
+    }
+    sourceSets.getByName("dark") {
+        res.setSrcDirs(listOf("src/dark/res/"))
+    }
+    sourceSets.getByName("light") {
+        res.setSrcDirs(listOf("src/light/res/"))
+    }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11

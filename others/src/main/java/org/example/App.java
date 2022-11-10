@@ -119,14 +119,14 @@ public class App {
 
     private static void loadCustomIcons(List<Layout> finalObj) throws DocumentException, UnsupportedEncodingException {
         FileUtil.mkdir(tempDirectory +"drawable\\");
-        SvgToVector.loadSvgToVector(customSvgPath, tempDirectory +"drawable\\");
+        SvgToVector.loadSvgToVector(customSvgPath, tempDirectory +"drawable\\", "light");
 
         Document lawnDocument = getDocument(customConfigPath);
         copyDrawables(finalObj, tempDirectory, "ccmsd_", lawnDocument);
     }
 
     private static void loadIconConfigFromArcIcons(String arcVecPath, String arcConfigPath, List<Layout> finalObj, String prefix) throws DocumentException, IOException {
-        SvgToVector.loadSvgToVector(arcVecPath, tempDirectory);
+        SvgToVector.loadSvgToVector(arcVecPath, tempDirectory, "light");
         System.out.println("SVG to vec "+arcVecPath +" completed");
         Document aDocument = getDocument(arcConfigPath);
         copyVectorToRepo(finalObj, aDocument,prefix);

@@ -10,4 +10,6 @@ captures
 keystore.properties
 *.class
 *.lst
-others/target/classes/common.properties
+others/target/
+app/src/dark
+app/src/light

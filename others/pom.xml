@@ -5,12 +5,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>svcToVector</artifactId>
+  <artifactId>SvgToVector</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>svcToVector</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <name>SvgToVector</name>
+
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -130,7 +129,7 @@
                   <target>8</target>
               </configuration>
           </plugin>
-          <plugin>
+         <!-- <plugin>
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-dependency-plugin</artifactId>
               <version>3.3.0</version>
@@ -149,9 +148,29 @@
                       </configuration>
                   </execution>
               </executions>
-          </plugin>
-
+          </plugin>-->
           <plugin>
+              <groupId>org.codehaus.mojo</groupId>
+              <artifactId>exec-maven-plugin</artifactId>
+              <version>3.1.0</version>
+              <executions>
+                  <execution>
+                      <goals>
+                          <goal>java</goal>
+                      </goals>
+                  </execution>
+              </executions>
+              <configuration>
+                  <executable>java</executable>
+                <!--  <arguments>
+                      <argument>-classpath</argument>
+                      <classpath/>
+                      <argument>org.example.SvgToVector</argument>
+                  </arguments>-->
+                  <mainClass>org.example/org.example.SvgToVector</mainClass>
+              </configuration>
+          </plugin>
+          <!--<plugin>
               <groupId>org.apache.maven.plugins</groupId>
               <artifactId>maven-jar-plugin</artifactId>
               <configuration>
@@ -159,14 +178,14 @@
                       <manifest>
                           <addClasspath>true</addClasspath>
                          <classpathPrefix>lib</classpathPrefix>
-                          <mainClass>org.example.App</mainClass>
+                          <mainClass>org.example.SvgToVector</mainClass>
                       </manifest>
                       <manifestEntries>
                           <Class-Path>lib/</Class-Path>
                       </manifestEntries>
                   </archive>
               </configuration>
-          </plugin>
+          </plugin>-->
 
           <!--   <plugin>
                  <groupId>org.apache.maven.plugins</groupId>

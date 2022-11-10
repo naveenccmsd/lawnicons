@@ -2,17 +2,27 @@ package org.example;
 
 import com.android.ide.common.vectordrawable.Svg2Vector;
 import com.android.utils.FileUtils;
+import org.dom4j.Attribute;
+import org.dom4j.Document;
+import org.dom4j.DocumentException;
+import org.dom4j.Element;
+import org.dom4j.io.OutputFormat;
+import org.dom4j.io.SAXReader;
+import org.dom4j.io.XMLWriter;
 
 import java.io.File;
 import java.io.FileOutputStream;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.*;
 import java.nio.file.attribute.BasicFileAttributes;
 import java.util.EnumSet;
+import java.util.List;
 
 import static java.nio.file.FileVisitResult.CONTINUE;
 import static java.nio.file.StandardCopyOption.COPY_ATTRIBUTES;
 import static java.nio.file.StandardCopyOption.REPLACE_EXISTING;
+import static org.example.App.UTF_8;
 
 
 public class SvgFilesProcessor {
@@ -21,6 +31,8 @@ public class SvgFilesProcessor {
 	private Path destinationVectorPath;
 	private String extension;
 	private String extensionSuffix;
+
+    private String mode = "";
 
 	public SvgFilesProcessor(String sourceSvgDirectory) {
 		this(sourceSvgDirectory, sourceSvgDirectory+ File.pathSeparator + "ProcessedSVG", "xml", "");
@@ -38,7 +50,12 @@ public class SvgFilesProcessor {
 		this.extensionSuffix = extensionSuffix;
 	}
 
-	public void process(){
+    public SvgFilesProcessor(String sourceSvgDirectory, String destinationVectorDirectory, String mode) {
+        this(sourceSvgDirectory, destinationVectorDirectory);
+        this.mode = mode;
+    }
+
+    public void process(){
 		try{
 			EnumSet<FileVisitOption> options = EnumSet.of(FileVisitOption.FOLLOW_LINKS);
 			//check first if source is a directory
@@ -92,21 +109,65 @@ public class SvgFilesProcessor {
             e.printStackTrace();
 			System.out.println("IOException "+e.getMessage());
 		}
-
 	}
 
 	private void convertToVector(Path source, Path target) throws IOException{
 		// convert only if it is .svg
 		if(source.getFileName().toString().endsWith(".svg")){
-			File targetFile = getFileWithXMlExtension(target, extension, extensionSuffix);
-			FileOutputStream fous = new FileOutputStream(targetFile);
-			Svg2Vector.parseSvgToXml(source.toFile(), fous);
+			String targetFile =getFileWithXMlExtension(target, extension, extensionSuffix);
+			FileOutputStream fileOutputStream = new FileOutputStream(targetFile);
+
+            Svg2Vector.parseSvgToXml(source.toFile(), fileOutputStream);
+            try {
+                System.out.println("Updating the xml file "+ targetFile);
+                if(mode.equals("dark"))
+                    updatePath(targetFile,"android:strokeColor","#000");
+                else if (mode.equals("light")) {
+                    updatePath(targetFile,"android:strokeColor","#fff");
+                }
+            } catch (DocumentException e) {
+                throw new RuntimeException(e);
+            }
 		} else {
 			System.out.println("Skipping file as its not svg "+source.getFileName().toString());
 		}
     }
 
-	private File getFileWithXMlExtension(Path target, String extension, String extensionSuffix){
+    private static void updatePath(String xmlPath, String key, String value) throws DocumentException, IOException {
+        Document aDocument = getDocument(xmlPath);
+        String keyWithoutNameSpace = key.substring(key.indexOf(":")+1,key.length());
+        for(Element e : aDocument.getRootElement().elements("path")){
+            Attribute attr = e.attribute(keyWithoutNameSpace);
+            if(attr!=null){
+                attr.setValue(String.valueOf(value));
+            }else {
+                e.addAttribute(key, String.valueOf(value));
+            }
+        }
+        updateDocumentToFile(aDocument,xmlPath);
+    }
+    private static void updateDocumentToFile(Document outDocument, String outputConfigPath) throws IOException {
+        FileWriter fileWriter = new FileWriter(outputConfigPath);
+        OutputFormat format = OutputFormat.createPrettyPrint();
+        format.setEncoding(UTF_8);
+        XMLWriter writer = new XMLWriter(fileWriter, format);
+        writer.write(outDocument);
+        writer.close();
+    }
+    private static List<Element> getElements(Document document, String path) throws DocumentException {
+        Element rootElement = document.getRootElement();
+        List<Element> list = rootElement.elements(path);
+        return list;
+    }
+
+    private static Document getDocument(String xmlPath) throws DocumentException {
+        SAXReader reader = new SAXReader();
+        reader.setEncoding(UTF_8);
+        Document document = reader.read(xmlPath);
+        return document;
+    }
+
+	private String getFileWithXMlExtension(Path target, String extension, String extensionSuffix){
 		String svgFilePath =  target.toFile().getAbsolutePath();
 		StringBuilder svgBaseFile = new StringBuilder();
 		int index = svgFilePath.lastIndexOf(".");
@@ -117,7 +178,7 @@ public class SvgFilesProcessor {
 		svgBaseFile.append(null != extensionSuffix ? extensionSuffix : "");
 		svgBaseFile.append(".");
 		svgBaseFile.append(extension);
-		return new File(svgBaseFile.toString());
+		return svgBaseFile.toString();
 	}
 
 }

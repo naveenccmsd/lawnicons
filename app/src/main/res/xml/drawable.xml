@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<version>1</version>
+
+	<category title="New" />
+	<item drawable="youtube" />
+</resources>
