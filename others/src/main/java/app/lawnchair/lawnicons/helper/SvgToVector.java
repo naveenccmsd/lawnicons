@@ -7,26 +7,24 @@ import org.dom4j.Element;
 import org.dom4j.tree.DefaultDocument;
 
 import java.io.IOException;
-import java.util.Comparator;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-import java.util.stream.Collectors;
 
 public class SvgToVector {
 
-    static String ROOT_FOLDER="..";
+    static String ROOT_FOLDER = "..";
     static String sourceDirectory = ROOT_FOLDER + "/svgs/";
     static String darkRes = ROOT_FOLDER + "/app/src/dark/res";
-    static String LightRes = ROOT_FOLDER+ "/app/src/light/res";
-    static String oldIconMapFile = ROOT_FOLDER+ "/app/src/main/res/xml/grayscale_icon_map.xml";
+    static String LightRes = ROOT_FOLDER + "/app/src/light/res";
+    static String oldIconMapFile = ROOT_FOLDER + "/app/src/main/res/xml/grayscale_icon_map.xml";
 
     public static void main(String args[]) throws DocumentException, IOException {
 
 
         loadSvgToVector(sourceDirectory, darkRes + "/drawable", "dark");
         loadSvgToVector(sourceDirectory, LightRes + "/drawable", "light");
-        createConfigs(ROOT_FOLDER+"/app/assets/appfilter.xml");
+        createConfigs(ROOT_FOLDER + "/app/assets/appfilter.xml");
         System.out.println("SvgToVector task completed");
     }
 
@@ -65,10 +63,7 @@ public class SvgToVector {
         doc.addElement("icons");
         for (Map.Entry<String, String> keyValue : map.entrySet()) {
             String[] comps = keyValue.getKey().split("/");
-            doc.getRootElement().addElement("icon")
-                .addAttribute("drawable", "@drawable/" + keyValue.getValue())
-                .addAttribute("package", comps[0])
-                .addAttribute("name", WordUtils.capitalize(keyValue.getValue().replaceAll("_", " ")));
+            doc.getRootElement().addElement("icon").addAttribute("drawable", "@drawable/" + keyValue.getValue()).addAttribute("package", comps[0]).addAttribute("name", WordUtils.capitalize(keyValue.getValue().replaceAll("_", " ")));
         }
         CommonUtil.writeDocumentToFile(doc, filename);
     }
@@ -77,7 +72,7 @@ public class SvgToVector {
         Document doc = new DefaultDocument();
         doc.addElement("resources");
         doc.getRootElement().addElement("version").addText("1");
-        map.values().forEach(drawable -> doc.getRootElement().addElement("item").addAttribute("drawable", drawable));
+        map.values().stream().distinct().forEach(drawable -> doc.getRootElement().addElement("item").addAttribute("drawable", drawable));
         CommonUtil.writeDocumentToFile(doc, filename);
     }
 
