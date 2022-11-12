@@ -15,17 +15,18 @@ import java.util.stream.Collectors;
 
 public class SvgToVector {
 
-    static String sourceDirectory = "../svgs/";
-    static String darkRes = "../app/src/dark/res";
-    static String LightRes = "../app/src/light/res";
-    static String oldIconMapFile = "../app/src/main/res/xml/grayscale_icon_map.xml";
+    static String ROOT_FOLDER="..";
+    static String sourceDirectory = ROOT_FOLDER + "/svgs/";
+    static String darkRes = ROOT_FOLDER + "/app/src/dark/res";
+    static String LightRes = ROOT_FOLDER+ "/app/src/light/res";
+    static String oldIconMapFile = ROOT_FOLDER+ "/app/src/main/res/xml/grayscale_icon_map.xml";
 
     public static void main(String args[]) throws DocumentException, IOException {
 
 
         loadSvgToVector(sourceDirectory, darkRes + "/drawable", "dark");
         loadSvgToVector(sourceDirectory, LightRes + "/drawable", "light");
-        createConfigs("../app/assets/appfilter.xml");
+        createConfigs(ROOT_FOLDER+"/app/assets/appfilter.xml");
         System.out.println("SvgToVector task completed");
     }
 
@@ -47,10 +48,10 @@ public class SvgToVector {
             String drawable = element.attribute("drawable").getValue();
             if (component.startsWith(compStart) && component.endsWith(compEnd)) {
                 String comps = component.substring(compStart.length(), component.length() - compEnd.length());
-                map.put(drawable, comps);
+                map.put(comps, drawable);
             }
         }
-        Map sortedMap = CommonUtil.sortedMap(map);
+        Map sortedMap = CommonUtil.sortedMapByValues(map);
         createDrawable(sortedMap, darkRes + "/xml/drawable.xml");
         createDrawable(sortedMap, LightRes + "/xml/drawable.xml");
         createIconMap(sortedMap, darkRes + "/xml/grayscale_icon_map.xml");
@@ -63,11 +64,11 @@ public class SvgToVector {
         Document doc = new DefaultDocument();
         doc.addElement("icons");
         for (Map.Entry<String, String> keyValue : map.entrySet()) {
-            String[] comps = keyValue.getValue().split("/");
+            String[] comps = keyValue.getKey().split("/");
             doc.getRootElement().addElement("icon")
-                .addAttribute("drawable", "@drawable/" + keyValue.getKey())
+                .addAttribute("drawable", "@drawable/" + keyValue.getValue())
                 .addAttribute("package", comps[0])
-                .addAttribute("name", WordUtils.capitalize(keyValue.getKey().replaceAll("_", " ")));
+                .addAttribute("name", WordUtils.capitalize(keyValue.getValue().replaceAll("_", " ")));
         }
         CommonUtil.writeDocumentToFile(doc, filename);
         //Add icon mapping from old grayscale_icon_map.xml
@@ -96,11 +97,10 @@ public class SvgToVector {
     }
 
     private static void createDrawable(Map<String, String> map, String filename) throws IOException {
-
         Document doc = new DefaultDocument();
         doc.addElement("resources");
         doc.getRootElement().addElement("version").addText("1");
-        map.keySet().forEach(drawable -> doc.getRootElement().addElement("item").addAttribute("drawable", drawable));
+        map.values().forEach(drawable -> doc.getRootElement().addElement("item").addAttribute("drawable", drawable));
         CommonUtil.writeDocumentToFile(doc, filename);
     }
 
