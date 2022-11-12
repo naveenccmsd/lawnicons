@@ -61,10 +61,10 @@ android {
             resValue("string", "apps_name", "Lawnicons-light")
         }
     }
-    sourceSets.getByName("dark") {
+    sourceSets.named("dark") {
         res.setSrcDirs(listOf("src/dark/res/"))
     }
-    sourceSets.getByName("light") {
+    sourceSets.named("light") {
         res.setSrcDirs(listOf("src/light/res/"))
     }
     compileOptions {
