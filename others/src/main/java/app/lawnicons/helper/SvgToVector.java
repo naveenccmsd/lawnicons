@@ -35,38 +35,43 @@ public class SvgToVector {
         String compEnd = "}";
         Document root = CommonUtil.getDocument(appFilterFile);
         List<Element> aList = CommonUtil.getElements(root, "item");
-        HashMap<String, String> map = new HashMap<>();
+        Map<String, String> map = new HashMap<>();
         for (Element element : aList) {
             String component = element.attribute("component").getValue();
             String drawable = element.attribute("drawable").getValue();
-            String comps = component.substring(compStart.length(), component.length() - compEnd.length());
-            map.put(drawable, comps);
+            if (component.startsWith(compStart) && component.endsWith(compEnd)) {
+                String comps = component.substring(compStart.length(), component.length() - compEnd.length());
+                map.put(drawable, comps);
+            }
         }
-        createDrawable(map, darkRes + "/xml/drawable.xml");
-        createDrawable(map, LightRes + "/xml/drawable.xml");
-        createIconMap(map, darkRes + "/xml/grayscale_icon_map.xml");
-        createIconMap(map, LightRes + "/xml/grayscale_icon_map.xml");
-        CommonUtil.writeDocumentToFile(root, darkRes +"/xml/appfilter.xml");
-        CommonUtil.writeDocumentToFile(root, LightRes +"/xml/appfilter.xml");
+        Map sortedMap = CommonUtil.sortedMap(map);
+        createDrawable(sortedMap, darkRes + "/xml/drawable.xml");
+        createDrawable(sortedMap, LightRes + "/xml/drawable.xml");
+        createIconMap(sortedMap, darkRes + "/xml/grayscale_icon_map.xml");
+        createIconMap(sortedMap, LightRes + "/xml/grayscale_icon_map.xml");
+        CommonUtil.writeDocumentToFile(root, darkRes + "/xml/appfilter.xml");
+        CommonUtil.writeDocumentToFile(root, LightRes + "/xml/appfilter.xml");
     }
 
-    private static void createIconMap(HashMap<String, String> map, String filename) throws IOException {
+    private static void createIconMap(Map<String, String> map, String filename) throws IOException {
         Document doc = new DefaultDocument();
         doc.addElement("icons");
         for (Map.Entry<String, String> keyValue : map.entrySet()) {
             String[] comps = keyValue.getValue().split("/");
             doc.getRootElement().addElement("icon")
-                .addAttribute("drawable", keyValue.getKey())
-                .addAttribute("package", comps[0]);
+                .addAttribute("drawable", "@drawable/"+keyValue.getKey())
+                .addAttribute("package", comps[0])
+                .addAttribute("name", keyValue.getKey().toUpperCase());
+
         }
         CommonUtil.writeDocumentToFile(doc, filename);
     }
 
-    private static void createDrawable(HashMap<String, String> map, String filename) throws IOException {
+    private static void createDrawable(Map<String, String> map, String filename) throws IOException {
 
         Document doc = new DefaultDocument();
         doc.addElement("resources");
-        doc.getRootElement().addElement("version", "1");
+        doc.getRootElement().addElement("version").addText("1");
         map.keySet().forEach(drawable -> doc.getRootElement().addElement("item").addAttribute("drawable", drawable));
         CommonUtil.writeDocumentToFile(doc, filename);
     }

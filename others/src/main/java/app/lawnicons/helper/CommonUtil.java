@@ -14,7 +14,10 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.nio.file.Path;
+import java.util.HashMap;
+import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 
 public class CommonUtil {
 
@@ -22,6 +25,21 @@ public class CommonUtil {
         Element rootElement = document.getRootElement();
         List<Element> list = rootElement.elements(path);
         return list;
+    }
+
+    public static Map<String, String> sortedMap(Map<String, String> map) {
+        Map<String, String> result2 = new LinkedHashMap<>();
+        map.entrySet().stream()
+            .sorted(Map.Entry.comparingByKey())
+            .forEachOrdered(x -> result2.put(x.getKey(), x.getValue()));
+        return result2;
+    }
+    public static Map<String, String> sortedMapbyValues(Map<String, String> map) {
+        Map<String, String> result2 = new LinkedHashMap<>();
+        map.entrySet().stream()
+            .sorted(Map.Entry.comparingByValue())
+            .forEachOrdered(x -> result2.put(x.getKey(), x.getValue()));
+        return result2;
     }
 
     public static Document getDocument(String xmlPath) throws DocumentException {
