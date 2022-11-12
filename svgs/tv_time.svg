@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg width="192" height="192" version="1.1" viewBox="0 0 50.8 50.8" xmlns="http://www.w3.org/2000/svg">
- <path d="m5.8208 8.4133h39.158" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
- <path d="m25.4 8.4133v33.972" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="50.8" width="50.8" xmlns="http://www.w3.org/2000/svg">
+  <path d="m5.821,8.413h39.158" fill="#000000" fill-opacity="1.0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
+  <path d="m25.4,8.413v33.972" fill="#000000" fill-opacity="1.0" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
 </svg>

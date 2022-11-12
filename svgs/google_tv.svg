@@ -1,1 +1,8 @@
-<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg"><rect x="22" y="42" width="148" height="108" rx="16" stroke="#000" stroke-width="12"/><path stroke="#000" stroke-width="12" stroke-linejoin="round" d="M57 74h78v44H57z"/><path d="M57 85V62c0-11.046 8.954-20 20-20v0m48.5 32H150c11.046 0 20 8.954 20 20v0M65 118H42c-11.046 0-20-8.954-20-20v0m113 8v24c0 11.046-8.954 20-20 20v0" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
+  <path d="M38,42L154,42A16,16 0,0 1,170 58L170,134A16,16 0,0 1,154 150L38,150A16,16 0,0 1,22 134L22,58A16,16 0,0 1,38 42z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-width="12"/>
+  <path d="M57,74h78v44h-78z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M57,85V62C57,50.954 65.954,42 77,42V42" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M125.5,74H150C161.046,74 170,82.954 170,94V94" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M65,118L42,118C30.954,118 22,109.046 22,98V98" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M135,106V130C135,141.046 126.046,150 115,150V150" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+</svg>

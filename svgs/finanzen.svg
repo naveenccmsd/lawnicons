@@ -1,74 +1,8 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   version="1.1"
-   id="svg2"
-   width="192"
-   height="192"
-   viewBox="0 0 192 192"
-   sodipodi:docname="finanzen.png"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs6" />
-  <sodipodi:namedview
-     id="namedview4"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050"
-     showgrid="false"
-     showguides="true">
-    <sodipodi:guide
-       position="15.890945,96.654333"
-       orientation="1,0"
-       id="guide295"
-       inkscape:locked="false" />
-    <sodipodi:guide
-       position="176.01558,143.95326"
-       orientation="1,0"
-       id="guide395"
-       inkscape:locked="false" />
-  </sodipodi:namedview>
-  <g
-     inkscape:groupmode="layer"
-     inkscape:label="Image"
-     id="g8">
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:57.5;paint-order:stroke markers fill"
-       d="M 22,105.28216 70.697,66.668 103.313,91.381786 169.62345,38.708583 170,38.363709"
-       id="path293"
-       sodipodi:nodetypes="ccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:57.5;paint-order:stroke markers fill"
-       d="M 22,129.67718 70.697,88.035906 103.313,113.325 170,61.192175 V 159.48317 L 138.167,149.51795 103.313,159.86338 70.697,149.23261 49.075,160.66438 22,149.55019 Z"
-       id="path297"
-       sodipodi:nodetypes="ccccccccccc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:57.5;paint-order:stroke markers fill"
-       d="m 49.075,108.688 v 51.61156"
-       id="path397"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:57.5;paint-order:stroke markers fill"
-       d="M 70.697,88.521212 V 149.484"
-       id="path399"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:57.5;paint-order:stroke markers fill"
-       d="m 103.313,111.907 v 44.00197"
-       id="path401"
-       sodipodi:nodetypes="cc" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:57.5;paint-order:stroke markers fill"
-       d="M 138.167,86.647833 V 148.6291"
-       id="path403"
-       sodipodi:nodetypes="cc" />
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
+  <path d="M22,105.28 L70.7,66.67 103.31,91.38 169.62,38.71 170,38.36" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M22,129.68 L70.7,88.04 103.31,113.32 170,61.19V159.48L138.17,149.52 103.31,159.86 70.7,149.23 49.08,160.66 22,149.55Z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="m49.08,108.69v51.61" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M70.7,88.52V149.48" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="m103.31,111.91v44" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+  <path d="M138.17,86.65V148.63" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
 </svg>
