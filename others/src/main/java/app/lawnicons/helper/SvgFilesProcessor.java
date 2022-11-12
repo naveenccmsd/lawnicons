@@ -116,10 +116,12 @@ public class SvgFilesProcessor {
 
             Svg2Vector.parseSvgToXml(source.toFile(), fileOutputStream);
             try {
-                if(mode.equals("dark"))
-                    updatePath(targetFile,"android:strokeColor","#000");
-                else if (mode.equals("light")) {
+                if(mode.equals("dark")) {
+                    updatePath(targetFile, "android:strokeColor", "#000");
+                    updatePath(targetFile, "android:fillColor", "#000");
+                } else if (mode.equals("light")) {
                     updatePath(targetFile,"android:strokeColor","#fff");
+                    updatePath(targetFile, "android:fillColor", "#fff");
                 }
             } catch (DocumentException e) {
                 throw new RuntimeException(e);
@@ -131,13 +133,13 @@ public class SvgFilesProcessor {
 
     private static void updatePath(String xmlPath, String key, String value) throws DocumentException, IOException {
         Document aDocument = CommonUtil.getDocument(xmlPath);
-        String keyWithoutNameSpace = key.substring(key.indexOf(":")+1,key.length());
+        String keyWithoutNameSpace = key.substring(key.indexOf(":")+1);
         for(Element e : aDocument.getRootElement().elements("path")){
             Attribute attr = e.attribute(keyWithoutNameSpace);
             if(attr!=null){
-                attr.setValue(String.valueOf(value));
-            }else {
-                e.addAttribute(key, String.valueOf(value));
+                if(!attr.getValue().equals("#00000000")) {
+                    attr.setValue(String.valueOf(value));
+                }
             }
         }
         updateDocumentToFile(aDocument,xmlPath);
