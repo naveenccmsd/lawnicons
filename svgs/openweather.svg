@@ -1,14 +1,49 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="50.8" width="50.8" xmlns="http://www.w3.org/2000/svg">
-  <path d="m7.859,29.266a14.947,14.947 0,0 1,5.865 -16.113,14.947 14.947,0 0,1 17.147,0 14.947,14.947 0,0 1,5.865 16.113" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="M28.469,29.266H42.598" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="M5.301,29.266H9.787" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m9.79,34.861 l8.944,0" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m34.131,34.861h2.514" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="M41.945,34.861H44.459" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m12.688,40.454h23.757" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m27.151,34.861h1.844" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m9.79,29.266a2.797,2.797 0,0 1,2.797 2.797,2.797 2.797,0 0,1 -2.797,2.797" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m18.733,34.861a2.797,2.797 0,0 1,2.797 2.797,2.797 2.797,0 0,1 -2.797,2.797" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m27.151,40.455a2.797,2.797 0,0 1,-2.423 -1.399,2.797 2.797,0 0,1 0,-2.797 2.797,2.797 0,0 1,2.423 -1.399" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-  <path d="m28.471,34.861a2.797,2.797 0,0 1,-2.423 -1.399,2.797 2.797,0 0,1 0,-2.797 2.797,2.797 0,0 1,2.423 -1.399" fill="#000000" fill-opacity="0.0" fill-rule="evenOdd" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.175"/>
-</svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192"
+   height="192"
+   viewBox="0 0 50.799999 50.8"
+   version="1.1"
+   id="svg5"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     id="path1190"
+     d="m 7.8585675,29.266341 a 14.947353,14.947353 0 0 1 5.8645855,-16.112814 14.947353,14.947353 0 0 1 17.146899,0 14.947353,14.947353 0 0 1 5.864585,16.112815" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="M 28.468701,29.266343 H 42.597916"
+     id="path1248" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="M 5.3006879,29.266343 H 9.7874194"
+     id="path1250" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 9.7895832,34.8609 8.9438748,10e-7"
+     id="path1252" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 34.13125,34.8609 h 2.513541"
+     id="path1254" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="M 41.945479,34.8609 H 44.45902"
+     id="path1256" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 12.687745,40.453818 h 23.75702"
+     id="path1258" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     d="m 27.151236,34.860901 h 1.844168"
+     id="path1260" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     id="path1264"
+     d="m 9.7895832,29.266342 a 2.7972794,2.7972794 0 0 1 2.7972798,2.79728 2.7972794,2.7972794 0 0 1 -2.7972798,2.797279" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     id="path1318"
+     d="m 18.733458,34.860901 a 2.7972794,2.7972794 0 0 1 2.797279,2.797279 2.7972794,2.7972794 0 0 1 -2.797279,2.79728" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     id="path1320"
+     d="m 27.151236,40.45546 a 2.7972794,2.7972794 0 0 1 -2.422515,-1.39864 2.7972794,2.7972794 0 0 1 0,-2.797279 2.7972794,2.7972794 0 0 1 2.422515,-1.39864" /><path
+     style="opacity:1;fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.175;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:0;stroke-dasharray:none;stroke-opacity:1"
+     id="path1322"
+     d="m 28.470865,34.860901 a 2.7972794,2.7972794 0 0 1 -2.422515,-1.39864 2.7972794,2.7972794 0 0 1 0,-2.797279 2.7972794,2.7972794 0 0 1 2.422515,-1.39864" /></svg>

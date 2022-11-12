@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
-  <path d="M51.15,26V84.3" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
-  <path d="M22,55.15H80.3" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
-  <path d="M111.7,55.15H170" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
-  <path d="M111.7,157.18H170" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
-  <path d="M111.7,132.51H170" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
-  <path d="M30.54,124.24L71.76,165.46" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
-  <path d="M30.54,165.46L71.76,124.24" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-width="12"/>
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M51.1516 26V84.303" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M22 55.1515H80.303" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M111.697 55.1515H170" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M111.697 157.182H170" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M111.697 132.515H170" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M30.5383 124.235L71.7649 165.462" stroke="black" stroke-width="12" stroke-linecap="round"/>
+<path d="M30.5383 165.462L71.7649 124.235" stroke="black" stroke-width="12" stroke-linecap="round"/>
 </svg>

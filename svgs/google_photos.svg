@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
-  <path d="M96,22L96,96C116.435,96 133,79.435 133,59C133,38.565 116.435,22 96,22Z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linejoin="round" stroke-width="12"/>
-  <path d="M96,96L96,170C75.565,170 59,153.435 59,133C59,112.565 75.565,96 96,96Z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linejoin="round" stroke-width="12"/>
-  <path d="M170,96L96,96C96,116.435 112.565,133 133,133C153.435,133 170,116.435 170,96Z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linejoin="round" stroke-width="12"/>
-  <path d="M96,96L22,96C22,75.565 38.565,59 59,59C79.435,59 96,75.565 96,96Z" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linejoin="round" stroke-width="12"/>
-</svg>
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M96 22v74c20.435 0 37-16.566 37-37s-16.565-37-37-37Zm0 74v74c-20.434 0-37-16.565-37-37s16.566-37 37-37Zm74 0H96c0 20.435 16.565 37 37 37s37-16.565 37-37Zm-74 0H22c0-20.434 16.566-37 37-37s37 16.566 37 37Z" stroke="#000" stroke-width="12" stroke-linejoin="round"/></svg>

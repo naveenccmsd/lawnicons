@@ -1,6 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
-
-    <path android:strokeMiterLimit="10" d="M 60 35 C 73.8071187458 35 85 46.1928812542 85 60 C 85 73.8071187458 73.8071187458 85 60 85 C 46.1928812542 85 35 73.8071187458 35 60 C 35 46.1928812542 46.1928812542 35 60 35 Z" stroke="#000" stroke-width="12"/>
-    <path android:strokeMiterLimit="10" d="M 132 107 C 145.807118746 107 157 118.192881254 157 132 C 157 145.807118746 145.807118746 157 132 157 C 118.192881254 157 107 145.807118746 107 132 C 107 118.192881254 118.192881254 107 132 107 Z" stroke="#000" stroke-width="12"/>
-    <path d="M35 107h50v50H35zm97-68.651-25 43.302h50l-25-43.302z" stroke="#000" stroke-linejoin="round" stroke-width="12"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><circle cx="60" cy="60" r="25" fill="none" stroke="#000" stroke-width="12" stroke-miterlimit="10"/><circle cx="132" cy="132" r="25" fill="none" stroke="#000" stroke-width="12" stroke-miterlimit="10"/><path fill="none" stroke="#000" stroke-width="12" stroke-linejoin="round" d="M35 107h50v50H35zm97-68.651-25 43.302h50l-25-43.302z"/></svg>

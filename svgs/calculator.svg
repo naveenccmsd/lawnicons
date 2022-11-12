@@ -1,3 +1,3 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="192" width="192" xmlns="http://www.w3.org/2000/svg">
-  <path d="M22,46.61H80.3M111.7,120.61H170M111.7,152.01H170M120.24,26L161.46,67.23M120.24,67.23L161.46,26M22.43,136.74H80.73M51.58,165.89V107.59" fill="#000000" fill-opacity="0.0" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"/>
+<svg width="192" height="192" viewBox="0 0 192 192" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M22 46.6135H80.303M111.697 120.613H170M111.697 152.007H170M120.235 26L161.462 67.227M120.235 67.227L161.462 26M22.4317 136.742H80.7347M51.5832 165.894V107.591" stroke="black" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
