@@ -10,6 +10,7 @@ plugins {
 
 allprojects {
     apply(plugin = "org.jmailen.kotlinter")
+    apply(plugin = "kotlin-kapt")
 
     tasks.matching {
         it.name.contains("OssLicensesTask")

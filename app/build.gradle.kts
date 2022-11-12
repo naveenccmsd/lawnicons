@@ -52,8 +52,6 @@ android {
     productFlavors {
         create("dark") {
             dimension = "variant"
-            applicationIdSuffix = ""
-            versionNameSuffix = ""
             resValue("string", "apps_name", "Lawnicons")
         }
         create("light") {
@@ -81,6 +79,7 @@ android {
     buildFeatures {
         buildConfig = true
         compose = true
+        resValues = true
     }
 
     composeOptions {
@@ -133,6 +132,7 @@ dependencies {
     implementation("com.google.dagger:hilt-android:$hiltVersion")
     annotationProcessor("com.google.dagger:hilt-android-compiler:$hiltVersion")
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
+    kapt ("com.google.dagger:hilt-compiler:$hiltVersion")
     implementation("com.github.LawnchairLauncher:oss-notices:1.0.2")
     implementation("io.coil-kt:coil-compose:2.2.2")
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
