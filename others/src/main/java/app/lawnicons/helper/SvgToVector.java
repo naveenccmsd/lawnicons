@@ -1,5 +1,6 @@
 package app.lawnicons.helper;
 
+import org.apache.commons.text.WordUtils;
 import org.dom4j.Document;
 import org.dom4j.DocumentException;
 import org.dom4j.Element;
@@ -8,7 +9,6 @@ import org.dom4j.tree.DefaultDocument;
 import java.io.IOException;
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class SvgToVector {
 
@@ -62,23 +62,25 @@ public class SvgToVector {
         for (Map.Entry<String, String> keyValue : map.entrySet()) {
             String[] comps = keyValue.getValue().split("/");
             doc.getRootElement().addElement("icon")
-                .addAttribute("drawable", "@drawable/"+keyValue.getKey())
-                .addAttribute("package", comps[0]);
+                .addAttribute("drawable", "@drawable/" + keyValue.getKey())
+                .addAttribute("package", comps[0])
+                .addAttribute("name", WordUtils.capitalize(keyValue.getKey().replaceAll("_", " ")));
         }
         //Add icon mapping from old grayscale_icon_map.xml
         updateOldIconMap(doc);
         CommonUtil.writeDocumentToFile(doc, filename);
     }
+
     private static void updateOldIconMap(Document doc) {
         try {
             Document root = CommonUtil.getDocument(oldIconMapFile);
-            List<Element> oldElementList =CommonUtil.getElements(root, "icon");
+            List<Element> oldElementList = CommonUtil.getElements(root, "icon");
             List<String> packageList = doc.getRootElement().elements().stream()
-                .map(i->i.attribute("package").getValue()).collect(Collectors.toList());
+                .map(i -> i.attribute("package").getValue()).collect(Collectors.toList());
             oldElementList.stream()
                 .sorted(Comparator.comparing(i -> i.attribute("drawable").getValue()))
-                .filter(i-> !packageList.contains(i.attribute("package").getValue()))
-                .forEach(e->{
+                .filter(i -> !packageList.contains(i.attribute("package").getValue()))
+                .forEach(e -> {
                     doc.getRootElement().addElement("icon")
                         .addAttribute("drawable", e.attribute("drawable").getValue())
                         .addAttribute("package", e.attribute("package").getValue())
