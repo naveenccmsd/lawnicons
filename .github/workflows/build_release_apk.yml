@@ -31,9 +31,8 @@ jobs:
             echo ${{ secrets.KEYSTORE }} | base64 --decode > ${{ github.workspace }}/key.jks
           fi
       - name: Prepare Prebuild
-        working-directory: ./others
-        run: mvn clean install exec:java
-      - name: ./gradlew run
+        run: ./gradlew others:run
+      - name: Build debug APK
         run: ./gradlew app:assembleRelease
       - name: Upload artifact
         uses: actions/upload-artifact@v3
@@ -70,5 +69,5 @@ jobs:
           TELEGRAM_CI_BOT_TOKEN: ${{ secrets.TELEGRAM_CI_BOT_TOKEN }}
           TELEGRAM_CI_CHANNEL_ID: ${{ secrets.TELEGRAM_CI_CHANNEL_ID }}
           TELEGRAM_TEAM_GROUP_ID: ${{ secrets.TELEGRAM_TEAM_GROUP_ID }}
-          ARTIFACT_DIRECTORY: artifacts/release-apk/*/release
+          ARTIFACT_DIRECTORY: artifacts/release-apk/dark/release
           GITHUB_REF: ${{ github.ref }}

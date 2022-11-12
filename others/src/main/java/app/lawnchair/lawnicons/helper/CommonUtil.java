@@ -34,7 +34,7 @@ public class CommonUtil {
             .forEachOrdered(x -> result2.put(x.getKey(), x.getValue()));
         return result2;
     }
-    public static Map<String, String> sortedMapbyValues(Map<String, String> map) {
+    public static Map<String, String> sortedMapByValues(Map<String, String> map) {
         Map<String, String> result2 = new LinkedHashMap<>();
         map.entrySet().stream()
             .sorted(Map.Entry.comparingByValue())
