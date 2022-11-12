@@ -71,29 +71,6 @@ public class SvgToVector {
                 .addAttribute("name", WordUtils.capitalize(keyValue.getValue().replaceAll("_", " ")));
         }
         CommonUtil.writeDocumentToFile(doc, filename);
-        //Add icon mapping from old grayscale_icon_map.xml
-        updateOldIconMap(doc);
-    }
-
-    private static void updateOldIconMap(Document doc) {
-        try {
-            Document root = CommonUtil.getDocument(oldIconMapFile);
-            List<Element> oldElementList = CommonUtil.getElements(root, "icon");
-            List<String> packageList = doc.getRootElement().elements().stream()
-                .map(i -> i.attribute("package").getValue()).collect(Collectors.toList());
-            oldElementList.stream()
-                .sorted(Comparator.comparing(i -> i.attribute("drawable").getValue()))
-                .filter(i -> !packageList.contains(i.attribute("package").getValue()))
-                .forEach(e -> {
-                    doc.getRootElement().addElement("icon")
-                        .addAttribute("drawable", e.attribute("drawable").getValue())
-                        .addAttribute("package", e.attribute("package").getValue())
-                        .addAttribute("name", e.attribute("name").getValue());
-                });
-        } catch (DocumentException e) {
-            throw new RuntimeException(e);
-        }
-
     }
 
     private static void createDrawable(Map<String, String> map, String filename) throws IOException {
