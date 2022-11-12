@@ -12,7 +12,7 @@ import java.util.stream.Collectors;
 
 public class SvgToVector {
 
-    static String sourceDirectory = "../svg2/";
+    static String sourceDirectory = "../svgs/";
     static String darkRes = "../app/src/dark/res";
     static String LightRes = "../app/src/light/res";
     static String oldIconMapFile = "../app/src/main/res/xml/grayscale_icon_map.xml";
