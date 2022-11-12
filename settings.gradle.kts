@@ -37,6 +37,6 @@ dependencyResolutionManagement {
 
 rootProject.name = "Lawnicons"
 include(
-    ":app",
     ":others",
+    ":app",
 )

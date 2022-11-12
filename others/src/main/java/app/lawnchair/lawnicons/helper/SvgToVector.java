@@ -1,4 +1,4 @@
-package app.lawnicons.helper;
+package app.lawnchair.lawnicons.helper;
 
 import org.apache.commons.lang3.text.WordUtils;
 import org.dom4j.Document;
@@ -7,7 +7,10 @@ import org.dom4j.Element;
 import org.dom4j.tree.DefaultDocument;
 
 import java.io.IOException;
-import java.util.*;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 import java.util.stream.Collectors;
 
 public class SvgToVector {
@@ -23,7 +26,7 @@ public class SvgToVector {
         loadSvgToVector(sourceDirectory, darkRes + "/drawable", "dark");
         loadSvgToVector(sourceDirectory, LightRes + "/drawable", "light");
         createConfigs("../app/assets/appfilter.xml");
-
+        System.out.println("SvgToVector task completed");
     }
 
     public static void loadSvgToVector(String sourceDirectory, String destDirectory, String mode) {
@@ -66,9 +69,9 @@ public class SvgToVector {
                 .addAttribute("package", comps[0])
                 .addAttribute("name", WordUtils.capitalize(keyValue.getKey().replaceAll("_", " ")));
         }
+        CommonUtil.writeDocumentToFile(doc, filename);
         //Add icon mapping from old grayscale_icon_map.xml
         updateOldIconMap(doc);
-        CommonUtil.writeDocumentToFile(doc, filename);
     }
 
     private static void updateOldIconMap(Document doc) {

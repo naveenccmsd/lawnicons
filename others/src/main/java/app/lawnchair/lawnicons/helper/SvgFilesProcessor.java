@@ -1,4 +1,4 @@
-package app.lawnicons.helper;
+package app.lawnchair.lawnicons.helper;
 
 import com.android.ide.common.vectordrawable.Svg2Vector;
 import com.google.common.base.Charsets;

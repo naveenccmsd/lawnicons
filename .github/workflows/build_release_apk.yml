@@ -33,7 +33,7 @@ jobs:
       - name: Prepare Prebuild
         working-directory: ./others
         run: mvn clean install exec:java
-      - name: Build release APK
+      - name: ./gradlew run
         run: ./gradlew app:assembleRelease
       - name: Upload artifact
         uses: actions/upload-artifact@v3

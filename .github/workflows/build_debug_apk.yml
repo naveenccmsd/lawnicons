@@ -49,7 +49,7 @@ jobs:
           fi
       - name: Prepare Prebuild
         working-directory: ./others
-        run: mvn clean install exec:java
+        run: ./gradlew run
       - name: Build debug APK
         run: ./gradlew app:assembleDebug
       - name: Upload artifact

@@ -1,4 +1,4 @@
-package app.lawnicons.helper;
+package app.lawnchair.lawnicons.helper;
 
 import com.google.common.base.Charsets;
 import org.apache.commons.io.FileUtils;
