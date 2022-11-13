@@ -5,19 +5,19 @@ import com.google.common.base.Charsets
 import java.io.FileOutputStream
 import java.io.FileWriter
 import java.io.IOException
+import java.nio.file.Files
+import java.nio.file.FileVisitOption
+import java.nio.file.FileVisitor
+import java.nio.file.FileVisitResult
+import java.nio.file.Path
+import java.nio.file.Paths
 import java.nio.file.attribute.BasicFileAttributes
+import java.util.EnumSet
+import kotlin.io.FileAlreadyExistsException
 import org.dom4j.Document
 import org.dom4j.DocumentException
 import org.dom4j.io.OutputFormat
 import org.dom4j.io.XMLWriter
-import java.util.EnumSet
-import kotlin.io.FileAlreadyExistsException
-import java.nio.file.FileVisitOption
-import java.nio.file.FileVisitor
-import java.nio.file.Files
-import java.nio.file.Path
-import java.nio.file.Paths
-import java.nio.file.FileVisitResult
 
 class SvgFilesProcessor {
     private var sourceSvgPath: Path? = null
