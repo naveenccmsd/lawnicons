@@ -20,7 +20,7 @@ Here’s how to add an icon to&nbsp;Lawnicons:
 1. Add the ready SVG to the `svgs`&nbsp;directory.
 
 
-1. Add a new line to `app/assets/appfilter.xml` (in alphabetical order), and map the new icon to a package name and app's main activity. For&nbsp;example:
+1. Add a new line to `app/assets/appfilter.xml` (in alphabetical order), and map the new icon to a package name and app's activity. For&nbsp;example:
 
     ```xml
     <item component="ComponentInfo{app.lawnchair.lawnicons/app.lawnchair.lawnicons.MainActivity}" drawable="lawnicons"/> 
@@ -29,7 +29,23 @@ Here’s how to add an icon to&nbsp;Lawnicons:
     A general template is as&nbsp;follows:
 
     ```xml
-    <item component="ComponentInfo{[PACKAGE_NAME]/[APP_MAIN_ACIVITY]}" drawable="[DRAWABLE NAME]"/> 
+    <item component="ComponentInfo{[PACKAGE_NAME]/[APP_ACIVITY_NAME]}" drawable="[DRAWABLE NAME]"/> 
     ```
+
+    1.How to find App Package and App Activity of your Android App
+
+        Easiest way if you can use adb via computer/phone.
+        1. Connect your Android device or emulator to the PC/Mac/Phone via otg and open the App whose details you want to inspect i.e Whatsapp.
+        1. Open a Command Prompt or Terminal window and use ‘adb devices‘
+        1. Finally, type the below-given command to get the information about the currently open application.
+
+         ```xml
+            adb shell dumpsys window | grep -E 'mCurrentFocus'  
+        ```
+        ```xml
+            adb shell dumpsys window | find "mCurrentFocus"
+        ```
+        ![](./contributing-image-2.png)
+        Here, the part before the '/' character i.e org.telegram.messenger is the package name [PACKAGE_NAME] and the part after that i.e org.telegram.messenger.DefaultIcon is the Activity name [APP_ACIVITY_NAME].
 
 1. Done! You’re ready to open a pull request. Please set `develop` as the base&nbsp;branch.
