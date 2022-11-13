@@ -5,13 +5,19 @@ import com.google.common.base.Charsets
 import java.io.FileOutputStream
 import java.io.FileWriter
 import java.io.IOException
-import java.nio.file.*
 import java.nio.file.attribute.BasicFileAttributes
-import java.util.*
 import org.dom4j.Document
 import org.dom4j.DocumentException
 import org.dom4j.io.OutputFormat
 import org.dom4j.io.XMLWriter
+import java.util.EnumSet
+import kotlin.io.FileAlreadyExistsException
+import java.nio.file.FileVisitOption
+import java.nio.file.FileVisitor
+import java.nio.file.Files
+import java.nio.file.Path
+import java.nio.file.Paths
+import java.nio.file.FileVisitResult
 
 class SvgFilesProcessor {
     private var sourceSvgPath: Path? = null
@@ -32,12 +38,9 @@ class SvgFilesProcessor {
     fun process() {
         try {
             val options = EnumSet.of(FileVisitOption.FOLLOW_LINKS)
-            //check first if source is a directory
+            // check first if source is a directory
             if (Files.isDirectory(sourceSvgPath)) {
-                Files.walkFileTree(
-                    sourceSvgPath, options, Int.MAX_VALUE,
-                    fileVisitor(),
-                )
+                Files.walkFileTree(sourceSvgPath, options, Int.MAX_VALUE, fileVisitor())
             } else {
                 println("source not a directory")
             }
