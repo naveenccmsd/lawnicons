@@ -52,8 +52,8 @@ public class SvgToVector {
         Map sortedMap = CommonUtil.sortedMapByValues(map);
         createDrawable(sortedMap, darkRes + "/xml/drawable.xml");
         createDrawable(sortedMap, LightRes + "/xml/drawable.xml");
-        createIconMap(sortedMap, darkRes + "/xml/grayscale_icon_map.xml");
-        createIconMap(sortedMap, LightRes + "/xml/grayscale_icon_map.xml");
+        createIconMap(sortedMap, darkRes + "/xml/theme_config.xml");
+        createIconMap(sortedMap, LightRes + "/xml/theme_config.xml");
         CommonUtil.writeDocumentToFile(root, darkRes + "/xml/appfilter.xml");
         CommonUtil.writeDocumentToFile(root, LightRes + "/xml/appfilter.xml");
     }

@@ -9,7 +9,7 @@ fun Context.getIconInfo(): List<IconInfo> {
     val iconInfo = mutableListOf<IconInfo>()
 
     try {
-        val xmlId = R.xml.grayscale_icon_map
+        val xmlId = R.xml.theme_config
         if (xmlId != 0) {
             val parser = resources.getXml(xmlId)
             val depth = parser.depth
