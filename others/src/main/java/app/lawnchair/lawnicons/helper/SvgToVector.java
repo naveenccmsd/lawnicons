@@ -52,8 +52,20 @@ public class SvgToVector {
         Map sortedMap = CommonUtil.sortedMapByValues(map);
         createDrawable(sortedMap, darkRes + "/xml/drawable.xml");
         createDrawable(sortedMap, LightRes + "/xml/drawable.xml");
+        createIconMap(sortedMap, darkRes + "/xml/grayscale_icon_map.xml");
+        createIconMap(sortedMap, LightRes + "/xml/grayscale_icon_map.xml");
         CommonUtil.writeDocumentToFile(root, darkRes + "/xml/appfilter.xml");
         CommonUtil.writeDocumentToFile(root, LightRes + "/xml/appfilter.xml");
+    }
+
+    private static void createIconMap(Map<String, String> map, String filename) throws IOException {
+        Document doc = new DefaultDocument();
+        doc.addElement("icons");
+        for (Map.Entry<String, String> keyValue : map.entrySet()) {
+            String[] comps = keyValue.getKey().split("/");
+            doc.getRootElement().addElement("icon").addAttribute("drawable", "@drawable/" + keyValue.getValue()).addAttribute("package", comps[0]).addAttribute("name", WordUtils.capitalize(keyValue.getValue().replaceAll("_", " ")));
+        }
+        CommonUtil.writeDocumentToFile(doc, filename);
     }
 
     private static void createDrawable(Map<String, String> map, String filename) throws IOException {
