@@ -14,7 +14,6 @@ import org.dom4j.io.OutputFormat
 import org.dom4j.io.XMLWriter
 
 class SvgFilesProcessor {
-
     private var sourceSvgPath: Path? = null
     private var destinationVectorPath: Path? = null
     private var extension: String? = null
@@ -22,13 +21,14 @@ class SvgFilesProcessor {
     private val commonUtil = CommonUtil()
     private var mode: String? = null
 
-    constructor(sourceDirectory: String, destDirectory: String?, mode: String?){
+    constructor(sourceDirectory: String, destDirectory: String?, mode: String?) {
         this.sourceSvgPath = Paths.get(sourceDirectory)
         this.destinationVectorPath = Paths.get(destDirectory)
         this.mode = mode
         this.extensionSuffix = ""
         this.extension = "xml"
     }
+
     fun process() {
         try {
             val options = EnumSet.of(FileVisitOption.FOLLOW_LINKS)
@@ -105,8 +105,8 @@ class SvgFilesProcessor {
     private fun convertToVector(source: Path, target: Path) {
         // convert only if it is .svg
         if (source.fileName.toString().endsWith(".svg")) {
-            val targetFile = commonUtil.getFileWithXMlExtension(target, extension, extensionSuffix)
-                ?: return
+            val targetFile =
+                commonUtil.getFileWithXMlExtension(target, extension, extensionSuffix) ?: return
             val fileOutputStream = FileOutputStream(targetFile)
             Svg2Vector.parseSvgToXml(source.toFile(), fileOutputStream)
             try {
@@ -151,5 +151,4 @@ class SvgFilesProcessor {
         writer.write(outDocument)
         writer.close()
     }
-
 }

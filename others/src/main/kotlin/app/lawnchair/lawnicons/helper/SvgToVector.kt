@@ -52,9 +52,8 @@ class SvgToVector {
         doc.addElement("icons")
         map?.forEach { (key, value) ->
             val comps = key.split("/").toTypedArray()
-            doc.rootElement
-                .addElement("icon")
-                .addAttribute("drawable", "@drawable/$value").addAttribute("package", comps[0])
+            doc.rootElement.addElement("icon").addAttribute("drawable", "@drawable/$value")
+                .addAttribute("package", comps[0])
                 .addAttribute("name", WordUtils.capitalize(value.replace("_".toRegex(), " ")))
         }
         commonUtil.writeDocumentToFile(doc, filename)
@@ -72,11 +71,10 @@ class SvgToVector {
     }
 }
 
-
-    fun main() {
-        val app = SvgToVector()
-        app.loadSvgToVector(app.sourceDirectory, app.darkRes + "/drawable", "dark")
-        app.loadSvgToVector(app.sourceDirectory, app.lightRes + "/drawable", "light")
-        app.createConfigs(app.rootFolder + "/app/assets/appfilter.xml")
-        println("SvgToVector task completed")
-    }
+fun main() {
+    val app = SvgToVector()
+    app.loadSvgToVector(app.sourceDirectory, app.darkRes + "/drawable", "dark")
+    app.loadSvgToVector(app.sourceDirectory, app.lightRes + "/drawable", "light")
+    app.createConfigs(app.rootFolder + "/app/assets/appfilter.xml")
+    println("SvgToVector task completed")
+}

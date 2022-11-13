@@ -25,8 +25,7 @@ class CommonUtil {
 
     fun sortedMapByValues(map: Map<String, String>): Map<String, String>? {
         val result2: MutableMap<String, String> = LinkedHashMap()
-        map.entries.stream()
-            .sorted(java.util.Map.Entry.comparingByValue())
+        map.entries.stream().sorted(java.util.Map.Entry.comparingByValue())
             .forEachOrdered { (key, value): Map.Entry<String, String> ->
                 result2[key] = value
             }
