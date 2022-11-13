@@ -4,7 +4,7 @@ plugins {
 }
 
 application {
-    mainClass.set("app.lawnchair.lawnicons.helper.SvgToVector")
+    mainClass.set("app.lawnchair.lawnicons.helper.SvgToVectorKt")
 }
 
 dependencies {

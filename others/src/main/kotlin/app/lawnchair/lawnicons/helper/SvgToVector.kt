@@ -8,7 +8,7 @@ import org.dom4j.tree.DefaultDocument
 
 class SvgToVector {
 
-    val rootFolder = "."
+    val rootFolder = ".."
     val sourceDirectory = "$rootFolder/svgs/"
     val darkRes = "$rootFolder/app/src/dark/res"
     val lightRes = "$rootFolder/app/src/light/res"
@@ -73,7 +73,7 @@ class SvgToVector {
 }
 
 
-    fun main(args: Array<String>) {
+    fun main() {
         val app = SvgToVector()
         app.loadSvgToVector(app.sourceDirectory, app.darkRes + "/drawable", "dark")
         app.loadSvgToVector(app.sourceDirectory, app.lightRes + "/drawable", "light")
