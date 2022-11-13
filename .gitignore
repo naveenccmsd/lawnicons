@@ -11,3 +11,5 @@ keystore.properties
 others/target/
 app/src/dark
 app/src/light
+others/gradle/wrapper/gradle-wrapper.properties
+others/gradle/wrapper/gradle-wrapper.jar
