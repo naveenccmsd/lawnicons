@@ -59,8 +59,10 @@
   <item component="ComponentInfo{com.cpuid.cpu_z/.MainActivity}" drawable="cpu_z" name="CPU Z"/>
   <item component="ComponentInfo{com.deutschebahn.app.android/.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
   <item component="ComponentInfo{jp.ad.iij.miodial/.MainActivity}" drawable="dialer" name="Phone"/>
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{com.asus.asusincallui/.MainActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.contacts.activities.DialtactsActivity/.MainActivity}" drawable="dialer" name="Phone"/>
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{ccom.disneyplus.mea/.MainActivity}" drawable="disneyplus" name="Disney+"/>
   <item component="ComponentInfo{com.dominospizza.az/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.dominos.bd/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
@@ -84,7 +86,6 @@
   <item component="ComponentInfo{org.aospstudio.files/.MainActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.coloros.files/.MainActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{de.finanzen.net/.MainActivity}" drawable="finanzen" name="finanzen.net"/>
-  <item component="ComponentInfo{fc.admin.fcexpressadmin/.MainActivity}" drawable="firstcry" name="Firstcry"/>
   <item component="ComponentInfo{com.superelement.pomodoro/.MainActivity}" drawable="focus_todo" name="Focus To-Do"/>
   <item component="ComponentInfo{de.md.meinmd/.MainActivity}" drawable="freenet_mobilfunk" name="freenet Mobilfunk"/>
   <item component="ComponentInfo{rocks.poopjournal.fucksgiven/.MainActivity}" drawable="fxxxs_given" name="F***s Given"/>
@@ -101,7 +102,6 @@
   <item component="ComponentInfo{nl.karwei.app.android/.MainActivity}" drawable="karwei" name="KARWEI"/>
   <item component="ComponentInfo{com.ketchapp.knifehit/.MainActivity}" drawable="knife_hit" name="Knife Hit"/>
   <item component="ComponentInfo{com.thehitman7.cygisk/.MainActivity}" drawable="magisk" name="Magisk"/>
-  <item component="ComponentInfo{com.manipal.manipalhospitals/.MainActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
   <item component="ComponentInfo{io.material.catalog/.MainActivity}" drawable="material_catalog" name="Material Catalog"/>
   <item component="ComponentInfo{androidx.compose.material.catalog/.MainActivity}" drawable="material_catalog" name="Compose Material Catalog"/>
   <item component="ComponentInfo{com.numero.material_gallery/.MainActivity}" drawable="material_catalog" name="MaterialGallery "/>
