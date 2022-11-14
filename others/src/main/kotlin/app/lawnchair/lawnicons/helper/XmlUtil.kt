@@ -1,6 +1,5 @@
 package app.lawnchair.lawnicons.helper
 
-import com.google.common.base.Charsets
 import java.io.File
 import java.io.FileWriter
 import java.nio.file.Path

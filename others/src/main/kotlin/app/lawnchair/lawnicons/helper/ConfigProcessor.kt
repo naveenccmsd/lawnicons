@@ -1,6 +1,5 @@
 package app.lawnchair.lawnicons.helper
 
-import org.apache.commons.text.WordUtils
 import org.dom4j.Document
 import org.dom4j.tree.DefaultDocument
 
@@ -70,7 +69,7 @@ object ConfigProcessor {
             val component = componentInfo.split("/").toTypedArray()
             val name = iconMap.getOrDefault(
                 componentInfo,
-                WordUtils.capitalize(drawable.replace("_".toRegex(), " ")),
+                drawable.replace("_".toRegex(), " ").capitalize(),
             )
             iconsDocument.rootElement.addElement(ICON)
                 .addAttribute(DRAWABLE, "@drawable/$drawable")
