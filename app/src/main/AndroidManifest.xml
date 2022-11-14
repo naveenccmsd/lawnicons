@@ -17,29 +17,30 @@
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+            <!-- Lawnchair Launcher -->
+            <intent-filter>
+                <action android:name="app.lawnchair.icons.THEMED_ICON" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
             <!-- ADW Launcher -->
             <intent-filter>
                 <action android:name="org.adw.launcher.THEMES" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <!-- ADW Launcher Custom Icon Picker -->
             <intent-filter>
                 <action android:name="org.adw.launcher.icons.ACTION_PICK_ICON" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <!-- Apex Launcher -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="com.anddoes.launcher.THEME" />
             </intent-filter>
             <!-- GO Launcher -->
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <action android:name="com.gau.go.launcherex.theme" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
             <!-- Atom Launcher -->
