@@ -9,7 +9,7 @@ fun main() {
 
     // Convert svg to drawable in runtime
     SvgFilesProcessor.process(sourceDirectory, "$darkResourceDirectory/drawable", "dark")
-    SvgFilesProcessor.process(sourceDirectory, "$lightResourceDirectory/drawable", "dark")
+    SvgFilesProcessor.process(sourceDirectory, "$lightResourceDirectory/drawable", "light")
 
     // Read appfilter xml and create icon, drawable xml file.
     ConfigProcessor.loadAndCreateConfigs(
