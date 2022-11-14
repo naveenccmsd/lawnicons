@@ -17,15 +17,15 @@ object ConfigProcessor {
 
     fun loadAndCreateConfigs(
         appFilterFile: String,
-        darkResourceDirectory: String,
-        lightResourceDirectory: String,
+        darkResDir: String,
+        lightResDir: String,
     ) {
         val drawableMap = hashMapOf<String, String>()
         val iconMap = hashMapOf<String, String>()
         val appFilterDocument = loadConfigFromXml(appFilterFile, drawableMap, iconMap)
         val sortedDrawableMap = drawableMap.toList().sortedBy { (_, value) -> value }.toMap()
 
-        listOf(darkResourceDirectory, lightResourceDirectory).forEach {
+        listOf(darkResDir, lightResDir).forEach {
             // Create Drawable files
             writeDrawableToFile(sortedDrawableMap, "$it/xml/drawable.xml")
             // Create Icon Map files
