@@ -27,8 +27,7 @@ object XmlUtil {
             if (index != -1) {
                 append(svgFilePath.substring(0, index))
             }
-            append(".")
-            append("xml")
+            append(".xml")
         }
     }
 
