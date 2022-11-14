@@ -1,5 +1,6 @@
 package app.lawnchair.lawnicons.helper
 
+import java.util.Locale
 import org.dom4j.Document
 import org.dom4j.tree.DefaultDocument
 
@@ -88,5 +89,9 @@ object ConfigProcessor {
             resourceDocument.rootElement.addElement(ITEM).addAttribute(DRAWABLE, drawable)
         }
         XmlUtil.writeDocumentToFile(resourceDocument, filename)
+    }
+
+    private fun String.capitalize(): String = replaceFirstChar {
+        if (it.isLowerCase()) it.titlecase(Locale.getDefault()) else it.toString()
     }
 }
