@@ -21,20 +21,15 @@ import org.dom4j.io.XMLWriter
 class SvgFilesProcessor {
     private var sourceSvgPath: Path? = null
     private var destinationVectorPath: Path? = null
-    private var extension: String? = null
-    private var extensionSuffix: String? = null
-    private val commonUtil = CommonUtil()
-    private var mode: String? = null
+    private val extension: String? = "xml"
+    private val extensionSuffix: String? = ""
+    private var mode: String? = "dark"
+    private val xmlUtil = XmlUtil()
 
-    constructor(sourceDirectory: String, destDirectory: String?, mode: String?) {
+    fun process(sourceDirectory: String?, destDirectory: String?, mode: String?) {
         this.sourceSvgPath = Paths.get(sourceDirectory)
         this.destinationVectorPath = Paths.get(destDirectory)
         this.mode = mode
-        this.extensionSuffix = ""
-        this.extension = "xml"
-    }
-
-    fun process() {
         try {
             val options = EnumSet.of(FileVisitOption.FOLLOW_LINKS)
             // check first if source is a directory
@@ -44,7 +39,6 @@ class SvgFilesProcessor {
                 println("source not a directory")
             }
         } catch (e: IOException) {
-            e.printStackTrace()
             println("IOException " + e.message)
         }
     }
@@ -104,43 +98,44 @@ class SvgFilesProcessor {
     }
 
     @Throws(IOException::class)
-    private fun convertToVector(source: Path, target: Path) {
+    private fun convertToVector(svgSource: Path, vectorTargetPath: Path) {
         // convert only if it is .svg
-        if (source.fileName.toString().endsWith(".svg")) {
+        if (svgSource.fileName.toString().endsWith(".svg")) {
             val targetFile =
-                commonUtil.getFileWithXMlExtension(target, extension, extensionSuffix) ?: return
+                xmlUtil.getFileWithXMlExtension(vectorTargetPath, extension, extensionSuffix)
+                    ?: return
             val fileOutputStream = FileOutputStream(targetFile)
-            Svg2Vector.parseSvgToXml(source.toFile(), fileOutputStream)
+            Svg2Vector.parseSvgToXml(svgSource.toFile(), fileOutputStream)
             try {
                 if (mode == "dark") {
-                    updatePath(targetFile, "android:strokeColor", "#000")
-                    updatePath(targetFile, "android:fillColor", "#000")
+                    updateXmlPath(targetFile, "android:strokeColor", "#000")
+                    updateXmlPath(targetFile, "android:fillColor", "#000")
                 } else if (mode == "light") {
-                    updatePath(targetFile, "android:strokeColor", "#fff")
-                    updatePath(targetFile, "android:fillColor", "#fff")
+                    updateXmlPath(targetFile, "android:strokeColor", "#fff")
+                    updateXmlPath(targetFile, "android:fillColor", "#fff")
                 }
             } catch (e: DocumentException) {
                 throw RuntimeException(e)
             }
         } else {
-            println("Skipping file as its not svg " + source.fileName)
+            println("Skipping file as its not svg " + svgSource.fileName)
         }
     }
 
     @Throws(DocumentException::class, IOException::class)
-    private fun updatePath(xmlPath: String, key: String, value: String) {
-        val aDocument = commonUtil.getDocument(xmlPath)
-        val keyWithoutNameSpace = key.substring(key.indexOf(":") + 1)
-        if (aDocument != null && aDocument.rootElement != null) {
-            for (e in aDocument.rootElement.elements("path")) {
+    private fun updateXmlPath(xmlPath: String, searchKey: String, attributeValue: String) {
+        val xmlDocument = xmlUtil.getDocument(xmlPath)
+        val keyWithoutNameSpace = searchKey.substring(searchKey.indexOf(":") + 1)
+        if (xmlDocument != null && xmlDocument.rootElement != null) {
+            for (e in xmlDocument.rootElement.elements("path")) {
                 val attr = e.attribute(keyWithoutNameSpace)
                 if (attr != null) {
                     if (attr.value != "#00000000") {
-                        attr.value = value
+                        attr.value = attributeValue
                     }
                 }
             }
-            updateDocumentToFile(aDocument, xmlPath)
+            updateDocumentToFile(xmlDocument, xmlPath)
         }
     }
 

@@ -13,7 +13,7 @@ import org.dom4j.io.OutputFormat
 import org.dom4j.io.SAXReader
 import org.dom4j.io.XMLWriter
 
-class CommonUtil {
+class XmlUtil {
     @Throws(DocumentException::class)
     fun getElements(
         document: Document,
@@ -21,15 +21,6 @@ class CommonUtil {
     ): List<Element?>? {
         val rootElement = document.rootElement
         return rootElement.elements(path)
-    }
-
-    fun sortedMapByValues(map: Map<String, String>): Map<String, String>? {
-        val result2: MutableMap<String, String> = LinkedHashMap()
-        map.entries.stream().sorted(java.util.Map.Entry.comparingByValue())
-            .forEachOrdered { (key, value): Map.Entry<String, String> ->
-                result2[key] = value
-            }
-        return result2
     }
 
     @Throws(DocumentException::class)
