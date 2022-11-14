@@ -50,15 +50,20 @@ class SvgToVector {
     }
 
     @Throws(IOException::class)
-    private fun createIconMap(map: Map<String, String>?, nameMap: Map<String, String>?, filename: String) {
+    private fun createIconMap(
+        map: Map<String, String>?,
+        nameMap: Map<String, String>?,
+        filename: String,
+    ) {
         val doc: Document = DefaultDocument()
         doc.addElement("icons")
         map?.forEach { (key, value) ->
             val comps = key.split("/").toTypedArray()
-            val name = nameMap?.getOrDefault(key,WordUtils.capitalize(value.replace("_".toRegex(), " ")))
+            val name =
+                nameMap?.getOrDefault(key, WordUtils.capitalize(value.replace("_".toRegex(), " ")))
             doc.rootElement.addElement("icon").addAttribute("drawable", "@drawable/$value")
                 .addAttribute("package", comps[0])
-                .addAttribute("name",name )
+                .addAttribute("name", name)
         }
         commonUtil.writeDocumentToFile(doc, filename)
     }
