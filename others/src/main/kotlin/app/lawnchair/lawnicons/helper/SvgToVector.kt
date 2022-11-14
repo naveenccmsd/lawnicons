@@ -28,33 +28,37 @@ class SvgToVector {
         val root = commonUtil.getDocument(appFilterFile)!!
         val aList = commonUtil.getElements(root, "item")
         val map: MutableMap<String, String> = HashMap()
+        val nameMap: MutableMap<String, String> = HashMap()
         assert(aList != null)
         for (element in aList!!) {
             val component = element!!.attribute("component").value
             val drawable = element.attribute("drawable").value
+            val name = element.attribute("name").value
             if (component.startsWith(compStart) && component.endsWith(compEnd)) {
                 val comps = component.substring(compStart.length, component.length - compEnd.length)
                 map[comps] = drawable
+                nameMap[comps] = name
             }
         }
         val sortedMap = commonUtil.sortedMapByValues(map)!!
         createDrawable(sortedMap, "$darkRes/xml/drawable.xml")
         createDrawable(sortedMap, "$lightRes/xml/drawable.xml")
-        createIconMap(sortedMap, "$darkRes/xml/theme_config.xml")
-        createIconMap(sortedMap, "$lightRes/xml/theme_config.xml")
+        createIconMap(sortedMap, nameMap, "$darkRes/xml/theme_config.xml")
+        createIconMap(sortedMap, nameMap, "$lightRes/xml/theme_config.xml")
         commonUtil.writeDocumentToFile(root, "$darkRes/xml/appfilter.xml")
         commonUtil.writeDocumentToFile(root, "$lightRes/xml/appfilter.xml")
     }
 
     @Throws(IOException::class)
-    private fun createIconMap(map: Map<String, String>?, filename: String) {
+    private fun createIconMap(map: Map<String, String>?, nameMap: Map<String, String>?, filename: String) {
         val doc: Document = DefaultDocument()
         doc.addElement("icons")
         map?.forEach { (key, value) ->
             val comps = key.split("/").toTypedArray()
+            val name = nameMap?.getOrDefault(key,WordUtils.capitalize(value.replace("_".toRegex(), " ")))
             doc.rootElement.addElement("icon").addAttribute("drawable", "@drawable/$value")
                 .addAttribute("package", comps[0])
-                .addAttribute("name", WordUtils.capitalize(value.replace("_".toRegex(), " ")))
+                .addAttribute("name",name )
         }
         commonUtil.writeDocumentToFile(doc, filename)
     }

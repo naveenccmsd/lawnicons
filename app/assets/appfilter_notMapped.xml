@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+  <item component="ComponentInfo{dev.kdrag0n.android12ext/.MainActivity}" drawable="a12_extensions" name="Android 12 Extensions"/>
+  <item component="ComponentInfo{com.acronis.acronistrueimage/.MainActivity}" drawable="acronis_mobile" name="Acronis Mobile"/>
+  <item component="ComponentInfo{de.actionbound/.MainActivity}" drawable="actionbound" name="Actionbound"/>
+  <item component="ComponentInfo{com.dv.adm.pay/.MainActivity}" drawable="advanced_download_manager" name="Advanced Download Manager"/>
+  <item component="ComponentInfo{in.amoled.darkawallpapers/.MainActivity}" drawable="amoled_in" name="Amoled.in"/>
+  <item component="ComponentInfo{com.antutu.ABenchMark/.MainActivity}" drawable="antutu" name="AnTuTu Benchmark"/>
+  <item component="ComponentInfo{com.antutu.benchmark.full/.MainActivity}" drawable="antutu" name="AnTuTu 3DBench"/>
+  <item component="ComponentInfo{cz.seeq.prog.android.packageviewer/.MainActivity}" drawable="app_manager" name="Package Viewer"/>
+  <item component="ComponentInfo{com.ubqsoft.sec01/.MainActivity}" drawable="application_inspector" name="Application Inspector"/>
+  <item component="ComponentInfo{de.swr.avp.ard/.MainActivity}" drawable="ard_mediathek" name="ARD Mediathek"/>
+  <item component="ComponentInfo{com.axis.net/.MainActivity}" drawable="axisnet" name="AXISnet"/>
+  <item component="ComponentInfo{com.jago.digitalbanking/.MainActivity}" drawable="bank_jago" name="Jago"/>
+  <item component="ComponentInfo{com.bca/.MainActivity}" drawable="bca_mobile" name="BCA Mobile"/>
+  <item component="ComponentInfo{in.usefulapp.timelybills/.MainActivity}" drawable="bills_reminder" name="Bills Reminder"/>
+  <item component="ComponentInfo{com.linkit.bimatri/.MainActivity}" drawable="bima_plus" name="Bima+"/>
+  <item component="ComponentInfo{io.japp.blackscreen/.MainActivity}" drawable="black_screen" name="Black Screen"/>
+  <item component="ComponentInfo{org.blokada.alarm.dnschanger/.MainActivity}" drawable="blokada" name="Blokada"/>
+  <item component="ComponentInfo{org.blokada.sex/.MainActivity}" drawable="blokada" name="Blokada"/>
+  <item component="ComponentInfo{src.com.bni/.MainActivity}" drawable="bni_mobile" name="BNI Mobile Banking"/>
+  <item component="ComponentInfo{com.bankofireland.mobilebanking/.MainActivity}" drawable="boi" name="BOI Mobile"/>
+  <item component="ComponentInfo{com.logitech.ueboom/.MainActivity}" drawable="boom_and_megaboom" name="BOOM &amp; MEGABOOM"/>
+  <item component="ComponentInfo{com.supercell.boombeach/.MainActivity}" drawable="boom_beach" name="Boom Beach"/>
+  <item component="ComponentInfo{com.elektropepi.bootboi/.MainActivity}" drawable="bootboi" name="BootBoi"/>
+  <item component="ComponentInfo{com.bose.bosemusic/.MainActivity}" drawable="bose_music" name="Bose Music"/>
+  <item component="ComponentInfo{de.br.sep.news.br24/.MainActivity}" drawable="br24" name="BR24"/>
+  <item component="ComponentInfo{id.co.bri.brimo/.MainActivity}" drawable="bri_mobile" name="BRImo"/>
+  <item component="ComponentInfo{com.browsec.vpn.proxy/.MainActivity}" drawable="browsec" name="BROWSEC"/>
+  <item component="ComponentInfo{com.browsec.vpn/.MainActivity}" drawable="browsec" name="BROWSEC"/>
+  <item component="ComponentInfo{org.droidtr.jelly/.MainActivity}" drawable="browser" name="Browser"/>
+  <item component="ComponentInfo{com.bukalapak.android/.MainActivity}" drawable="bukalapak" name="Bukalapak"/>
+  <item component="ComponentInfo{com.dwarfplanet.bundle/.MainActivity}" drawable="bundle" name="Bundle"/>
+  <item component="ComponentInfo{com.spoonstream.bklebanon/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.proacit.burgerkingcolombia/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.expremio.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{burgerking.id.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{ru.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.burgerkingqatar.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.smt.BurgerKing/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.nosmk.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{ie.whopper.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{led.android.burgerkingisrael/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{air.com.unit9.bkFrApp/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.burgerking.turk/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.frakton.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{jp.co.burgerkingjapan/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.burgerking.kingfinder/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.dom.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{kr.co.burgerkinghybrid/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.burgerkingpl/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.skylinedynamics.bk/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.tapston.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{it.burgerking.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.burgerkingcz/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{in.burgerking.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{se.burgerking.ordersapp/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.tillster.bk_kw_mobile/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{ni.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.bk.ch/.MainActivity}" drawable="burger_king" name="Burger King"/>
+  <item component="ComponentInfo{com.byu.id/.MainActivity}" drawable="by_u" name="by.U"/>
+  <item component="ComponentInfo{com.gigaworks.tech.calculator/.MainActivity}" drawable="calculator_plus" name="Calculator Plus"/>
+  <item component="ComponentInfo{org.lineageos.aperture/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.honor.camera/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.MGC.not.stable/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.ngcam.camera/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.arn/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.GoogleCamera.Burial31/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.GoogleCamera.Burial/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.MGC_8_4_400/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.GoogleCamera.mwp84/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{org.lineageos.selfie/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.mgc/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.google.android.GoogleCameraLMC/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.MGC_8_5_300/.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.reincubate.camo/.MainActivity}" drawable="camo" name="Camo"/>
+  <item component="ComponentInfo{com.google.samples.apps.cardboarddemo/.MainActivity}" drawable="cardboard" name="Cardboard"/>
+  <item component="ComponentInfo{org.nift4.catox/.MainActivity}" drawable="catogram" name="Catogram"/>
+  <item component="ComponentInfo{cellmapper.net.cellmapper/.MainActivity}" drawable="cellmapper" name="Cellmapper"/>
+  <item component="ComponentInfo{com.google.chromeremotedesktop/.MainActivity}" drawable="chrome_remote_desktop" name="Chrome Remote Desktop"/>
+  <item component="ComponentInfo{tools.church.app/.MainActivity}" drawable="church_tools" name="ChurchTools"/>
+  <item component="ComponentInfo{com.citiuat/.MainActivity}" drawable="citibank_mobile" name="Citi Mobile"/>
+  <item component="ComponentInfo{com.wb.clipboard.pro/.MainActivity}" drawable="clipto" name="Clipto"/>
+  <item component="ComponentInfo{com.dslit.floatingclock/.MainActivity}" drawable="clock" name="Floating Clock"/>
+  <item component="ComponentInfo{com.rhmsoft.code/.MainActivity}" drawable="code_editor" name="Code Editor"/>
+  <item component="ComponentInfo{com.ryzac.codecademygo/.MainActivity}" drawable="codecademy_go" name="Codecademy Go"/>
+  <item component="ComponentInfo{com.cloudcompilerapp/.MainActivity}" drawable="codesnack_ide" name="CodeSnack IDE"/>
+  <item component="ComponentInfo{asia.coins.mobile/.MainActivity}" drawable="coins_ph" name="Coins.ph"/>
+  <item component="ComponentInfo{com.candlestick_app/.MainActivity}" drawable="coinvero" name="Coinvero"/>
+  <item component="ComponentInfo{de.peterge.combined/.MainActivity}" drawable="combined" name="Combined!"/>
+  <item component="ComponentInfo{dev.synapsetech.compass/.MainActivity}" drawable="compass" name="Compass"/>
+  <item component="ComponentInfo{co.coolors.android/.MainActivity}" drawable="coolors" name="Coolors"/>
+  <item component="ComponentInfo{com.cm_prod.bad/.MainActivity}" drawable="credit_mutuel" name="Crédit Mutuel"/>
+  <item component="ComponentInfo{id.dana/.MainActivity}" drawable="dana" name="DANA"/>
+  <item component="ComponentInfo{com.deutschebahn.app.android/.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
+  <item component="ComponentInfo{com.dealabs.apps.android/.MainActivity}" drawable="dealabs" name="Dealabs"/>
+  <item component="ComponentInfo{com.scheffsblend.designertools/.MainActivity}" drawable="designer_tools" name="Designer Tools"/>
+  <item component="ComponentInfo{com.sh.smart.caller/.MainActivity}" drawable="dialer" name="Phone"/>
+  <item component="ComponentInfo{jp.ad.iij.miodial/.MainActivity}" drawable="dialer" name="Phone"/>
+  <item component="ComponentInfo{com.asus.asusincallui/.MainActivity}" drawable="dialer" name="Phone"/>
+  <item component="ComponentInfo{com.android.contacts.activities.DialtactsActivity/.MainActivity}" drawable="dialer" name="Phone"/>
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias/.MainActivity}" drawable="dialer" name="Contacts"/>
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity/.MainActivity}" drawable="dialer" name="Contacts"/>
+  <item component="ComponentInfo{com.lilithgames.xgame.gp/.MainActivity}" drawable="dislyte" name="Dislyte"/>
+  <item component="ComponentInfo{ccom.disneyplus.mea/.MainActivity}" drawable="disneyplus" name="Disney+"/>
+  <item component="ComponentInfo{com.dolby/.MainActivity}" drawable="dolby" name="Dolby"/>
+  <item component="ComponentInfo{com.dominospizza.az/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{com.dominos.bd/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{com.phonegap.dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{dominos.main/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{is.stokkur.dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{com.dominos.sa/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{by.mc.dominos.com/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{nl.speakap.dominosdeutschland/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{com.boloid.dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{pk.com.dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{uk.co.dominos.android/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{ua.com.coxo.dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{com.Dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{il.co.dominos.android/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
+  <item component="ComponentInfo{com.jndapp.dove.iconpack/.MainActivity}" drawable="dove_icons" name="Dove"/>
+  <item component="ComponentInfo{com.jndapp.dove.light.iconpack/.MainActivity}" drawable="dove_icons" name="Dove"/>
+  <item component="ComponentInfo{com.jndapp.dove.dark.iconpack/.MainActivity}" drawable="dove_icons" name="Dove"/>
+  <item component="ComponentInfo{com.jamworks.dynamicspot/.MainActivity}" drawable="dynamic_spot" name="dynamicSpot"/>
+  <item component="ComponentInfo{com.eksiteknoloji.eksisozluk/.MainActivity}" drawable="eksi_sozluk" name="ekşi sözlük"/>
+  <item component="ComponentInfo{com.cube.gdpc.che/.MainActivity}" drawable="erste_hilfe" name="Erste Hilfe"/>
+  <item component="ComponentInfo{de.eventim.mobile.app.Android/.MainActivity}" drawable="eventim" name="EVENTIM"/>
+  <item component="ComponentInfo{com.gorillasoftware.everyproxy/.MainActivity}" drawable="every_proxy" name="Every Proxy"/>
+  <item component="ComponentInfo{com.intermaps.familypark/.MainActivity}" drawable="familypark" name="Family Park"/>
+  <item component="ComponentInfo{com.fandom.app/.MainActivity}" drawable="fandom" name="FANDOM"/>
+  <item component="ComponentInfo{com.pinelabs.fave/.MainActivity}" drawable="fave" name="Fave"/>
+  <item component="ComponentInfo{com.nononsenseapps.feeder.play/.MainActivity}" drawable="feeder" name="Feeder"/>
+  <item component="ComponentInfo{com.figma.mirror/.MainActivity}" drawable="figma" name="Figma"/>
+  <item component="ComponentInfo{org.aospstudio.files/.MainActivity}" drawable="files" name="Files"/>
+  <item component="ComponentInfo{com.coloros.files/.MainActivity}" drawable="files" name="Files"/>
+  <item component="ComponentInfo{de.finanzen.net/.MainActivity}" drawable="finanzen" name="finanzen.net"/>
+  <item component="ComponentInfo{ro.andreimircius.remotefingerauth/.MainActivity}" drawable="fingerprint" name="Remote Fingerprint Unlock"/>
+  <item component="ComponentInfo{fc.admin.fcexpressadmin/.MainActivity}" drawable="firstcry" name="Firstcry"/>
+  <item component="ComponentInfo{com.tneb.tangedco/.MainActivity}" drawable="flasher" name="Flasher"/>
+  <item component="ComponentInfo{id.flip/.MainActivity}" drawable="flip_id" name="Flip"/>
+  <item component="ComponentInfo{com.imageline.FLM/.MainActivity}" drawable="flstudio_mobile" name="FL Studio Mobile"/>
+  <item component="ComponentInfo{com.radio.fmradio/.MainActivity}" drawable="fm_radio" name="Radio FM - Podcast App"/>
+  <item component="ComponentInfo{com.superelement.pomodoro/.MainActivity}" drawable="focus_todo" name="Focus To-Do"/>
+  <item component="ComponentInfo{com.epicgames.fortnite/.MainActivity}" drawable="fortnite" name="Fortnite"/>
+  <item component="ComponentInfo{com.samsung.android.app.spage/.MainActivity}" drawable="free" name="Samsung Free"/>
+  <item component="ComponentInfo{org.freedownloadmanager.fdm/.MainActivity}" drawable="free_download_manager" name="Free Download Manager"/>
+  <item component="ComponentInfo{de.md.meinmd/.MainActivity}" drawable="freenet_mobilfunk" name="freenet Mobilfunk"/>
+  <item component="ComponentInfo{rocks.poopjournal.fucksgiven/.MainActivity}" drawable="fxxxs_given" name="F***s Given"/>
+  <item component="ComponentInfo{com.oppo.gallery3d/.MainActivity}" drawable="gallery" name="Gallery"/>
+  <item component="ComponentInfo{repost.share.instagram.videodownloader.photodownloader/.MainActivity}" drawable="generic_downloader" name="InsMate Pro"/>
+  <item component="ComponentInfo{tweeter.gif.twittervideodownloader/.MainActivity}" drawable="generic_downloader" name="Download Twitter Videos"/>
+  <item component="ComponentInfo{ph.com.globe.globeonesuperapp/.MainActivity}" drawable="globeone" name="GlobeOne"/>
+  <item component="ComponentInfo{com.google.android.gm.lite/.MainActivity}" drawable="gmail" name="Gmail"/>
+  <item component="ComponentInfo{com.google.android.apps.searchlite/.MainActivity}" drawable="google" name="Google"/>
+  <item component="ComponentInfo{com.chrome.canary/.MainActivity}" drawable="google_chrome_canary" name="Google Chrome Canary"/>
+  <item component="ComponentInfo{com.google.android.apps.healthdata/.MainActivity}" drawable="google_health_connect" name="Google Health Connect"/>
+  <item component="ComponentInfo{com.android.phone/.MainActivity}" drawable="google_phone" name="Phone"/>
+  <item component="ComponentInfo{com.google.android.apps.wear.companion/.MainActivity}" drawable="google_pixel_watch" name="Google Pixel Watch"/>
+  <item component="ComponentInfo{com.govee.home/.MainActivity}" drawable="govee_home" name="Govee Home"/>
+  <item component="ComponentInfo{com.grabtaxi.driver2/.MainActivity}" drawable="grab" name="Grab"/>
+  <item component="ComponentInfo{com.groupalarm.app/.MainActivity}" drawable="group_alarm" name="GroupAlarm"/>
+  <item component="ComponentInfo{de.bpb.grundgesetz/.MainActivity}" drawable="grundgesetz" name="Grundgesetz"/>
+  <item component="ComponentInfo{com.yy.hiyo/.MainActivity}" drawable="hago" name="Hago"/>
+  <item component="ComponentInfo{project.vivid.hex.bodhi/.MainActivity}" drawable="hex_installer" name="Hex Installer"/>
+  <item component="ComponentInfo{com.kodelokus.hijri/.MainActivity}" drawable="hijri_calendar" name="Hijri Calendar"/>
+  <item component="ComponentInfo{info.xolf.homeworker/.MainActivity}" drawable="homeworker" name="Homeworker"/>
+  <item component="ComponentInfo{in.startv.hotstar.dplus/.MainActivity}" drawable="hotstar" name="Disney+ Hotstar"/>
+  <item component="ComponentInfo{in.startv.hotstaronly/.MainActivity}" drawable="hotstar" name="Hotstar"/>
+  <item component="ComponentInfo{com.fiserv.IDFCMerchantServices/.MainActivity}" drawable="idfc" name="IDFC FIRST Bank ME Services"/>
+  <item component="ComponentInfo{com.idfcfirstbank.optimus/.MainActivity}" drawable="idfc" name="IDFC FIRST"/>
+  <item component="ComponentInfo{com.iMe.android/.MainActivity}" drawable="ime" name="iMe"/>
+  <item component="ComponentInfo{com.csam.icici.bank.imobile/.MainActivity}" drawable="imobile" name="iMobile"/>
+  <item component="ComponentInfo{com.instapaper.android/.MainActivity}" drawable="instapaper" name="Instapaper"/>
+  <item component="ComponentInfo{br.com.Inter.CDPro/.MainActivity}" drawable="inter" name="Inter"/>
+  <item component="ComponentInfo{br.com.intermedium/.MainActivity}" drawable="inter" name="Inter"/>
+  <item component="ComponentInfo{com.evo.inware/.MainActivity}" drawable="inware" name="Inware"/>
+  <item component="ComponentInfo{com.itau/.MainActivity}" drawable="itau" name="Itaú"/>
+  <item component="ComponentInfo{com.btpn.dc/.MainActivity}" drawable="jenius" name="Jenius"/>
+  <item component="ComponentInfo{uk.takeaway.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{com.grubhub.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{lu.takeaway.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{de.lieferservice.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{ro.ascendnet.android.agregator/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{be.pizza.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{com.justeat.app.fr/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{pt.takeaway.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{com.vietnammm.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{at.lieferservice.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{com.bgmenu.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{com.takeaway.driver/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{ch.lieferservice.android/.MainActivity}" drawable="just_eat" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl"/>
+  <item component="ComponentInfo{nl.karwei.app.android/.MainActivity}" drawable="karwei" name="KARWEI"/>
+  <item component="ComponentInfo{org.kustom.lockscreen/.MainActivity}" drawable="klck" name="KLCK"/>
+  <item component="ComponentInfo{com.ketchapp.knifehit/.MainActivity}" drawable="knife_hit" name="Knife Hit"/>
+  <item component="ComponentInfo{com.lazada.android/.MainActivity}" drawable="lazada" name="Lazada"/>
+  <item component="ComponentInfo{com.woi.liputan6.android/.MainActivity}" drawable="liputan6" name="Liputan6"/>
+  <item component="ComponentInfo{com.magicposernew/.MainActivity}" drawable="magic_poser" name="MagicPoser"/>
+  <item component="ComponentInfo{com.thehitman7.cygisk/.MainActivity}" drawable="magisk" name="Magisk"/>
+  <item component="ComponentInfo{com.manipal.manipalhospitals/.MainActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
+  <item component="ComponentInfo{io.material.catalog/.MainActivity}" drawable="material_catalog" name="Material Catalog"/>
+  <item component="ComponentInfo{com.numero.material_gallery/.MainActivity}" drawable="material_catalog" name="MaterialGallery "/>
+  <item component="ComponentInfo{androidx.compose.material.catalog/.MainActivity}" drawable="material_catalog" name="Compose Material Catalog"/>
+  <item component="ComponentInfo{io.materialdesign.catalog/.MainActivity}" drawable="material_catalog" name="M3 Catalog"/>
+  <item component="ComponentInfo{com.pluscubed.matlog.debug/.MainActivity}" drawable="matlog" name="MatLog"/>
+  <item component="ComponentInfo{sk.mbank/.MainActivity}" drawable="mbank" name="mBank"/>
+  <item component="ComponentInfo{jp.co.mcdonalds.android/.MainActivity}" drawable="mcdonalds" name="McDonald's"/>
+  <item component="ComponentInfo{com.mcdonalds.gma.hongkong/.MainActivity}" drawable="mcdonalds" name="McDonald's"/>
+  <item component="ComponentInfo{il.co.inmanage.mcdonalds/.MainActivity}" drawable="mcdonalds" name="McDonald's"/>
+  <item component="ComponentInfo{com.sunshine.freeform/.MainActivity}" drawable="mi_freeform" name="Mi Freeform"/>
+  <item component="ComponentInfo{com.ms.office365admin/.MainActivity}" drawable="microsoft365_admin" name="Microsoft 365 Admin"/>
+  <item component="ComponentInfo{com.microsoft.emmx.canary/.MainActivity}" drawable="microsoft_edge_canary" name="Microsoft Edge Canary"/>
+  <item component="ComponentInfo{net.volcanomobile.midiplayer/.MainActivity}" drawable="midi_player" name="MIDI Player"/>
+  <item component="ComponentInfo{com.hogeschoolrotterdam.student/.MainActivity}" drawable="mijn_hr" name="Mijn HR"/>
+  <item component="ComponentInfo{com.milanote.milanoteApp/.MainActivity}" drawable="milanote" name="Milanote"/>
+  <item component="ComponentInfo{com.AntonBergaker.minisweeper/.MainActivity}" drawable="minisweeper" name="miniSweeper"/>
+  <item component="ComponentInfo{com.s_payment.mobiles_bezahlen/.MainActivity}" drawable="mobiles_bezahlen" name="Mobiles Bezahlen"/>
+  <item component="ComponentInfo{de.mvg.more/.MainActivity}" drawable="mvgo" name="MVGO"/>
+  <item component="ComponentInfo{ie.months.my48/.MainActivity}" drawable="my48" name="My48"/>
+  <item component="ComponentInfo{com.swisscom.mycloud/.MainActivity}" drawable="mycloud" name="myCloud"/>
+  <item component="ComponentInfo{com.pure.indosat.care/.MainActivity}" drawable="myim3" name="myIM3"/>
+  <item component="ComponentInfo{com.dafturn.mypertamina/.MainActivity}" drawable="mypertamina" name="My Pertamina"/>
+  <item component="ComponentInfo{com.smartfren/.MainActivity}" drawable="mysmartfren" name="mySF."/>
+  <item component="ComponentInfo{com.telkomsel.telkomselcm/.MainActivity}" drawable="mytelkomsel" name="MyTelkomsel"/>
+  <item component="ComponentInfo{com.apps.MyXL/.MainActivity}" drawable="myxl" name="myXL"/>
+  <item component="ComponentInfo{com.nhn.android.naverdic/.MainActivity}" drawable="naver_dictionary" name="Naver Dictionary"/>
+  <item component="ComponentInfo{com.nhn.android.nmap/.MainActivity}" drawable="naver_map" name="Naver Map"/>
+  <item component="ComponentInfo{com.nkming.nc_photos.gitlab/.MainActivity}" drawable="nc_photos" name="Photos (for Nextcloud)"/>
+  <item component="ComponentInfo{com.machiav3lli.backup.neo/.MainActivity}" drawable="neo_backup" name="Neo Backup"/>
+  <item component="ComponentInfo{com.notenapp/.MainActivity}" drawable="notenapp" name="Notenapp"/>
+  <item component="ComponentInfo{com.empat.wory/.MainActivity}" drawable="obimy" name="Obimy"/>
+  <item component="ComponentInfo{de.crysxd.octoapp/.MainActivity}" drawable="octoapp" name="OctoApp"/>
+  <item component="ComponentInfo{pl.tablica/.MainActivity}" drawable="olx" name="OLX Polska"/>
+  <item component="ComponentInfo{com.opera.browser.beta/.MainActivity}" drawable="opera_beta" name="Opera Beta"/>
+  <item component="ComponentInfo{com.opera.mini.native.beta/.MainActivity}" drawable="opera_beta_mini" name="Opera Beta Mini"/>
+  <item component="ComponentInfo{com.opera.touch/.MainActivity}" drawable="opera_browser" name="Opera"/>
+  <item component="ComponentInfo{widget.dd.com.overdrop.pro/.MainActivity}" drawable="overdrop" name="Overdrop Pro"/>
+  <item component="ComponentInfo{nl.skywave.ovinfo/.MainActivity}" drawable="ovinfo" name="OVinfo"/>
+  <item component="ComponentInfo{ovo.id/.MainActivity}" drawable="ovo" name="OVO"/>
+  <item component="ComponentInfo{com.cris87.oxygen/.MainActivity}" drawable="oxigen_hd" name="Oxigen HD"/>
+  <item component="ComponentInfo{sarangal.packagemanager/.MainActivity}" drawable="package_manager" name="Package Manager"/>
+  <item component="ComponentInfo{com.pagerduty.android/.MainActivity}" drawable="pager_duty" name="Pager Duty"/>
+  <item component="ComponentInfo{tv.parsec.client/.MainActivity}" drawable="parsec" name="Parsec"/>
+  <item component="ComponentInfo{com.reneph.passwordsafe/.MainActivity}" drawable="password_safe_manager" name="Password Safe and Manager"/>
+  <item component="ComponentInfo{com.telkom.tracencare/.MainActivity}" drawable="pedulilindungi" name="PeduliLindungi"/>
+  <item component="ComponentInfo{com.vincentengelsoftware.vesandroidimagecompare/.MainActivity}" drawable="photo_compare" name="VES - Image and Photo Compare"/>
+  <item component="ComponentInfo{com.picpay.business/.MainActivity}" drawable="picpay" name="PicPay Empresas"/>
+  <item component="ComponentInfo{com.therealbluepandabear.pixapencil/.MainActivity}" drawable="pixapencil" name="PixaPencil"/>
+  <item component="ComponentInfo{com.google.android.apps.wearables.maestro.companion/.MainActivity}" drawable="pixel_buds" name="Pixel Buds"/>
+  <item component="ComponentInfo{dev.wacko1805.pixel.wallpapers/.MainActivity}" drawable="pixel_wallpapers" name="Pixel Walls"/>
+  <item component="ComponentInfo{com.pizzahut.qatar/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.oman/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{pra.hizzahut.com.sv/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.ng/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{tr.com.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.rsa/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.phd/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.expremio.pizzahutcipru/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{net.bonee.pizzaHut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.socialsnack.pizzahutcr/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.aggregator.pizzahutmongolia/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.jeddah/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{jp.pizzahut.aorder/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.kuwait/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahutguyana.android/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{bn.com.pizzahut.OSPHB/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.kh/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.malaysia/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.devsence.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahutapp/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{eu.beeple.topbrandspizzahut.users/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{se.leeroygroup.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{pt.wingman.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.nanoequipment.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{gr.nikolasspyr.integritycheck/.MainActivity}" drawable="play_integrity_api_checker" name="Play Integrity API Checker"/>
+  <item component="ComponentInfo{com.pons.onlinedictionary/.MainActivity}" drawable="pons_translate" name="Pons Translate"/>
+  <item component="ComponentInfo{me.pou.app/.MainActivity}" drawable="pou" name="Pou"/>
+  <item component="ComponentInfo{com.nokoprint/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{org.mopria.printplugin/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{com.sec.app.samsungprintservice/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{jp.co.canon.bsd.ad.pixmaprint/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{com.dynamixsoftware.printershare/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{epson.print/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{jp.co.canon.android.printservice.plugin/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{org.savapage.android.print/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{io.github.benoitduffez.cupsprint/.MainActivity}" drawable="printer" name="Printer"/>
+  <item component="ComponentInfo{co.thomasmenzel.proddy/.MainActivity}" drawable="proddy" name="Proddy"/>
+  <item component="ComponentInfo{com.spookyhousestudios.progressbar95/.MainActivity}" drawable="progressbar95" name="Progressbar95"/>
+  <item component="ComponentInfo{com.proxmox.app.pve_flutter_frontend/.MainActivity}" drawable="proxmox" name="Proxmox"/>
+  <item component="ComponentInfo{com.pubg.newstate/.MainActivity}" drawable="pubg" name="PUBG"/>
+  <item component="ComponentInfo{qibla.compass.finddirection.hijricalendar/.MainActivity}" drawable="qibla_direction" name="Qibla Direction"/>
+  <item component="ComponentInfo{com.rhmsoft.edit.pro/.MainActivity}" drawable="quickedit" name="QuickEdit"/>
+  <item component="ComponentInfo{se.maginteractive.quizduel2/.MainActivity}" drawable="quizduel" name="Quizduel"/>
+  <item component="ComponentInfo{com.quora.android/.MainActivity}" drawable="quora" name="Quora"/>
+  <item component="ComponentInfo{com.andi.alquran.en/.MainActivity}" drawable="quran" name="Qur'an EN"/>
+  <item component="ComponentInfo{com.andi.alquran.id/.MainActivity}" drawable="quran" name="Qur'an"/>
+  <item component="ComponentInfo{nl.rabowallet/.MainActivity}" drawable="rabo_wallet" name="Rabo Wallet"/>
+  <item component="ComponentInfo{nl.rabomobiel/.MainActivity}" drawable="rabobank" name="rabobank"/>
+  <item component="ComponentInfo{com.motorola.audiorecorder/.MainActivity}" drawable="recorder" name="Recorder"/>
+  <item component="ComponentInfo{in.redbus.android/.MainActivity}" drawable="redbus" name="RedBus"/>
+  <item component="ComponentInfo{com.devgary.ready/.MainActivity}" drawable="reddit" name="Ready"/>
+  <item component="ComponentInfo{dev.kdrag0n.dyntheme/.MainActivity}" drawable="repainter" name="Repainter"/>
+  <item component="ComponentInfo{app.republik/.MainActivity}" drawable="republik" name="Republik"/>
+  <item component="ComponentInfo{chat.revolt.app.twa/.MainActivity}" drawable="revolt" name="Revolt"/>
+  <item component="ComponentInfo{com.revolt/.MainActivity}" drawable="revolt" name="Revolt"/>
+  <item component="ComponentInfo{site.endl.taiku.rvmob/.MainActivity}" drawable="revolt" name="Revolt"/>
+  <item component="ComponentInfo{com.mlk.rockamring/.MainActivity}" drawable="rock_am_ring" name="RAR &amp; RIP"/>
+  <item component="ComponentInfo{tw.com.capcom.rxd/.MainActivity}" drawable="rockman_x_dive" name="ROCKMAN X DiVE"/>
+  <item component="ComponentInfo{koeln.kvb.ticket.rvkapp/.MainActivity}" drawable="rvk" name="RVK"/>
+  <item component="ComponentInfo{com.adilhanney.saber/.MainActivity}" drawable="saber" name="Saber"/>
+  <item component="ComponentInfo{com.sec.android.shealthmonitors/.MainActivity}" drawable="samsung_health_monitor" name="Samsung Health Monitor"/>
+  <item component="ComponentInfo{ch.sbb.mobile.adroid.b2c/.MainActivity}" drawable="sbb_mobile" name="SBB Mobile"/>
+  <item component="ComponentInfo{daldev.android.gradehelper/.MainActivity}" drawable="schoolplanner" name="School Planner"/>
+  <item component="ComponentInfo{online.schulmanager.app/.MainActivity}" drawable="schulmanager" name="Schulmanager"/>
+  <item component="ComponentInfo{imoblife.androidsensorbox/.MainActivity}" drawable="sensor_box" name="Sensor Box"/>
+  <item component="ComponentInfo{com.xiaomi.midrop.SplashScreen/.MainActivity}" drawable="share_me" name="ShareMe"/>
+  <item component="ComponentInfo{com.shopee.vn/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.shopee.id/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.shopee.pl/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.shopee.ph/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.shopee.my/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.shopee.th/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.shopee.tw/.MainActivity}" drawable="shopee" name="Shopee"/>
+  <item component="ComponentInfo{com.simpl.android/.MainActivity}" drawable="simpl_pay" name="Simpl Pay Later"/>
+  <item component="ComponentInfo{com.pashapuma.pix.wallpapers/.MainActivity}" drawable="simple_gallery" name="Pix Wallpapers"/>
+  <item component="ComponentInfo{net.skyscanner.android.main/.MainActivity}" drawable="skyscanner" name="Skyscanner"/>
+  <item component="ComponentInfo{com.smartpack.kernelmanager.release/.MainActivity}" drawable="smartpack_kernel_manager" name="SmartPack-Kernel Manager"/>
+  <item component="ComponentInfo{com.hutchison3g.sundae/.MainActivity}" drawable="smarty" name="SMARTY"/>
+  <item component="ComponentInfo{com.microsoft.android.smsorganizer/.MainActivity}" drawable="sms_organizer" name="SMS Organizer"/>
+  <item component="ComponentInfo{com.fronius.solarweb/.MainActivity}" drawable="solarweb" name="Solar.web"/>
+  <item component="ComponentInfo{com.sega.soniccd.classic/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.gameloft.android.ANMP.GloftICHM/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonic2.runner/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sprint/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonic4epi/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonic4episode2/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonicboomandroid/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonicdash/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sonicjump.sonicjump/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonic1px/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{re.sova.five/.MainActivity}" drawable="sova_five" name="SOVA V RE"/>
+  <item component="ComponentInfo{com.delsorboilario.dnd/.MainActivity}" drawable="spells_list_5e" name="Spells List 5e"/>
+  <item component="ComponentInfo{dev.netlob.spotistats/.MainActivity}" drawable="stats_fm" name="Stats.fm"/>
+  <item component="ComponentInfo{io.stellio.music/.MainActivity}" drawable="stellio" name="Stellio"/>
+  <item component="ComponentInfo{projekt.substratum.lite/.MainActivity}" drawable="substratum_lite" name="substratum Lite"/>
+  <item component="ComponentInfo{com.klinker.android.twitter_l/.MainActivity}" drawable="talon" name="Talon for Twitter"/>
+  <item component="ComponentInfo{com.quoord.tapatalk/.MainActivity}" drawable="tapatalk_pro" name="Tapatalk Pro"/>
+  <item component="ComponentInfo{com.teamspeak.ts3client/.MainActivity}" drawable="teamspeak" name="TeamSpeak"/>
+  <item component="ComponentInfo{org.thunderdog.challegramtwo/.MainActivity}" drawable="telegram" name="Telegram X"/>
+  <item component="ComponentInfo{com.economist.lamarr/.MainActivity}" drawable="the_economist" name="Economist"/>
+  <item component="ComponentInfo{com.sysops.thenx/.MainActivity}" drawable="thenx" name="THENX"/>
+  <item component="ComponentInfo{ch.threema.app.fdroid/.MainActivity}" drawable="threema" name="Threema"/>
+  <item component="ComponentInfo{ch.threema.app.hws/.MainActivity}" drawable="threema" name="Threema"/>
+  <item component="ComponentInfo{com.zhiliaoapp.musically.go/.MainActivity}" drawable="tiktok" name="TikTok"/>
+  <item component="ComponentInfo{br.com.timbrasil.meutim/.MainActivity}" drawable="tim" name="Meu Tim"/>
+  <item component="ComponentInfo{works.jubilee.timetree/.MainActivity}" drawable="timetree" name="TimeTree"/>
+  <item component="ComponentInfo{id.tix.android/.MainActivity}" drawable="tix_id" name="TIX ID"/>
+  <item component="ComponentInfo{com.trilab.tricount.android/.MainActivity}" drawable="tricount" name="Tricount"/>
+  <item component="ComponentInfo{ellipi.messenger/.MainActivity}" drawable="turbotel" name="TurboTel"/>
+  <item component="ComponentInfo{tv.twitch.bttvandroid.app/.MainActivity}" drawable="twitch" name="Twitch"/>
+  <item component="ComponentInfo{com.gorgeous.liteinternational/.MainActivity}" drawable="ulike" name="Ulike"/>
+  <item component="ComponentInfo{com.myunidays/.MainActivity}" drawable="unidays" name="Unidays"/>
+  <item component="ComponentInfo{br.com.urbanonorte.passenger.drivermachine/.MainActivity}" drawable="urbano_norte" name="Urbano Norte"/>
+  <item component="ComponentInfo{net.petafuel.mobile.vimpay/.MainActivity}" drawable="vimpay" name="Vimpay"/>
+  <item component="ComponentInfo{com.frontrow.vlog/.MainActivity}" drawable="vn" name="VN"/>
+  <item component="ComponentInfo{com.wacken/.MainActivity}" drawable="wacken" name="Wacken"/>
+  <item component="ComponentInfo{dg.waifu.walls/.MainActivity}" drawable="waifupx" name="WAIFUPX"/>
+  <item component="ComponentInfo{de.pietsmiet.watchbuddy/.MainActivity}" drawable="watchbuddy" name="Watchbuddy"/>
+  <item component="ComponentInfo{dubrowgn.wattz/.MainActivity}" drawable="wattz" name="Wattz"/>
+  <item component="ComponentInfo{com.archive.waybackmachine/.MainActivity}" drawable="wayback_machine" name="Wayback Machine"/>
+  <item component="ComponentInfo{de.wse.werstreamt.es/.MainActivity}" drawable="werstreamt_es" name="WerStreamt.es?"/>
+  <item component="ComponentInfo{com.vector123.whiteborder/.MainActivity}" drawable="white_border" name="White Border"/>
+  <item component="ComponentInfo{video.player.videoplayer/.MainActivity}" drawable="xplayer" name="XPlayer"/>
+  <item component="ComponentInfo{ru.yandex.searchplugin/.MainActivity}" drawable="yandex" name="Yandex"/>
+  <item component="ComponentInfo{ru.yandex.mail/.MainActivity}" drawable="yandex_mail" name="Mail"/>
+  <item component="ComponentInfo{com.yeelight.cherry/.MainActivity}" drawable="yeelight" name="Yeelight"/>
+  <item component="ComponentInfo{com.google.android.apps.youtube.unplugged/.MainActivity}" drawable="youtube_tv" name="YouTube TV"/>
+  <item component="ComponentInfo{com.inditex.zara/.MainActivity}" drawable="zara" name="Zara"/>
+  <item component="ComponentInfo{com.zeptoconsumerapp/.MainActivity}" drawable="zepto" name="Zepto"/>
+</resources>
