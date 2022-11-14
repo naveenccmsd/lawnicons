@@ -210,5 +210,4 @@
   <item component="ComponentInfo{com.archive.waybackmachine/.MainActivity}" drawable="wayback_machine" name="Wayback Machine"/>
   <item component="ComponentInfo{de.wse.werstreamt.es/.MainActivity}" drawable="werstreamt_es" name="WerStreamt.es?"/>
   <item component="ComponentInfo{com.vector123.whiteborder/.MainActivity}" drawable="white_border" name="White Border"/>
-  <item component="ComponentInfo{com.zeptoconsumerapp/.MainActivity}" drawable="zepto" name="Zepto"/>
 </resources>
