@@ -665,6 +665,7 @@
   <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.HomeActivity}" drawable="firefox_nightly" name="Firefox Nightly"/>
   <item component="ComponentInfo{org.mozilla.fenix/org.mozilla.fenix.App}" drawable="firefox_nightly" name="Firefox Nightly"/>
   <item component="ComponentInfo{fc.admin.fcexpressadmin/fc.admin.fcexpressadmin.HomeActivity}" drawable="firstcry" name="Firstcry"/>
+  <item component="ComponentInfo{fc.admin.fcexpressadmin/fc.admin.fcexpressadmin.activity.AccNewSplashActivity}" drawable="firstcry" name="Firstcry"/>
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher2}" drawable="flamingo" name="Flamingo"/>
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher1}" drawable="flamingo" name="Flamingo"/>
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher4}" drawable="flamingo" name="Flamingo"/>
@@ -1253,6 +1254,8 @@
   <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity}" drawable="magisk" name="Magisk"/>
   <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk" name="Magisk"/>
   <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.home.HomeActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
+  <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.splash.SplashActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
+  <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.authentication.LoginActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
   <item component="ComponentInfo{com.google.android.apps.mapslite/org.chromium.webapk.shell_apk.MainActivity}" drawable="maps" name="Google Maps"/>
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" drawable="maps" name="Google Maps"/>
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.LatitudeActivity}" drawable="maps" name="Google Maps"/>
