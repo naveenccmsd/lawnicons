@@ -20,26 +20,25 @@ object XmlUtil {
         return SAXReader().apply { encoding = UTF_8 }.read(xmlPath)
     }
 
-    fun getFileWithXMlExtension(target: Path): String {
+    fun getFileWithExtension(target: Path, extension: String = "xml"): String {
         val svgFilePath = target.toFile().absolutePath
         val index = svgFilePath.lastIndexOf(".")
         return buildString {
             if (index != -1) {
                 append(svgFilePath.substring(0, index))
             }
-            append(".")
-            append("xml")
+            append(".$extension")
         }
     }
 
     fun writeDocumentToFile(outDocument: Document, outputConfigPath: String) {
         File(outputConfigPath).parentFile.mkdirs()
-        val fileWriter = FileWriter(outputConfigPath)
         val format = OutputFormat.createPrettyPrint().apply { encoding = UTF_8 }
-        XMLWriter(fileWriter, format).apply {
-            write(outDocument)
-            close()
+        FileWriter(outputConfigPath).use { fw ->
+            XMLWriter(fw, format).apply {
+                write(outDocument)
+                close()
+            }
         }
-        fileWriter.close()
     }
 }
