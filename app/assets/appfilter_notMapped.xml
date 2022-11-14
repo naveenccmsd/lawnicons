@@ -6,7 +6,6 @@
   <item component="ComponentInfo{com.jago.digitalbanking/.MainActivity}" drawable="bank_jago" name="Jago"/>
   <item component="ComponentInfo{in.usefulapp.timelybills/.MainActivity}" drawable="bills_reminder" name="Bills Reminder"/>
   <item component="ComponentInfo{io.japp.blackscreen/.MainActivity}" drawable="black_screen" name="Black Screen"/>
-  <item component="ComponentInfo{com.elektropepi.bootboi/.MainActivity}" drawable="bootboi" name="BootBoi"/>
   <item component="ComponentInfo{de.br.sep.news.br24/.MainActivity}" drawable="br24" name="BR24"/>
   <item component="ComponentInfo{com.browsec.vpn/.MainActivity}" drawable="browsec" name="BROWSEC"/>
   <item component="ComponentInfo{com.browsec.vpn.proxy/.MainActivity}" drawable="browsec" name="BROWSEC"/>
