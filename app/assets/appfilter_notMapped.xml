@@ -38,14 +38,11 @@
   <item component="ComponentInfo{com.gigaworks.tech.calculator/.MainActivity}" drawable="calculator_plus" name="Calculator Plus"/>
   <item component="ComponentInfo{com.android.MGC.not.stable/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.arn/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{com.GoogleCamera.Burial/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.MGC_8_4_400/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.GoogleCamera.mwp84/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{com.google.android.GoogleCameraLMC/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.lineageos.aperture/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.honor.camera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.ngcam.camera/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{com.GoogleCamera.Burial31/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{net.sourceforge.opencamera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.lineageos.selfie/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.reincubate.camo/.MainActivity}" drawable="camo" name="Camo"/>
@@ -62,10 +59,8 @@
   <item component="ComponentInfo{com.cpuid.cpu_z/.MainActivity}" drawable="cpu_z" name="CPU Z"/>
   <item component="ComponentInfo{com.deutschebahn.app.android/.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
   <item component="ComponentInfo{jp.ad.iij.miodial/.MainActivity}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{com.asus.asusincallui/.MainActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.contacts.activities.DialtactsActivity/.MainActivity}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{ccom.disneyplus.mea/.MainActivity}" drawable="disneyplus" name="Disney+"/>
   <item component="ComponentInfo{com.dominospizza.az/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.dominos.bd/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
@@ -123,7 +118,6 @@
   <item component="ComponentInfo{com.dafturn.mypertamina/.MainActivity}" drawable="mypertamina" name="My Pertamina"/>
   <item component="ComponentInfo{com.smartfren/.MainActivity}" drawable="mysmartfren" name="mySF."/>
   <item component="ComponentInfo{com.nkming.nc_photos.gitlab/.MainActivity}" drawable="nc_photos" name="Photos (for Nextcloud)"/>
-  <item component="ComponentInfo{com.notenapp/.MainActivity}" drawable="notenapp" name="Notenapp"/>
   <item component="ComponentInfo{com.empat.wory/.MainActivity}" drawable="obimy" name="Obimy"/>
   <item component="ComponentInfo{de.crysxd.octoapp/.MainActivity}" drawable="octoapp" name="OctoApp"/>
   <item component="ComponentInfo{widget.dd.com.overdrop.pro/.MainActivity}" drawable="overdrop" name="Overdrop Pro"/>
@@ -178,7 +172,6 @@
   <item component="ComponentInfo{ch.sbb.mobile.adroid.b2c/.MainActivity}" drawable="sbb_mobile" name="SBB Mobile"/>
   <item component="ComponentInfo{online.schulmanager.app/.MainActivity}" drawable="schulmanager" name="Schulmanager"/>
   <item component="ComponentInfo{imoblife.androidsensorbox/.MainActivity}" drawable="sensor_box" name="Sensor Box"/>
-  <item component="ComponentInfo{com.xiaomi.midrop.SplashScreen/.MainActivity}" drawable="share_me" name="ShareMe"/>
   <item component="ComponentInfo{com.smartpack.kernelmanager.release/.MainActivity}" drawable="smartpack_kernel_manager" name="SmartPack-Kernel Manager"/>
   <item component="ComponentInfo{com.hutchison3g.sundae/.MainActivity}" drawable="smarty" name="SMARTY"/>
   <item component="ComponentInfo{com.fronius.solarweb/.MainActivity}" drawable="solarweb" name="Solar.web"/>
