@@ -3,7 +3,6 @@ package app.lawnchair.lawnicons.helper
 import java.io.File
 import java.io.FileWriter
 import java.nio.file.Path
-import org.apache.commons.io.FilenameUtils
 import org.dom4j.Document
 import org.dom4j.Element
 import org.dom4j.io.OutputFormat
@@ -34,7 +33,7 @@ object XmlUtil {
     }
 
     fun writeDocumentToFile(outDocument: Document, outputConfigPath: String) {
-        File(FilenameUtils.getFullPath(outputConfigPath)).mkdirs()
+        File(outputConfigPath).parentFile.mkdirs()
         val fileWriter = FileWriter(outputConfigPath)
         val format = OutputFormat.createPrettyPrint().apply { encoding = UTF_8 }
         XMLWriter(fileWriter, format).apply {
