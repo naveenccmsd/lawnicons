@@ -7,14 +7,12 @@ fun main() {
     val lightResourceDirectory = "$rootFolder/app/src/light/res"
     val appFilterFile = "$rootFolder/app/assets/appfilter.xml"
 
-    val processSvg = SvgFilesProcessor()
-    val configProcessor = ConfigProcessor()
     // Convert svg to drawable in runtime
-    processSvg.process(sourceDirectory, "$darkResourceDirectory/drawable", "dark")
-    processSvg.process(sourceDirectory, "$lightResourceDirectory/drawable", "dark")
+    SvgFilesProcessor.process(sourceDirectory, "$darkResourceDirectory/drawable", "dark")
+    SvgFilesProcessor.process(sourceDirectory, "$lightResourceDirectory/drawable", "dark")
 
     // Read appfilter xml and create icon, drawable xml file.
-    configProcessor.loadAndCreateConfigs(
+    ConfigProcessor.loadAndCreateConfigs(
         appFilterFile,
         darkResourceDirectory,
         lightResourceDirectory,
