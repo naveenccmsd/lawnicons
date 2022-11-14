@@ -62,10 +62,10 @@ android {
         }
     }
     sourceSets.named("dark") {
-        res.setSrcDirs(listOf("src/dark/res/"))
+        res.srcDirs("src/dark/res/")
     }
     sourceSets.named("light") {
-        res.setSrcDirs(listOf("src/light/res/"))
+        res.srcDirs("src/light/res/")
     }
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_11
