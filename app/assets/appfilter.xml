@@ -63,6 +63,7 @@
   <item component="ComponentInfo{foundation.e.apps/foundation.e.apps.MainActivity}" drawable="app_lounge" name="App Lounge"/>
   <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="app_manager" name="App Manager"/>
   <item component="ComponentInfo{io.github.muntashirakon.AppManager/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="app_manager" name="App Manager"/>
+  <item component="ComponentInfo{cz.seeq.prog.android.packageviewer/cz.seeq.prog.android.packageviewer.PackagesActivity}" drawable="app_manager" name="Package Viewer"/>
   <item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.SplashActivity}" drawable="app_manager_debug" name="App Manager Debug"/>
   <item component="ComponentInfo{io.github.muntashirakon.AppManager.debug/io.github.muntashirakon.AppManager.main.MainActivity}" drawable="app_manager_debug" name="App Manager Debug"/>
   <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music" name="Apple Music"/>
@@ -446,7 +447,6 @@
   <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.MainActivity}" drawable="dhl" name="Post &amp; DHL"/>
   <item component="ComponentInfo{de.dhl.paket/de.dhl.packet.MigrationScreenActivity}" drawable="dhl" name="Post &amp; DHL"/>
   <item component="ComponentInfo{de.dhl.paket/de.its_berlin.dhlpaket.base.main.MainActivity}" drawable="dhl" name="Post &amp; DHL"/>
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.calllog.CallLogActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.sh.smart.caller/com.android.dialer.main.impl.MainActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.dialer/com.android.dialer.app.DialtactsActivity}" drawable="dialer" name="Phone"/>
@@ -461,7 +461,6 @@
   <item component="ComponentInfo{com.android.dialer/com.android.dialer.DialtactsActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.incallui/.DialerLauncher}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.dialer/com.android.dialer.main.impl.MainActivity}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{com.oneplus.dialer/com.android.dialer.oneplus.activity.OPDialtactsActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.samsung.android.dialer/.DialtactsActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="dialer" name="Phone"/>
@@ -471,7 +470,6 @@
   <item component="ComponentInfo{com.chooloo.www.koler/com.chooloo.www.koler.ui.main.MainActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.dialer/com.android.dialer.dialpad}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.incallui/com.android.incallui.DialerLauncher}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.asus.asusincallui/com.android.contacts.DialtactsActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" name="Digital Wellbeing"/>
   <item component="ComponentInfo{com.samsung.android.forest/com.samsung.android.forest.launcher.LauncherActivity}" drawable="digital_wellbeing" name="Digital Wellbeing"/>
   <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" name="Discord"/>
@@ -486,7 +484,6 @@
   <item component="ComponentInfo{com.dolby/com.dolby.ds1appUI.MainActivity}" drawable="dolby" name="Dolby"/>
   <item component="ComponentInfo{uk.co.dominos.android/uk.co.dominos.android.BLUE}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.Dominos/com.Dominos.SplashActivity}" drawable="dominos" name="Domino's Pizza"/>
-  <item component="ComponentInfo{pk.com.dominos/com.Dominos.activity.home.HomeActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.dominospizza/com.dominos.loadingscreen.InitialLaunchActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.Dominos/com.Dominos.activity.SplashActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.dominospizza/com.dominospizza.activities.InitialLaunchActivity}" drawable="dominos" name="Domino's Pizza"/>
@@ -546,6 +543,7 @@
   <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.activity.media.CameraLauncherActivity}" drawable="facebook" name="Facebook"/>
   <item component="ComponentInfo{eu.faircode.email/eu.faircode.email.ActivityMain}" drawable="fairemail" name="FairEmail"/>
   <item component="ComponentInfo{com.fandom.app/com.fandom.app.splash.SplashActivity}" drawable="fandom" name="FANDOM"/>
+  <item component="ComponentInfo{com.pinelabs.fave/com.pinelabs.fave.ui.splash.SplashActivity}" drawable="fave" name="Fave"/>
   <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.FDroid}" drawable="fdroid" name="F-Droid"/>
   <item component="ComponentInfo{org.fdroid.fdroid/org.fdroid.fdroid.views.main.MainActivity}" drawable="fdroid" name="F-Droid"/>
   <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.FeedActivity}" drawable="feeder" name="Feeder"/>
@@ -639,6 +637,7 @@
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher5}" drawable="flamingo" name="Flamingo"/>
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher9}" drawable="flamingo" name="Flamingo"/>
   <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.MainActivity}" drawable="flamingo" name="Flamingo"/>
+  <item component="ComponentInfo{com.tneb.tangedco/com.tneb.tangedco.views.SplashActivity}" drawable="flasher" name="Flasher"/>
   <item component="ComponentInfo{rocks.poopjournal.flashy/com.poopjournal.flashy.MainActivity}" drawable="flashy" name="Flashy"/>
   <item component="ComponentInfo{rocks.poopjournal.flashy/rocks.poopjournal.flashy.MainActivity}" drawable="flashy" name="Flashy"/>
   <item component="ComponentInfo{com.flightradar24free/com.flightradar24free.MainActivity}" drawable="flightradar24" name="Flightradar24"/>
@@ -799,6 +798,7 @@
   <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="google_classroom" name="Google Classroom"/>
   <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.launcher.LauncherActivity}" drawable="google_classroom" name="Google Classroom"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.ContactHostActivity}" drawable="google_contacts" name="Contacts"/>
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PCUDialtactsActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallLogLaunchActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivityForRecentCalls}" drawable="google_contacts" name="Contacts"/>
@@ -841,6 +841,7 @@
   <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPDialtactsActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookSplitTopMenuActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/.activities.TwelveKeyDialer}" drawable="google_contacts" name="Contacts"/>
+  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.RecntcallEntryActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsCallsEntryActivity}" drawable="google_contacts" name="Contacts"/>
   <item component="ComponentInfo{com.android.contacts/.activities.PeopleActivity}" drawable="google_contacts" name="Contacts"/>
@@ -996,6 +997,8 @@
   <item component="ComponentInfo{jp.ne.ibis.ibispaintx.app/jp.ne.ibis.ibispaintx.app.market.MarketAuthenticationActivity}" drawable="ibispaint_x" name="ibisPaint X"/>
   <item component="ComponentInfo{io.github.forkmaintainers.iceraven/io.github.forkmaintainers.iceraven.App}" drawable="iceraven" name="Iceraven"/>
   <item component="ComponentInfo{ginlemon.iconpackstudio/ginlemon.iconpackstudio.editor.homeActivity.HomeActivity}" drawable="icon_pack_studio" name="Icon Pack Studio"/>
+  <item component="ComponentInfo{com.idfcfirstbank.optimus/com.idfcfirstbank.optimus.MainActivity}" drawable="idfc" name="IDFC FIRST"/>
+  <item component="ComponentInfo{com.fiserv.IDFCMerchantServices/com.idfcfirstbank.optimus.MainActivity}" drawable="idfc" name="IDFC FIRST Bank ME Services"/>
   <item component="ComponentInfo{idm.internet.download.manager/acr.browser.lightning.activity.MainActivityLauncher}" drawable="idm" name="1dm"/>
   <item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="idm" name="1dm"/>
   <item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="idm_plus" name="1dm+"/>
@@ -1655,6 +1658,7 @@
   <item component="ComponentInfo{com.android.stk/com.android.stk.SubStkLauncherActivity}" drawable="sim_toolkit" name="SIM Toolkit"/>
   <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityDefault}" drawable="sim_toolkit" name="SIM Toolkit"/>
   <item component="ComponentInfo{com.android.stk/com.android.stk.StkLauncherActivityOther1}" drawable="sim_toolkit" name="SIM Toolkit"/>
+  <item component="ComponentInfo{com.simpl.android/com.simpl.android.MainActivity}" drawable="simpl_pay" name="Simpl Pay Later"/>
   <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Deep_orange}" drawable="simple_gallery" name="Simple Gallery Pro"/>
   <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Light_green}" drawable="simple_gallery" name="Simple Gallery Pro"/>
   <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Teal}" drawable="simple_gallery" name="Simple Gallery Pro"/>
@@ -2072,6 +2076,5 @@
   <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="zepp_life" name="Zepp Life"/>
   <item component="ComponentInfo{com.xiaomi.hm.health/cn.com.smartdevices.bracelet.activity.MainActivity}" drawable="zepp_life" name="Zepp Life"/>
   <item component="ComponentInfo{com.xiaomi.hm.health/cn.com.smartdevices.bracelet.activity.StartUpActivity}" drawable="zepp_life" name="Zepp Life"/>
-  <item component="ComponentInfo{com.zeptoconsumerapp/com.zeptoconsumerapp.MainActivity}" drawable="zepto" name="Zepto"/>
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom"/>
 </resources>
