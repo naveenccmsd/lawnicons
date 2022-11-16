@@ -22,6 +22,11 @@
                 <action android:name="app.lawnchair.icons.THEMED_ICON" />
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
+             <!-- Nova Launcher Custom Icon Picker -->
+            <intent-filter>
+                <action android:name="com.novalauncher.THEME" />
+                <category android:name="com.novalauncher.category.CUSTOM_ICON_PICKER" />
+            </intent-filter>
             <!-- ADW Launcher -->
             <intent-filter>
                 <action android:name="org.adw.launcher.THEMES" />
