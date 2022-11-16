@@ -3,6 +3,8 @@
 <resources>
   <item component="ComponentInfo{dev.kdrag0n.android12ext/dev.kdrag0n.android12ext.ui.main.MainActivity}" drawable="a12_extensions" name="Android 12 Extensions"/>
   <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery" name="AccuBattery"/>
+  <item component="ComponentInfo{com.acronis.acronistrueimage/com.acronis.mobile.ui2.TheMainActivity}" drawable="acronis_mobile" name="Acronis Mobile"/>
+  <item component="ComponentInfo{de.actionbound/de.actionbound.MainActivity}" drawable="actionbound" name="Actionbound"/>
   <item component="ComponentInfo{org.adaway/org.adaway.ui.BaseActivity}" drawable="adaway" name="AdAway"/>
   <item component="ComponentInfo{org.adaway/org.adaway.AdAway}" drawable="adaway" name="AdAway"/>
   <item component="ComponentInfo{org.adaway/org.adaway.ui.home.HomeActivity}" drawable="adaway" name="AdAway"/>
@@ -106,6 +108,7 @@
   <item component="ComponentInfo{org.telegram.BifToGram/org.telegram.ui.LaunchActivity}" drawable="bgram" name="BGram"/>
   <item component="ComponentInfo{in.org.npci.upiapp/in.org.npci.upiapp.HomeActivity}" drawable="bhim" name="BHIM"/>
   <item component="ComponentInfo{com.bigbasket.mobileapp/com.bigbasket.mobileapp.activity.SplashActivity}" drawable="bigbasket" name="BigBasket"/>
+  <item component="ComponentInfo{in.usefulapp.timelybills/in.usefulapp.timelybills.activity.AppStartupActivity}" drawable="bills_reminder" name="Bills Reminder"/>
   <item component="ComponentInfo{com.linkit.bimatri/com.linkit.bimatri.presentation.activity.SplashScreenActivity}" drawable="bima_plus" name="Bima+"/>
   <item component="ComponentInfo{com.linkit.bimatri/crc649d124a6b6fb56618.MainActivity}" drawable="bima_plus" name="Bima+"/>
   <item component="ComponentInfo{com.linkit.bimatri/crc646706112c2f8853b0.SplashActivity}" drawable="bima_plus" name="Bima+"/>
@@ -167,6 +170,8 @@
   <item component="ComponentInfo{id.co.bri.brimo/id.co.bri.brimo.BRIMO}" drawable="bri_mobile" name="BRImo"/>
   <item component="ComponentInfo{id.co.bri.brimo/id.co.bri.brimo.ui.activities.SplashScreenActivity}" drawable="bri_mobile" name="BRImo"/>
   <item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite" name="Bromite"/>
+  <item component="ComponentInfo{com.browsec.vpn/com.browsec.vpn.MainActivity}" drawable="browsec" name="BROWSEC"/>
+  <item component="ComponentInfo{com.browsec.vpn.proxy/com.browsec.vpn.MainActivity}" drawable="browsec" name="BROWSEC"/>
   <item component="ComponentInfo{foundation.e.browser/com.google.android.apps.chrome.Main}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="browser" name="Browser"/>
@@ -607,8 +612,8 @@
   <item component="ComponentInfo{com.android.documentsui/com.android.documentsui.BqLauncherActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Lime}" drawable="files" name="Simple File Manager"/>
   <item component="ComponentInfo{com.huawei.hidisk/com.huawei.hidisk.Main}" drawable="files" name="Files"/>
-  <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Green}" drawable="files" name="Simple File Manager"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Deep_purple}" drawable="files" name="Simple File Manager"/>
+  <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Green}" drawable="files" name="Simple File Manager"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Purple}" drawable="files" name="Simple File Manager"/>
   <item component="ComponentInfo{com.android.filemanager/com.android.filemanager.FileManager}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Red}" drawable="files" name="Simple File Manager"/>
@@ -648,8 +653,8 @@
   <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Cyan}" drawable="files" name="Simple File Manager"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Blue}" drawable="files" name="Simple File Manager Pro"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Grey_black}" drawable="files" name="Simple File Manager Pro"/>
-  <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager/com.simplemobiletools.filemanager.activities.SplashActivity.Orange}" drawable="files" name="Simple File Manager"/>
+  <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.simplemobiletools.filemanager.pro/com.simplemobiletools.filemanager.pro.activities.SplashActivity.Teal}" drawable="files" name="Simple File Manager Pro"/>
   <item component="ComponentInfo{com.oneplus.filemanager/com.oplus.filemanager.main.ui.MainActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.google.android.apps.nbu.files/.home.HomeActivity}" drawable="files_by_google" name="Files by Google"/>
@@ -964,8 +969,8 @@
   <item component="ComponentInfo{com.android.phone/com.mediatek.settings.PhoneRecoderSettings}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.external.HelpScreen}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.callsettings.EditAutoRejectVideoCallScreen}" drawable="google_phone" name="Phone"/>
-  <item component="ComponentInfo{com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.DialtactsCallLogActivity}" drawable="google_phone" name="Phone"/>
+  <item component="ComponentInfo{com.google.android.dialer/com.google.android.apps.dialer.extensions.GoogleDialtactsActivity}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.callsettings.AutoRejectList}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.callsettings.SoundEQDialog}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.lct.HtcCallForwardSettings}" drawable="google_phone" name="Phone"/>
@@ -1253,9 +1258,9 @@
   <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.core.SplashActivity}" drawable="magisk" name="Magisk"/>
   <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.MainActivity}" drawable="magisk" name="Magisk"/>
   <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk" name="Magisk"/>
-  <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.home.HomeActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
   <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.splash.SplashActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
   <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.authentication.LoginActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
+  <item component="ComponentInfo{com.manipal.manipalhospitals/com.manipal.manipalhospitals.home.HomeActivity}" drawable="manipal_hospitals" name="Manipal Hospitals"/>
   <item component="ComponentInfo{com.google.android.apps.mapslite/org.chromium.webapk.shell_apk.MainActivity}" drawable="maps" name="Google Maps"/>
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.PlacesActivity}" drawable="maps" name="Google Maps"/>
   <item component="ComponentInfo{com.google.android.apps.maps/com.google.android.maps.LatitudeActivity}" drawable="maps" name="Google Maps"/>
@@ -1695,8 +1700,8 @@
   <item component="ComponentInfo{com.riotgames.mobile.leagueconnect/com.riotgames.mobile.leagueconnect.ui.SplashActivity}" drawable="riot_mobile" name="Riot Mobile"/>
   <item component="ComponentInfo{com.roblox.client/com.roblox.client.ActivitySplash}" drawable="roblox" name="Roblox"/>
   <item component="ComponentInfo{com.roblox.client/com.roblox.client.startup.ActivitySplash}" drawable="roblox" name="Roblox"/>
-  <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.SplashActivity}" drawable="roku" name="Roku"/>
   <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.WelcomeActivity}" drawable="roku" name="Roku"/>
+  <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.activities.SplashActivity}" drawable="roku" name="Roku"/>
   <item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.spushtan.SPushTan}" drawable="s_pushtan" name="S-pushTAN"/>
   <item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.pushtan.SPushTan}" drawable="s_pushtan" name="S-pushTAN"/>
   <item component="ComponentInfo{com.aefyr.sai/com.aefyr.sai.ui.activities.MainActivity}" drawable="sai" name="SAI"/>

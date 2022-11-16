@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-  <item component="ComponentInfo{com.acronis.acronistrueimage/.MainActivity}" drawable="acronis_mobile" name="Acronis Mobile"/>
-  <item component="ComponentInfo{de.actionbound/.MainActivity}" drawable="actionbound" name="Actionbound"/>
   <item component="ComponentInfo{com.jago.digitalbanking/.MainActivity}" drawable="bank_jago" name="Jago"/>
-  <item component="ComponentInfo{in.usefulapp.timelybills/.MainActivity}" drawable="bills_reminder" name="Bills Reminder"/>
   <item component="ComponentInfo{io.japp.blackscreen/.MainActivity}" drawable="black_screen" name="Black Screen"/>
   <item component="ComponentInfo{de.br.sep.news.br24/.MainActivity}" drawable="br24" name="BR24"/>
-  <item component="ComponentInfo{com.browsec.vpn/.MainActivity}" drawable="browsec" name="BROWSEC"/>
-  <item component="ComponentInfo{com.browsec.vpn.proxy/.MainActivity}" drawable="browsec" name="BROWSEC"/>
-  <item component="ComponentInfo{org.lineageos.jelly/.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{org.droidtr.jelly/.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{com.expremio.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
   <item component="ComponentInfo{com.burgerkingqatar.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
@@ -43,7 +37,6 @@
   <item component="ComponentInfo{org.lineageos.aperture/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.honor.camera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.ngcam.camera/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{net.sourceforge.opencamera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.lineageos.selfie/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.reincubate.camo/.MainActivity}" drawable="camo" name="Camo"/>
   <item component="ComponentInfo{cellmapper.net.cellmapper/.MainActivity}" drawable="cellmapper" name="Cellmapper"/>
@@ -56,7 +49,6 @@
   <item component="ComponentInfo{de.peterge.combined/.MainActivity}" drawable="combined" name="Combined!"/>
   <item component="ComponentInfo{dev.synapsetech.compass/.MainActivity}" drawable="compass" name="Compass"/>
   <item component="ComponentInfo{co.coolors.android/.MainActivity}" drawable="coolors" name="Coolors"/>
-  <item component="ComponentInfo{com.cpuid.cpu_z/.MainActivity}" drawable="cpu_z" name="CPU Z"/>
   <item component="ComponentInfo{com.deutschebahn.app.android/.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
   <item component="ComponentInfo{jp.ad.iij.miodial/.MainActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias/.MainActivity}" drawable="dialer" name="Contacts"/>
@@ -184,10 +176,8 @@
   <item component="ComponentInfo{com.sonicjump.sonicjump/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{re.sova.five/.MainActivity}" drawable="sova_five" name="SOVA V RE"/>
   <item component="ComponentInfo{com.delsorboilario.dnd/.MainActivity}" drawable="spells_list_5e" name="Spells List 5e"/>
-  <item component="ComponentInfo{com.spotify.music/.MainActivity}" drawable="spotify" name="Spotify"/>
   <item component="ComponentInfo{com.quoord.tapatalk/.MainActivity}" drawable="tapatalk_pro" name="Tapatalk Pro"/>
   <item component="ComponentInfo{org.thunderdog.challegramtwo/.MainActivity}" drawable="telegram" name="Telegram X"/>
-  <item component="ComponentInfo{org.thunderdog.challegram/.MainActivity}" drawable="telegram" name="Telegram X"/>
   <item component="ComponentInfo{com.sysops.thenx/.MainActivity}" drawable="thenx" name="THENX"/>
   <item component="ComponentInfo{ch.threema.app.fdroid/.MainActivity}" drawable="threema" name="Threema"/>
   <item component="ComponentInfo{ch.threema.app.hws/.MainActivity}" drawable="threema" name="Threema"/>
