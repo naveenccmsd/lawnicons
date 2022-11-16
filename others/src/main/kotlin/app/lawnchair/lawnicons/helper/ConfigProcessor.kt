@@ -29,7 +29,7 @@ object ConfigProcessor {
             // Create Drawable files
             writeDrawableToFile(sortedDrawableMap, "$it/xml/drawable.xml")
             // Create Icon Map files
-            writeIconMapToFile(sortedDrawableMap, iconMap, "$it/xml/theme_config.xml")
+            writeIconMapToFile(sortedDrawableMap, iconMap, "$it/xml/grayscale_icon_map.xml")
             // Write AppFilter to resource directory
             XmlUtil.writeDocumentToFile(appFilterDocument, "$it/xml/appfilter.xml")
         }
