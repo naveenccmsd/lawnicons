@@ -49,10 +49,7 @@
   <item component="ComponentInfo{dev.synapsetech.compass/.MainActivity}" drawable="compass" name="Compass"/>
   <item component="ComponentInfo{co.coolors.android/.MainActivity}" drawable="coolors" name="Coolors"/>
   <item component="ComponentInfo{jp.ad.iij.miodial/.MainActivity}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{com.asus.asusincallui/.MainActivity}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.android.contacts.activities.DialtactsActivity/.MainActivity}" drawable="dialer" name="Phone"/>
-  <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{ccom.disneyplus.mea/.MainActivity}" drawable="disneyplus" name="Disney+"/>
   <item component="ComponentInfo{com.dominospizza.az/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.dominos.bd/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
