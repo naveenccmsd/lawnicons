@@ -174,8 +174,6 @@
   <item component="ComponentInfo{com.quoord.tapatalk/.MainActivity}" drawable="tapatalk_pro" name="Tapatalk Pro"/>
   <item component="ComponentInfo{org.thunderdog.challegramtwo/.MainActivity}" drawable="telegram" name="Telegram X"/>
   <item component="ComponentInfo{com.sysops.thenx/.MainActivity}" drawable="thenx" name="THENX"/>
-  <item component="ComponentInfo{ch.threema.app.fdroid/.MainActivity}" drawable="threema" name="Threema"/>
-  <item component="ComponentInfo{ch.threema.app.hws/.MainActivity}" drawable="threema" name="Threema"/>
   <item component="ComponentInfo{com.trilab.tricount.android/.MainActivity}" drawable="tricount" name="Tricount"/>
   <item component="ComponentInfo{ellipi.messenger/.MainActivity}" drawable="turbotel" name="TurboTel"/>
   <item component="ComponentInfo{com.gorgeous.liteinternational/.MainActivity}" drawable="ulike" name="Ulike"/>
