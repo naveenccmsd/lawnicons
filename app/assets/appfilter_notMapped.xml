@@ -34,7 +34,6 @@
   <item component="ComponentInfo{com.android.arn/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.MGC_8_4_400/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.GoogleCamera.mwp84/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{org.lineageos.aperture/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.honor.camera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.ngcam.camera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.lineageos.selfie/.MainActivity}" drawable="camera" name="Camera"/>
@@ -49,7 +48,6 @@
   <item component="ComponentInfo{de.peterge.combined/.MainActivity}" drawable="combined" name="Combined!"/>
   <item component="ComponentInfo{dev.synapsetech.compass/.MainActivity}" drawable="compass" name="Compass"/>
   <item component="ComponentInfo{co.coolors.android/.MainActivity}" drawable="coolors" name="Coolors"/>
-  <item component="ComponentInfo{com.deutschebahn.app.android/.MainActivity}" drawable="db_navigator" name="Next DB Navigator"/>
   <item component="ComponentInfo{jp.ad.iij.miodial/.MainActivity}" drawable="dialer" name="Phone"/>
   <item component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivityAlias/.MainActivity}" drawable="dialer" name="Contacts"/>
   <item component="ComponentInfo{com.asus.asusincallui/.MainActivity}" drawable="dialer" name="Phone"/>
@@ -69,12 +67,10 @@
   <item component="ComponentInfo{pk.com.dominos/.MainActivity}" drawable="dominos" name="Domino's Pizza"/>
   <item component="ComponentInfo{com.jndapp.dove.light.iconpack/.MainActivity}" drawable="dove_icons" name="Dove"/>
   <item component="ComponentInfo{com.jndapp.dove.dark.iconpack/.MainActivity}" drawable="dove_icons" name="Dove"/>
-  <item component="ComponentInfo{com.jamworks.dynamicspot/.MainActivity}" drawable="dynamic_spot" name="dynamicSpot"/>
   <item component="ComponentInfo{com.eksiteknoloji.eksisozluk/.MainActivity}" drawable="eksi_sozluk" name="ekşi sözlük"/>
   <item component="ComponentInfo{com.cube.gdpc.che/.MainActivity}" drawable="erste_hilfe" name="Erste Hilfe"/>
   <item component="ComponentInfo{com.gorillasoftware.everyproxy/.MainActivity}" drawable="every_proxy" name="Every Proxy"/>
   <item component="ComponentInfo{com.intermaps.familypark/.MainActivity}" drawable="familypark" name="Family Park"/>
-  <item component="ComponentInfo{com.nononsenseapps.feeder.play/.MainActivity}" drawable="feeder" name="Feeder"/>
   <item component="ComponentInfo{org.aospstudio.files/.MainActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{com.coloros.files/.MainActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{de.finanzen.net/.MainActivity}" drawable="finanzen" name="finanzen.net"/>
@@ -164,7 +160,6 @@
   <item component="ComponentInfo{ch.sbb.mobile.adroid.b2c/.MainActivity}" drawable="sbb_mobile" name="SBB Mobile"/>
   <item component="ComponentInfo{online.schulmanager.app/.MainActivity}" drawable="schulmanager" name="Schulmanager"/>
   <item component="ComponentInfo{imoblife.androidsensorbox/.MainActivity}" drawable="sensor_box" name="Sensor Box"/>
-  <item component="ComponentInfo{com.smartpack.kernelmanager.release/.MainActivity}" drawable="smartpack_kernel_manager" name="SmartPack-Kernel Manager"/>
   <item component="ComponentInfo{com.hutchison3g.sundae/.MainActivity}" drawable="smarty" name="SMARTY"/>
   <item component="ComponentInfo{com.fronius.solarweb/.MainActivity}" drawable="solarweb" name="Solar.web"/>
   <item component="ComponentInfo{com.sega.sonic4epi/.MainActivity}" drawable="sonic" name="Sonic"/>
