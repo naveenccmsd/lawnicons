@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <icons>
-  <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago"/>
   <icon drawable="@drawable/burger_king" package="com.bk.ch" name="Burger King"/>
   <icon drawable="@drawable/burger_king" package="com.burgerking.kingfinder" name="Burger King"/>
   <icon drawable="@drawable/burger_king" package="com.burgerkingcz" name="Burger King"/>
@@ -22,9 +21,6 @@
   <icon drawable="@drawable/camera" package="org.lineageos.selfie" name="Camera"/>
   <icon drawable="@drawable/coinvero" package="com.candlestick_app" name="Coinvero"/>
   <icon drawable="@drawable/combined" package="de.peterge.combined" name="Combined!"/>
-  <icon drawable="@drawable/dialer" package="com.android.contacts.activities.DialtactsActivity" name="Phone"/>
-  <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.DialtactsActivity" name="Phone"/>
-  <icon drawable="@drawable/dialer" package="com.android.contacts/com.android.contacts.DialtactsActivityAlias" name="Phone"/>
   <icon drawable="@drawable/dialer" package="com.asus.asusincallui" name="Phone"/>
   <icon drawable="@drawable/dialer" package="jp.ad.iij.miodial" name="Phone"/>
   <icon drawable="@drawable/disneyplus" package="com.disneyplus.mea" name="Disney+"/>
@@ -73,7 +69,6 @@
   <icon drawable="@drawable/sonic" package="com.sonicjump.sonicjump" name="Sonic"/>
   <icon drawable="@drawable/sova_five" package="re.sova.five" name="SOVA V RE"/>
   <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro"/>
-  <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X"/>
   <icon drawable="@drawable/tipster" package="tipster.evolutioit.app" name="Tipster"/>
   <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount"/>
   <icon drawable="@drawable/ulike" package="com.gorgeous.liteinternational" name="Ulike"/>
