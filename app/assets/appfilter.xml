@@ -647,7 +647,6 @@
   <item component="ComponentInfo{com.ebay.kleinanzeigen/com.ebay.kleinanzeigen.SplashScreenActivity}" drawable="ebay_kleinanzeigen" name="eBay Kleinanzeigen"/>
   <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.ui.splash.SplashActivity}" drawable="ebay_kleinanzeigen" name="eBay Kleinanzeigen"/>
   <item component="ComponentInfo{com.ebay.kleinanzeigen/ebk.SplashActivity}" drawable="ebay_kleinanzeigen" name="eBay Kleinanzeigen"/>
-  <item component="ComponentInfo{com.miniclip.eightballpool/com.miniclip.eightballpool.EightBallPoolActivity}" drawable="eight_ball_pool" name="8 Ball Pool"/>
   <item component="ComponentInfo{com.eksiteknoloji.eksisozluk/com.eksiteknoloji.eksisozluk.ui.launcher.LauncherActivity}" drawable="eksi_sozluk" name="ekşi sözlük"/>
   <item component="ComponentInfo{com.mahersafadi.electron/com.example.electron.MainActivity}" drawable="electron" name="Electron"/>
   <item component="ComponentInfo{im.vector.app/im.vector.riotx.features.Alias}" drawable="element" name="Element"/>
@@ -674,7 +673,6 @@
   <item component="ComponentInfo{com.nononsenseapps.feeder/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" name="Feeder"/>
   <item component="ComponentInfo{com.nononsenseapps.feeder.play/com.nononsenseapps.feeder.ui.MainActivity}" drawable="feeder" name="Feeder"/>
   <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly" name="Feedly"/>
-  <item component="ComponentInfo{com.seazon.feedme/com.seazon.feedme.view.activity.ListActivity}" drawable="feedme" name="FeedMe"/>
   <item component="ComponentInfo{de.marmaro.krt.ffupdater/de.marmaro.krt.ffupdater.MainActivity}" drawable="ffupdater" name="FFUpdater"/>
   <item component="ComponentInfo{com.figma.mirror/com.figma.figma.MainActivity}" drawable="figma" name="Figma"/>
   <item component="ComponentInfo{com.figma.mirror/com.figma.mirror.ViewerActivity}" drawable="figma" name="Figma"/>
@@ -1225,8 +1223,6 @@
   <item component="ComponentInfo{com.fiserv.IDFCMerchantServices/com.idfcfirstbank.optimus.MainActivity}" drawable="idfc" name="IDFC FIRST Bank ME Services"/>
   <item component="ComponentInfo{idm.internet.download.manager/acr.browser.lightning.activity.MainActivityLauncher}" drawable="idm" name="1dm"/>
   <item component="ComponentInfo{idm.internet.download.manager/idm.internet.download.manager.MainActivity}" drawable="idm" name="1dm"/>
-  <item component="ComponentInfo{idm.internet.download.manager.plus/acr.browser.lightning.activity.MainActivityLauncher}" drawable="idm_plus" name="1dm+"/>
-  <item component="ComponentInfo{idm.internet.download.manager.plus/idm.internet.download.manager.MainActivity}" drawable="idm_plus" name="1dm+"/>
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.HomeActivity}" drawable="imdb" name="IMDb"/>
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.Home}" drawable="imdb" name="IMDb"/>
   <item component="ComponentInfo{com.imdb.mobile/com.imdb.mobile.IMDb}" drawable="imdb" name="IMDb"/>
@@ -1470,7 +1466,6 @@
   <item component="ComponentInfo{com.facebook.orca/.auth.StartScreenActivity}" drawable="messenger" name="Messenger"/>
   <item component="ComponentInfo{com.facebook.mlite/com.facebook.mlite.coreui.view.MainActivity}" drawable="messenger" name="Messenger"/>
   <item component="ComponentInfo{com.facebook.mlite/.coreui.view.MainActivity}" drawable="messenger" name="Messenger"/>
-  <item component="ComponentInfo{rocks.poopjournal.metadataremover/rocks.poopjournal.metadataremover.ui.MainActivity}" drawable="metadata_remover" name="Metadata Remover"/>
   <item component="ComponentInfo{ch.admin.meteoswiss/ch.admin.meteoswiss.MainActivity}" drawable="meteo_swiss" name="MeteoSwiss"/>
   <item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.FileExplorerTabActivity}" drawable="mi_files" name="Mi Files"/>
   <item component="ComponentInfo{com.mi.android.globalFileexplorer/com.android.fileexplorer.MainActivity}" drawable="mi_files" name="Mi Files"/>
@@ -1629,7 +1624,6 @@
   <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.SplashActivity}" drawable="onedotonedotonedotone" name="1.1.1.1"/>
   <item component="ComponentInfo{com.cloudflare.onedotonedotonedotone/com.cloudflare.app.presentation.main.MainActivity}" drawable="onedotonedotonedotone" name="1.1.1.1"/>
   <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive" name="OneDrive"/>
-  <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="onepassword" name="1Password"/>
   <item component="ComponentInfo{com.dkanada.openapk/com.dkanada.openapk.activities.MainActivity}" drawable="openapk" name="OperaAPK"/>
   <item component="ComponentInfo{org.dslul.openboard.inputmethod.latin/org.dslul.openboard.inputmethod.latin.setup.SetupActivity}" drawable="openboard" name="OpenBoard"/>
   <item component="ComponentInfo{openfoodfacts.github.scrachx.openfood/openfoodfacts.github.scrachx.openfood.views.splash.SplashActivity}" drawable="openfoodfacts" name="OpenFoodFacts"/>
@@ -2328,8 +2322,6 @@
   <item component="ComponentInfo{br.com.urbanonorte.passenger.drivermachine/br.com.urbanonorte.passenger.drivermachine.ChooseActivity}" drawable="urbano_norte" name="Urbano Norte"/>
   <item component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.AppUsageStatisticsActivity}" drawable="usagedirect" name="usageDirect"/>
   <item component="ComponentInfo{godau.fynn.usagedirect/godau.fynn.usagedirect.activity.SourceAppUsageStatisticsActivity}" drawable="usagedirect" name="usageDirect"/>
-  <item component="ComponentInfo{rocks.poopjournal.vacationdays/rocks.poopjournal.vacationdays.Splash_Screen}" drawable="vacation_days" name="Vacation Days"/>
-  <item component="ComponentInfo{rocks.poopjournal.vacationdays/rocks.poopjournal.vacationdays.MainActivity}" drawable="vacation_days" name="Vacation Days"/>
   <item component="ComponentInfo{cloud.valetudo.companion/cloud.valetudo.companion.MainActivity}" drawable="valetudo" name="Valetudo Companion"/>
   <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.SplashScreenActivity}" drawable="vanced_manager" name="Vanced Manager"/>
   <item component="ComponentInfo{com.vanced.manager/com.vanced.manager.ui.core.SplashScreenActivity}" drawable="vanced_manager" name="Vanced Manager"/>
