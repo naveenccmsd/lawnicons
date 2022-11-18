@@ -42,7 +42,6 @@
   <item component="ComponentInfo{com.s_payment.mobiles_bezahlen/.MainActivity}" drawable="mobiles_bezahlen" name="Mobiles Bezahlen"/>
   <item component="ComponentInfo{com.nkming.nc_photos.gitlab/.MainActivity}" drawable="nc_photos" name="Photos (for Nextcloud)"/>
   <item component="ComponentInfo{com.valuephone.vpnetto/.MainActivity}" drawable="netto" name="Netto"/>
-  <item component="ComponentInfo{widget.dd.com.overdrop.pro/.MainActivity}" drawable="overdrop" name="Overdrop Pro"/>
   <item component="ComponentInfo{com.cris87.oxygen/.MainActivity}" drawable="oxigen_hd" name="Oxigen HD"/>
   <item component="ComponentInfo{com.picpay.business/.MainActivity}" drawable="picpay" name="PicPay Empresas"/>
   <item component="ComponentInfo{com.therealbluepandabear.pixapencil/.MainActivity}" drawable="pixapencil" name="PixaPencil"/>

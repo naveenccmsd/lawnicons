@@ -1663,6 +1663,7 @@
   <item component="ComponentInfo{com.piyush.music/com.piyush.music.activities.main.MainActivity}" drawable="oto_music" name="Oto Music"/>
   <item component="ComponentInfo{widget.dd.com.overdrop.free/widget.dd.com.overdrop.activity.SplashScreenActivity}" drawable="overdrop" name="Overdrop"/>
   <item component="ComponentInfo{widget.dd.com.overdrop.free/widget.dd.com.overdrop.free.alias.DefaultIconAlias}" drawable="overdrop" name="Overdrop"/>
+  <item component="ComponentInfo{widget.dd.com.overdrop.pro/widget.dd.com.overdrop.pro.MainActivity}" drawable="overdrop" name="Overdrop Pro"/>
   <item component="ComponentInfo{nl.skywave.ovinfo/nl.ovapi.ovinfo.MainActivity}" drawable="ovinfo" name="OVinfo"/>
   <item component="ComponentInfo{ovo.id/ovo.id.common.activity.StartingActivity}" drawable="ovo" name="OVO"/>
   <item component="ComponentInfo{ovo.id/ovo.id.common.activity.SplashScreenActivity}" drawable="ovo" name="OVO"/>
