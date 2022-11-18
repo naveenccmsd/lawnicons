@@ -63,12 +63,12 @@
   <item component="ComponentInfo{com.sec.android.shealthmonitors/.MainActivity}" drawable="samsung_health_monitor" name="Samsung Health Monitor"/>
   <item component="ComponentInfo{ch.sbb.mobile.adroid.b2c/.MainActivity}" drawable="sbb_mobile" name="SBB Mobile"/>
   <item component="ComponentInfo{online.schulmanager.app/.MainActivity}" drawable="schulmanager" name="Schulmanager"/>
-  <item component="ComponentInfo{com.sega.sonic4epi/.MainActivity}" drawable="sonic" name="Sonic"/>
+  <item component="ComponentInfo{com.sega.sonic4epi/com.sega.f2fdownloader.f2fDownloaderActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{com.gameloft.android.ANMP.GloftICHM/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{com.sonicjump.sonicjump/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{re.sova.five/.MainActivity}" drawable="sova_five" name="SOVA V RE"/>
   <item component="ComponentInfo{com.quoord.tapatalk/.MainActivity}" drawable="tapatalk_pro" name="Tapatalk Pro"/>
-  <item component="ComponentInfo{org.thunderdog.challegramtwo/.MainActivity}" drawable="telegram" name="Telegram X"/>
+  <item component="ComponentInfo{org.thunderdog.challegramtwo/org.thunderdog.challegram.MainActivity}" drawable="telegram" name="Telegram X"/>
   <item component="ComponentInfo{tipster.evolutioit.app/.MainActivity}" drawable="tipster" name="Tipster"/>
   <item component="ComponentInfo{com.trilab.tricount.android/.MainActivity}" drawable="tricount" name="Tricount"/>
   <item component="ComponentInfo{com.gorgeous.liteinternational/.MainActivity}" drawable="ulike" name="Ulike"/>
