@@ -16,7 +16,7 @@ object XmlUtil {
         return document.rootElement.elements(path)
     }
 
-    fun getDocument(xmlPath: String?): Document {
+    fun getDocument(xmlPath: String): Document {
         return SAXReader().apply { encoding = UTF_8 }.read(xmlPath)
     }
 
@@ -33,9 +33,8 @@ object XmlUtil {
 
     fun writeDocumentToFile(outDocument: Document, outputConfigPath: String) {
         File(outputConfigPath).parentFile.mkdirs()
-        val format = OutputFormat.createPrettyPrint().apply { encoding = UTF_8 }
         FileWriter(outputConfigPath).use { fw ->
-            XMLWriter(fw, format).apply {
+            XMLWriter(fw, OutputFormat.createPrettyPrint()).apply {
                 write(outDocument)
                 close()
             }

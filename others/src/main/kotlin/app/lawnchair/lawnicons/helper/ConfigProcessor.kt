@@ -15,17 +15,11 @@ object ConfigProcessor {
     private const val NAME = "name"
     private const val VERSION = "version"
 
-    fun loadAndCreateConfigs(
-        appFilterFile: String,
-        darkResDir: String,
-        lightResDir: String,
-    ) {
-        val drawableMap = hashMapOf<String, String>()
-        val iconMap = hashMapOf<String, String>()
-        val appFilterDocument = loadConfigFromXml(appFilterFile, drawableMap, iconMap)
+    fun loadAndCreateConfigs(appFilterFile: String, vararg resDirs: String) {
+        val (appFilterDocument, drawableMap, iconMap) = loadConfigFromXml(appFilterFile)
         val sortedDrawableMap = drawableMap.toList().sortedBy { (_, value) -> value }.toMap()
 
-        listOf(darkResDir, lightResDir).forEach {
+        resDirs.forEach {
             // Create Drawable files
             writeDrawableToFile(sortedDrawableMap, "$it/xml/drawable.xml")
             // Create Icon Map files
@@ -35,11 +29,9 @@ object ConfigProcessor {
         }
     }
 
-    private fun loadConfigFromXml(
-        appFilterFile: String,
-        drawableMap: MutableMap<String, String>,
-        iconMap: MutableMap<String, String>,
-    ): Document {
+    private fun loadConfigFromXml(appFilterFile: String): Triple<Document, Map<String, String>, Map<String, String>> {
+        val drawableMap = mutableMapOf<String, String>()
+        val iconMap = mutableMapOf<String, String>()
         val componentStart = "ComponentInfo{"
         val componentEnd = "}"
         val appFilterDocument = XmlUtil.getDocument(appFilterFile)
@@ -57,7 +49,7 @@ object ConfigProcessor {
                 iconMap[component] = name
             }
         }
-        return appFilterDocument
+        return Triple(appFilterDocument, drawableMap.toMap(), iconMap.toMap())
     }
 
     private fun writeIconMapToFile(
