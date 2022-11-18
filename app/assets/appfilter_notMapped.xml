@@ -115,6 +115,7 @@
   <item component="ComponentInfo{tr.com.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.phd/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{net.bonee.pizzaHut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.germany/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{jp.pizzahut.aorder/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahutguyana.android/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.kh/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
