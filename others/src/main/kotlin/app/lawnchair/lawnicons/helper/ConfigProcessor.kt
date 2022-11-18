@@ -29,7 +29,8 @@ object ConfigProcessor {
         }
     }
 
-    private fun loadConfigFromXml(appFilterFile: String): Triple<Document, Map<String, String>, Map<String, String>> {
+    private fun loadConfigFromXml(appFilterFile: String):
+        Triple<Document, Map<String, String>, Map<String, String>> {
         val drawableMap = mutableMapOf<String, String>()
         val iconMap = mutableMapOf<String, String>()
         val componentStart = "ComponentInfo{"
