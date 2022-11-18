@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-  <item component="ComponentInfo{com.jago.digitalbanking/.MainActivity}" drawable="bank_jago" name="Jago"/>
   <item component="ComponentInfo{org.droidtr.jelly/.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{com.expremio.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
   <item component="ComponentInfo{ie.whopper.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
