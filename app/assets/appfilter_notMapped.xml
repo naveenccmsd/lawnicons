@@ -30,9 +30,6 @@
   <item component="ComponentInfo{com.burgerkingcz/.MainActivity}" drawable="burger_king" name="Burger King"/>
   <item component="ComponentInfo{ni.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
   <item component="ComponentInfo{com.gigaworks.tech.calculator/.MainActivity}" drawable="calculator_plus" name="Calculator Plus"/>
-  <item component="ComponentInfo{com.android.MGC.not.stable/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{com.android.arn/.MainActivity}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{com.android.MGC_8_4_400/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.honor.camera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.ngcam.camera/.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.lineageos.selfie/.MainActivity}" drawable="camera" name="Camera"/>

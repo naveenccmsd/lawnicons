@@ -224,7 +224,6 @@
   <item component="ComponentInfo{com.android.calculator2/.Calculator}" drawable="calculator" name="Calculator"/>
   <item component="ComponentInfo{com.google.android.apps.cameralite/com.google.android.apps.cameralite.capture.CaptureActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.asus.camera/com.asus.camera.CameraApp}" drawable="camera" name="Camera"/>
-  <item component="ComponentInfo{com.asus.camera/.CameraApp}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraApp}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.camera/com.android.camera.app.CameraApp}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.oplus.camera/com.oplus.camera.OPCameraActivity}" drawable="camera" name="Camera"/>
@@ -242,6 +241,7 @@
   <item component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.OppoCamera}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.googleCamera.Wichaya8/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.MGC_8_4_400/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.camera/com.android.camera.GalleryPicker}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.lge.camera/com.lge.camera.CamcorderLoading}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.codeaurora.snapcam/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
@@ -255,6 +255,7 @@
   <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraLoading}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.oneplus.camera/com.oneplus.camera.MainActivity}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.MGC.not.stable/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.motorola.cameraone/com.motorola.camera.Camera}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.google.android.GoogleCameraLMC/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="camera" name="Camera"/>
@@ -289,6 +290,7 @@
   <item component="ComponentInfo{com.android.camera/com.android.camera.CamcorderEntry}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{app.grapheneos.camera.play/app.grapheneos.camera.ui.activities.MainActivity}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{org.lineageos.aperture/org.lineageos.aperture.CameraLauncher}" drawable="camera" name="Camera"/>
+  <item component="ComponentInfo{com.android.arn/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.GoogleCamera.Burial31/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.camera/com.android.camera.CameraLauncher}" drawable="camera" name="Camera"/>
   <item component="ComponentInfo{com.android.camera/com.android.camera.VideoCamera}" drawable="camera" name="Camera"/>
