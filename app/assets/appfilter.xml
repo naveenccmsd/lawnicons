@@ -1638,7 +1638,9 @@
   <item component="ComponentInfo{com.google.android.apps.wearables.maestro.companion/com.google.android.apps.wearables.maestro.companion.ui.ShortCutActivity}" drawable="pixel_buds" name="Pixel Buds"/>
   <item component="ComponentInfo{com.google.android.apps.tips/com.google.android.apps.tips.TipsMain}" drawable="pixel_tips" name="Pixel Tips"/>
   <item component="ComponentInfo{org.pixeldroid.app/org.pixeldroid.app.MainActivity}" drawable="pixeldroid" name="PixelDroid"/>
+  <item component="ComponentInfo{com.pizzahut.kuwait/com.pizzahut.kw.splash.SplashActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.yum.pizzahut/com.isobar.pizzahut.android.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahut.oman/com.pizzahut.oman.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.yum.pizzahut/com.yum.pizzahut.Home}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{gr.nikolasspyr.integritycheck/gr.nikolasspyr.integritycheck.MainActivity}" drawable="play_integrity_api_checker" name="Play Integrity API Checker"/>
   <item component="ComponentInfo{ch.srgssr.playsuisse.tv/ch.srgssr.playsuisse.tv.MainActivity}" drawable="playsuisse" name="Play Suisse"/>

@@ -117,7 +117,6 @@
   <item component="ComponentInfo{com.picpay.business/.MainActivity}" drawable="picpay" name="PicPay Empresas"/>
   <item component="ComponentInfo{com.therealbluepandabear.pixapencil/.MainActivity}" drawable="pixapencil" name="PixaPencil"/>
   <item component="ComponentInfo{dev.wacko1805.pixel.wallpapers/.MainActivity}" drawable="pixel_wallpapers" name="Pixel Walls"/>
-  <item component="ComponentInfo{com.pizzahut.oman/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{tr.com.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.phd/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{net.bonee.pizzaHut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
@@ -133,7 +132,6 @@
   <item component="ComponentInfo{com.socialsnack.pizzahutcr/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.aggregator.pizzahutmongolia/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.jeddah/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
-  <item component="ComponentInfo{com.pizzahut.kuwait/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{bn.com.pizzahut.OSPHB/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.malaysia/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.devsence.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
