@@ -108,8 +108,6 @@
   <item component="ComponentInfo{de.crysxd.octoapp/.MainActivity}" drawable="octoapp" name="OctoApp"/>
   <item component="ComponentInfo{widget.dd.com.overdrop.pro/.MainActivity}" drawable="overdrop" name="Overdrop Pro"/>
   <item component="ComponentInfo{com.cris87.oxygen/.MainActivity}" drawable="oxigen_hd" name="Oxigen HD"/>
-  <item component="ComponentInfo{sarangal.packagemanager/.MainActivity}" drawable="package_manager" name="Package Manager"/>
-  <item component="ComponentInfo{com.pagerduty.android/.MainActivity}" drawable="pager_duty" name="Pager Duty"/>
   <item component="ComponentInfo{com.reneph.passwordsafe/.MainActivity}" drawable="password_safe_manager" name="Password Safe and Manager"/>
   <item component="ComponentInfo{com.picpay.business/.MainActivity}" drawable="picpay" name="PicPay Empresas"/>
   <item component="ComponentInfo{com.therealbluepandabear.pixapencil/.MainActivity}" drawable="pixapencil" name="PixaPencil"/>
@@ -136,10 +134,7 @@
   <item component="ComponentInfo{eu.beeple.topbrandspizzahut.users/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{se.leeroygroup.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{pt.wingman.pizzahut/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
-  <item component="ComponentInfo{org.mopria.printplugin/.MainActivity}" drawable="printer" name="Printer"/>
-  <item component="ComponentInfo{com.dynamixsoftware.printershare/.MainActivity}" drawable="printer" name="Printer"/>
   <item component="ComponentInfo{org.savapage.android.print/.MainActivity}" drawable="printer" name="Printer"/>
-  <item component="ComponentInfo{qibla.compass.finddirection.hijricalendar/.MainActivity}" drawable="qibla_direction" name="Qibla Direction"/>
   <item component="ComponentInfo{com.rhmsoft.edit.pro/.MainActivity}" drawable="quickedit" name="QuickEdit"/>
   <item component="ComponentInfo{com.andi.alquran.en/.MainActivity}" drawable="quran" name="Qur'an EN"/>
   <item component="ComponentInfo{nl.rabowallet/.MainActivity}" drawable="rabo_wallet" name="Rabo Wallet"/>
@@ -162,9 +157,6 @@
   <item component="ComponentInfo{com.sega.sonic4epi/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{com.sega.sonicdash/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{com.gameloft.android.ANMP.GloftICHM/.MainActivity}" drawable="sonic" name="Sonic"/>
-  <item component="ComponentInfo{com.sega.sprint/.MainActivity}" drawable="sonic" name="Sonic"/>
-  <item component="ComponentInfo{com.sega.sonic4episode2/.MainActivity}" drawable="sonic" name="Sonic"/>
-  <item component="ComponentInfo{com.sega.sonicboomandroid/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{com.sonicjump.sonicjump/.MainActivity}" drawable="sonic" name="Sonic"/>
   <item component="ComponentInfo{re.sova.five/.MainActivity}" drawable="sova_five" name="SOVA V RE"/>
   <item component="ComponentInfo{com.delsorboilario.dnd/.MainActivity}" drawable="spells_list_5e" name="Spells List 5e"/>
@@ -173,14 +165,8 @@
   <item component="ComponentInfo{com.sysops.thenx/.MainActivity}" drawable="thenx" name="THENX"/>
   <item component="ComponentInfo{tipster.evolutioit.app/.MainActivity}" drawable="tipster" name="Tipster"/>
   <item component="ComponentInfo{com.trilab.tricount.android/.MainActivity}" drawable="tricount" name="Tricount"/>
-  <item component="ComponentInfo{ellipi.messenger/.MainActivity}" drawable="turbotel" name="TurboTel"/>
   <item component="ComponentInfo{com.gorgeous.liteinternational/.MainActivity}" drawable="ulike" name="Ulike"/>
-  <item component="ComponentInfo{br.com.urbanonorte.passenger.drivermachine/.MainActivity}" drawable="urbano_norte" name="Urbano Norte"/>
-  <item component="ComponentInfo{com.wacken/.MainActivity}" drawable="wacken" name="Wacken"/>
   <item component="ComponentInfo{dg.waifu.walls/.MainActivity}" drawable="waifupx" name="WAIFUPX"/>
   <item component="ComponentInfo{de.pietsmiet.watchbuddy/.MainActivity}" drawable="watchbuddy" name="Watchbuddy"/>
   <item component="ComponentInfo{dubrowgn.wattz/.MainActivity}" drawable="wattz" name="Wattz"/>
-  <item component="ComponentInfo{com.archive.waybackmachine/.MainActivity}" drawable="wayback_machine" name="Wayback Machine"/>
-  <item component="ComponentInfo{de.wse.werstreamt.es/.MainActivity}" drawable="werstreamt_es" name="WerStreamt.es?"/>
-  <item component="ComponentInfo{com.vector123.whiteborder/.MainActivity}" drawable="white_border" name="White Border"/>
 </resources>
