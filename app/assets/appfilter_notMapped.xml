@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <resources>
-  <item component="ComponentInfo{org.droidtr.jelly/.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{com.expremio.burgerking/.MainActivity}" drawable="burger_king" name="Burger King"/>
   <item component="ComponentInfo{ie.whopper.android/.MainActivity}" drawable="burger_king" name="Burger King"/>
   <item component="ComponentInfo{kr.co.burgerkinghybrid/.MainActivity}" drawable="burger_king" name="Burger King"/>
@@ -32,19 +31,15 @@
   <item component="ComponentInfo{com.cube.gdpc.che/.MainActivity}" drawable="erste_hilfe" name="Erste Hilfe"/>
   <item component="ComponentInfo{com.coloros.files/.MainActivity}" drawable="files" name="Files"/>
   <item component="ComponentInfo{rocks.poopjournal.fucksgiven/.MainActivity}" drawable="fxxxs_given" name="F***s Given"/>
-  <item component="ComponentInfo{com.google.android.apps.wear.companion/.MainActivity}" drawable="google_pixel_watch" name="Google Pixel Watch"/>
-  <item component="ComponentInfo{com.groupalarm.app/.MainActivity}" drawable="group_alarm" name="GroupAlarm"/>
   <item component="ComponentInfo{info.xolf.homeworker/.MainActivity}" drawable="homeworker" name="Homeworker"/>
   <item component="ComponentInfo{in.startv.hotstaronly/.MainActivity}" drawable="hotstar" name="Hotstar"/>
   <item component="ComponentInfo{nl.karwei.app.android/.MainActivity}" drawable="karwei" name="KARWEI"/>
   <item component="ComponentInfo{com.thehitman7.cygisk/.MainActivity}" drawable="magisk" name="Magisk"/>
   <item component="ComponentInfo{io.material.catalog/.MainActivity}" drawable="material_catalog" name="Material Catalog"/>
-  <item component="ComponentInfo{io.materialdesign.catalog/.MainActivity}" drawable="material_catalog" name="M3 Catalog"/>
   <item component="ComponentInfo{com.pluscubed.matlog.debug/.MainActivity}" drawable="matlog" name="MatLog"/>
   <item component="ComponentInfo{il.co.inmanage.mcdonalds/.MainActivity}" drawable="mcdonalds" name="McDonald's"/>
   <item component="ComponentInfo{com.sunshine.freeform/.MainActivity}" drawable="mi_freeform" name="Mi Freeform"/>
   <item component="ComponentInfo{com.s_payment.mobiles_bezahlen/.MainActivity}" drawable="mobiles_bezahlen" name="Mobiles Bezahlen"/>
-  <item component="ComponentInfo{de.mvg.more/.MainActivity}" drawable="mvgo" name="MVGO"/>
   <item component="ComponentInfo{com.nkming.nc_photos.gitlab/.MainActivity}" drawable="nc_photos" name="Photos (for Nextcloud)"/>
   <item component="ComponentInfo{com.valuephone.vpnetto/.MainActivity}" drawable="netto" name="Netto"/>
   <item component="ComponentInfo{widget.dd.com.overdrop.pro/.MainActivity}" drawable="overdrop" name="Overdrop Pro"/>
@@ -58,13 +53,11 @@
   <item component="ComponentInfo{pra.hizzahut.com.sv/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.expremio.pizzahutcipru/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.socialsnack.pizzahutcr/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
-  <item component="ComponentInfo{com.pizzahutapp/.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{org.savapage.android.print/.MainActivity}" drawable="printer" name="Printer"/>
   <item component="ComponentInfo{com.rhmsoft.edit.pro/.MainActivity}" drawable="quickedit" name="QuickEdit"/>
   <item component="ComponentInfo{nl.rabowallet/.MainActivity}" drawable="rabo_wallet" name="Rabo Wallet"/>
   <item component="ComponentInfo{com.Afterburn.Railbound/.MainActivity}" drawable="railbound" name="Railbound"/>
   <item component="ComponentInfo{com.motorola.audiorecorder/.MainActivity}" drawable="recorder" name="Recorder"/>
-  <item component="ComponentInfo{app.republik/.MainActivity}" drawable="republik" name="Republik"/>
   <item component="ComponentInfo{com.revolt/.MainActivity}" drawable="revolt" name="Revolt"/>
   <item component="ComponentInfo{site.endl.taiku.rvmob/.MainActivity}" drawable="revolt" name="Revolt"/>
   <item component="ComponentInfo{koeln.kvb.ticket.rvkapp/.MainActivity}" drawable="rvk" name="RVK"/>

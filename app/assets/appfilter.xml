@@ -115,7 +115,6 @@
   <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.bandlab.core.activity.navigation.NavigationActivity}" drawable="bandlab" name="BandLab"/>
   <item component="ComponentInfo{com.bandsintown/com.bandsintown.activity.SplashScreen}" drawable="bandsintown" name="Bandsintown"/>
   <item component="ComponentInfo{com.bandsintown/com.bandsintown.SplashScreen}" drawable="bandsintown" name="Bandsintown"/>
-  <item component="ComponentInfo{com.jago.digitalBanking/com.jago.digitalBanking.MainActivity}" drawable="bank_jago" name="Jago" />
   <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.MainActivity}" drawable="barinsta" name="Barinsta"/>
   <item component="ComponentInfo{me.austinhuang.instagrabber/awais.instagrabber.activities.Main}" drawable="barinsta" name="Barinsta"/>
   <item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battlenet_authenticator" name="BattleNet Authenticator"/>
@@ -195,6 +194,7 @@
   <item component="ComponentInfo{org.lineageos.jelly/org.lineageos.jelly.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.activity.BrowserActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{de.baumann.browser/de.baumann.browser.Activity.BrowserActivity}" drawable="browser" name="Browser"/>
+  <item component="ComponentInfo{org.droidtr.jelly/org.droidtr.jelly.MainActivity}" drawable="browser" name="Browser"/>
   <item component="ComponentInfo{com.bukalapak.android/com.bukalapak.android.HomeActivity_}" drawable="bukalapak" name="Bukalapak"/>
   <item component="ComponentInfo{com.bumble.app/com.bumble.app.ui.launcher.BumbleLauncherActivity}" drawable="bumble" name="Bumble"/>
   <item component="ComponentInfo{com.dwarfplanet.bundle/com.dwarfplanet.bundle.v2.ui.landing.views.SplashActivity}" drawable="bundle" name="Bundle"/>
@@ -1149,6 +1149,7 @@
   <item component="ComponentInfo{com.google.android.dialer/com.google.android.apps.dialer.calllog.GoogleCallDetailActivity}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.android.phone/com.android.phone.PrivilegedOutgoingCallBroadcaster}" drawable="google_phone" name="Phone"/>
   <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos" name="Google Photos"/>
+  <item component="ComponentInfo{com.google.android.apps.wear.companion/com.google.android.apps.wear.companion.application.RootActivity}" drawable="google_pixel_watch" name="Google Pixel Watch"/>
   <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.BooksActivity}" drawable="google_play_books" name="Google Play Books"/>
   <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="google_play_books" name="Google Play Books"/>
   <item component="ComponentInfo{com.google.android.apps.books/com.google.android.apps.books.app.HomeActivity}" drawable="google_play_books" name="Google Play Books"/>
@@ -1189,6 +1190,7 @@
   <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity}" drawable="graphing_calc" name="Graphing Calc"/>
   <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.privatelibrary.splashscreen.SplashScreenActivity_}" drawable="graphing_calc" name="Graphing Calc"/>
   <item component="ComponentInfo{org.geogebra.android/org.geogebra.android.android.activity.GraphingCalculatorSplashScreenActivity_}" drawable="graphing_calc" name="Graphing Calc"/>
+  <item component="ComponentInfo{com.groupalarm.app/com.groupalarm.app.ui.login.LoginActivity}" drawable="group_alarm" name="GroupAlarm"/>
   <item component="ComponentInfo{com.groupme.android/com.groupme.android.HomeActivity}" drawable="groupme" name="GroupMe"/>
   <item component="ComponentInfo{com.groupme.android/com.groupme.android.core.app.activity.HomeActivity}" drawable="groupme" name="GroupMe"/>
   <item component="ComponentInfo{com.groupme.android/com.groupme.android.core.app.activity.ShareToGroupMeActivity}" drawable="groupme" name="GroupMe"/>
@@ -1377,6 +1379,7 @@
   <item component="ComponentInfo{com.google.android.apps.mapslite/com.google.maps.lite.twa.MapsLiteTwaLauncherActivity}" drawable="maps" name="Google Maps"/>
   <item component="ComponentInfo{online.hisubway.marindeck/io.kodular.shenyusoftware.MarinDeck.Screen1}" drawable="marindeck" name="MarinDeck"/>
   <item component="ComponentInfo{org.joinmastodon.android/org.joinmastodon.android.MainActivity}" drawable="mastodon" name="Mastodon"/>
+  <item component="ComponentInfo{io.materialdesign.catalog/io.materialdesign.catalog.main.MainActivity}" drawable="material_catalog" name="M3 Catalog"/>
   <item component="ComponentInfo{androidx.compose.material.catalog/androidx.compose.material.catalog.CatalogActivity}" drawable="material_catalog" name="Compose Material Catalog"/>
   <item component="ComponentInfo{com.numero.material_gallery/com.numero.material_gallery.MainActivity}" drawable="material_catalog" name="MaterialGallery "/>
   <item component="ComponentInfo{com.pluscubed.matloglibre/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog" name="MatLog"/>
@@ -1529,6 +1532,7 @@
   <item component="ComponentInfo{us.spotco.fennec_dos/us.spotco.fennec_dos.App}" drawable="mull" name="Mull"/>
   <item component="ComponentInfo{net.mullvad.mullvadvpn/net.mullvad.mullvadvpn.ui.MainActivity}" drawable="mullvad_vpn" name="Mullvad VPN"/>
   <item component="ComponentInfo{in.krosbits.musicolet/in.krosbits.musicolet.MusicActivity}" drawable="musicolet" name="Musicolet"/>
+  <item component="ComponentInfo{de.mvg.more/de.swm.mvgo.main.MainActivity}" drawable="mvgo" name="MVGO"/>
   <item component="ComponentInfo{ie.months.my48/ie.months.my48.MainActivity}" drawable="my48" name="My48"/>
   <item component="ComponentInfo{com.myairtelapp/com.myairtelapp.home.views.activities.SplashScreenActivity}" drawable="myairtel" name="Airtel"/>
   <item component="ComponentInfo{com.myairtelapp/com.myairtelapp.activity.SplashScreenActivity}" drawable="myairtel" name="Airtel"/>
@@ -1718,6 +1722,7 @@
   <item component="ComponentInfo{se.leeroygroup.pizzahut/com.burgerqueenapp.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.rsa/com.pizzahut.rsa.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{pt.wingman.pizzahut/pt.wingman.pizzahut.ui.splash.SplashActivity}" drawable="pizza_hut" name="Pizza Hut"/>
+  <item component="ComponentInfo{com.pizzahutapp/com.americana.me.ui.onboarding.splash.SplashActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.yum.pizzahut/com.yum.pizzahut.Home}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahut.malaysia/com.pizzahut.malaysia.views.MLSplashActivity}" drawable="pizza_hut" name="Pizza Hut"/>
   <item component="ComponentInfo{com.pizzahutguyana.android/com.pizzahutguyana.android.MainActivity}" drawable="pizza_hut" name="Pizza Hut"/>
@@ -1858,6 +1863,7 @@
   <item component="ComponentInfo{free.reddit.news/free.reddit.news.RedditNavigation}" drawable="relay" name="Relay"/>
   <item component="ComponentInfo{free.reddit.news/reddit.news.RedditNavigation}" drawable="relay" name="Relay"/>
   <item component="ComponentInfo{dev.kdrag0n.dyntheme/dev.kdrag0n.dyntheme.ui.main.MainActivity}" drawable="repainter" name="Repainter"/>
+  <item component="ComponentInfo{app.republik/app.republik.MainActivity}" drawable="republik" name="Republik"/>
   <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.activities.MainActivity}" drawable="retro_music" name="Retro Music"/>
   <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.main.MainActivity}" drawable="retro_music" name="Retro Music"/>
   <item component="ComponentInfo{io.github.muntashirakon.Music/io.github.muntashirakon.music.activities.MainActivity}" drawable="retro_music" name="Metro"/>
@@ -2463,4 +2469,5 @@
   <item component="ComponentInfo{com.xiaomi.hm.health/cn.com.smartdevices.bracelet.activity.StartUpActivity}" drawable="zepp_life" name="Zepp Life"/>
   <item component="ComponentInfo{com.zeptoconsumerapp/com.zeptoconsumerapp.MainActivity}" drawable="zepto" name="Zepto"/>
   <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom" name="Zoom"/>
+  <item component="ComponentInfo{com.jago.digitalBanking/com.jago.digitalBanking.MainActivity}" drawable="bank_jago" name="Jago"/>
 </resources>
