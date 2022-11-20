@@ -114,6 +114,7 @@
   <item component="ComponentInfo{com.babbel.mobile.android.en/com.babbel.mobile.android.en.BabbelAppStartPage}" drawable="babbel" name="Babbel"/>
   <item component="ComponentInfo{com.babbel.mobile.android.en/com.babbel.mobile.android.core.presentation.mainactivity.screens.MainActivity}" drawable="babbel" name="Babbel"/>
   <item component="ComponentInfo{com.babbel.mobile.android.en/com.babbel.mobile.android.core.presentation.MainActivity}" drawable="babbel" name="Babbel"/>
+  <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="backdrops" name="Backdrops"/>
   <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity}" drawable="bandlab" name="BandLab"/>
   <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.bandlab.core.activity.navigation.NavigationActivity}" drawable="bandlab" name="BandLab"/>
   <item component="ComponentInfo{com.bandsintown/com.bandsintown.activity.SplashScreen}" drawable="bandsintown" name="Bandsintown"/>
@@ -521,6 +522,7 @@
   <item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.SplashActivity}" drawable="delta_icons" name="Delta"/>
   <item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.StartActivity}" drawable="delta_icons" name="Delta"/>
   <item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.MuzeiActivity}" drawable="delta_icons" name="Delta"/>
+  <item component="ComponentInfo{com.dmholdings.DenonAVRRemote/com.dmholdings.remoteapp.Startup}" drawable="denon_avr" name="Denon AVR Remote"/>
   <item component="ComponentInfo{com.scheffsblend.designertools/org.cyanogenmod.designertools.ui.DesignerToolsActivity}" drawable="designer_tools" name="Designer Tools"/>
   <item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="deviantart" name="DeviantArt"/>
   <item component="ComponentInfo{ru.andr7e.deviceinfohw/ru.andr7e.deviceinfohw.MainActivity}" drawable="device_info_hw" name="Device Info HW"/>
@@ -863,6 +865,7 @@
   <item component="ComponentInfo{at.geizhals.pv/at.geizhals.pv.GeizhalsSplashScreen}" drawable="geizhals" name="Geizhals"/>
   <item component="ComponentInfo{tweeter.gif.twittervideodownloader/tweeter.gif.twittervideodownloader.ui.search.SearchActivity}" drawable="generic_downloader" name="Download Twitter Videos"/>
   <item component="ComponentInfo{repost.share.instagram.videodownloader.photodownloader/repost.share.instagram.videodownloader.photodownloader.StartupActivity}" drawable="generic_downloader" name="InsMate Pro"/>
+  <item component="ComponentInfo{com.oplus.games/com.oplus.games.ui.main.MainGameActivity}" drawable="generic_games" name="Games"/>
   <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityVideoList}" drawable="generic_player" name="MX Player"/>
   <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.ActivityMediaList}" drawable="generic_player" name="MX Player"/>
   <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.zap_round}" drawable="generic_player" name="Poweramp"/>
@@ -2178,6 +2181,7 @@
   <item component="ComponentInfo{de.tagesschau/de.tagesschau.ui.activities.StartActivity}" drawable="tagesschau" name="tagesschau"/>
   <item component="ComponentInfo{de.tagesschau/de.tagesschau.ui.activities.MainActivity}" drawable="tagesschau" name="tagesschau"/>
   <item component="ComponentInfo{de.tagesschau/de.tagesschau.ui.splashscreen.SplashScreen}" drawable="tagesschau" name="tagesschau"/>
+  <item component="ComponentInfo{com.tplink.iot/com.tplink.iot.view.welcome.StartupActivity}" drawable="tapo" name="Tapo"/>
   <item component="ComponentInfo{com.klinker.android.twitter_l/com.klinker.android.twitter_l.ui.MainActivity}" drawable="talon" name="Talon for Twitter"/>
   <item component="ComponentInfo{com.klinker.android.twitter_l/com.klinker.android.twitter_l.activities.MainActivity}" drawable="talon" name="Talon for Twitter"/>
   <item component="ComponentInfo{org.tasks/com.todoroo.astrid.activity.TaskListActivity.Yellow}" drawable="tasks" name="Tasks"/>
