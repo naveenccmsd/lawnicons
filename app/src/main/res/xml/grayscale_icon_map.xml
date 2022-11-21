@@ -37,7 +37,6 @@
   <icon drawable="@drawable/homeworker" package="info.xolf.homeworker" name="Homeworker"/>
   <icon drawable="@drawable/hotstar" package="in.startv.hotstaronly" name="Hotstar"/>
   <icon drawable="@drawable/idm_plus" package="idm.internet.download.manager.plus" name="1dm+"/>
-  <icon drawable="@drawable/joyn" package="de.prosiebensat1digital.seventv" name="Joyn"/>
   <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI"/>
   <icon drawable="@drawable/magisk" package="com.thehitman7.cygisk" name="Magisk"/>
   <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog"/>
@@ -47,8 +46,6 @@
   <icon drawable="@drawable/mi_freeform" package="com.sunshine.freeform" name="Mi Freeform"/>
   <icon drawable="@drawable/mobiles_bezahlen" package="com.s_payment.mobiles_bezahlen" name="Mobiles Bezahlen"/>
   <icon drawable="@drawable/nc_photos" package="com.nkming.nc_photos.gitlab" name="Photos (for Nextcloud)"/>
-  <icon drawable="@drawable/netto" package="com.valuephone.vpnetto" name="Netto"/>
-  <icon drawable="@drawable/ntv" package="de.lineas.lit.ntv.android" name="ntv Nachrichten"/>
   <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password"/>
   <icon drawable="@drawable/oxigen_hd" package="com.cris87.oxygen" name="Oxigen HD"/>
   <icon drawable="@drawable/passandroid" package="org.ligi.passandroid" name="PassAndroid"/>
