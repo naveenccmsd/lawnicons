@@ -21,6 +21,7 @@
   <icon drawable="@drawable/camera" package="org.lineageos.selfie" name="Camera"/>
   <icon drawable="@drawable/coinvero" package="com.candlestick_app" name="Coinvero"/>
   <icon drawable="@drawable/combined" package="de.peterge.combined" name="Combined!"/>
+  <icon drawable="@drawable/currencies" package="de.salomax.currencies" name="Currencies" />
   <icon drawable="@drawable/dialer" package="com.asus.asusincallui" name="Phone"/>
   <icon drawable="@drawable/dialer" package="jp.ad.iij.miodial" name="Phone"/>
   <icon drawable="@drawable/disneyplus" package="com.disneyplus.mea" name="Disney+"/>
@@ -74,6 +75,7 @@
   <icon drawable="@drawable/sonic" package="com.sonicjump.sonicjump" name="Sonic"/>
   <icon drawable="@drawable/sova_five" package="re.sova.five" name="SOVA V RE"/>
   <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro"/>
+  <icon drawable="@drawable/teamsnap" package="com.teamsnap.teamsnap" name="TeamSnap" />
   <icon drawable="@drawable/tipster" package="tipster.evolutioit.app" name="Tipster"/>
   <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount"/>
   <icon drawable="@drawable/ulike" package="com.gorgeous.liteinternational" name="Ulike"/>
@@ -81,4 +83,5 @@
   <icon drawable="@drawable/waifupx" package="dg.waifu.walls" name="WAIFUPX"/>
   <icon drawable="@drawable/watchbuddy" package="de.pietsmiet.watchbuddy" name="Watchbuddy"/>
   <icon drawable="@drawable/wattz" package="dubrowgn.wattz" name="Wattz"/>
+  <icon drawable="@drawable/xvii" package="com.twoeightnine.root.xvii" name="xvii" />
 </icons>
