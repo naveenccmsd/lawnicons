@@ -19,6 +19,17 @@
   <calendar component="ComponentInfo{org.withouthat.acalendar/org.withouthat.acalendar.ACalendar}" prefix="themed_icon_calendar_" name="Calendar"/>
   <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.homepage.AllInOneActivity}" prefix="themed_icon_calendar_" name="Calendar"/>
   
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)}}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)}}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)}}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/.ClockPackage}" drawable="themed_icon_clock" name="Clock"/>
+  <dclock component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" drawable="themed_icon_clock" name="Clock"/>
+
   <!-- Static Icons -->  
   <item component="ComponentInfo{dev.kdrag0n.android12ext/dev.kdrag0n.android12ext.ui.main.MainActivity}" drawable="a12_extensions" name="Android 12 Extensions"/>
   <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery" name="AccuBattery"/>
@@ -370,44 +381,38 @@
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.StopwatchActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.main.TabsActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Grey_black}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage}" drawable="clock" name="Clock"/>
+
+
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockTabActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Light_blue}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Purple}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.pantech.app.clock.ClockLauncher}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.dslit.floatingclock/com.dslit.floatingclock.MainActivity}" drawable="clock" name="Floating Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClock}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Green}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.MainActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.clock.Clockk}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackageWC}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Yellow}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Cyan}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Indigo}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.ClockPackage VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)}}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.MultiClockTab}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.hisense.timetools.TimeToolsMainActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Blue}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Red}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.common.activity.ClockPackage VirtualScreenParam=Params{mDisplayId=-1, null, mFlags=0x00000000)}}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Brown}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Pink}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.TabDetails}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Deep_purple}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.TabletClockPackage}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.jrdcom.timetool.TimeToolActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Lime}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.ClockTabStyle}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.DeskClockGroupActivity}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/.ClockPackage}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmClock}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Teal}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Light_green}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.ClockActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.AlarmsMainActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.android.deskclock.ClockPackage}" drawable="clock" name="Clock"/>
-  <item component="ComponentInfo{com.sec.android.app.clockpackage/com.sec.android.app.clockpackage.alarm.Alarm}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.simplemobiletools.clock/com.simplemobiletools.clock.activities.SplashActivity.Orange}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/.AlarmsMainActivity}" drawable="clock" name="Clock"/>
   <item component="ComponentInfo{com.android.deskclock/com.apalon.myclockfree.MainActivity}" drawable="clock" name="Clock"/>
