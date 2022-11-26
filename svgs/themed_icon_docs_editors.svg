@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="36.0" width="36.0" xmlns="http://www.w3.org/2000/svg">
+    <path d="M24 16.5H12V18.75H24V16.5Z" fill=""/>
+    <path d="M24 21H12V23.25H24V21Z" fill=""/>
+    <path d="M19.5 25.5H12V27.75H19.5V25.5Z" fill=""/>
+    <path d="M21 3H9C7.35 3 6.015 4.35 6.015 6L6 30C6 31.65 7.335 33 8.985 33H27C28.65 33 30 31.65 30 30V12L21 3ZM9 30V6H19.5V13.5H27V30H9Z" fill=""/>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><svg xmlns:android="http://schemas.android.com/apk/res/android" height="31.746" width="36.0" xmlns="http://www.w3.org/2000/svg">
+    <g>
+        <g>
+            <g>
+                <path d="M2.776,22.478H0v1.164c0,0.841,0.682,1.522,1.522,1.522H7.119v-2.687H2.776Z" fill="#000000" fill-opacity="1.0"/>
+                <path d="M33.224,22.478h-10.522v2.687h11.776c0.841,0,1.522-0.682,1.522-1.522v-1.164h-2.776Z" fill="#000000" fill-opacity="1.0"/>
+                <path android:fillAlpha="0.9" android:strokeAlpha="0.9" d="M7.119,5.955c0-0.841,0.682-1.522,1.522-1.522h12.537c0.841,0,1.522,0.682,1.522,1.522V22.478h10.522V1.522c0-0.841-0.682-1.522-1.522-1.522H4.299c-0.841,0-1.522,0.682-1.522,1.522V22.478H7.119V5.955Z" fill="#000000" fill-opacity="1.0" stroke-width="1.0"/>
+                <path android:fillAlpha="0.4" android:strokeAlpha="0.4" d="M8.642,4.433h12.537c0.84,0,1.522,0.682,1.522,1.522v2.082H7.119v-2.082c0-0.84,0.682-1.522,1.522-1.522Z" fill="#000000" fill-opacity="1.0" stroke-width="1.0"/>
+                <path d="M8.642,28.142h12.537c0.84,0,1.522,0.682,1.522,1.522v2.082H7.119v-2.082c0-0.84,0.682-1.522,1.522-1.522Z" fill="#000000" fill-opacity="1.0"/>
+                <path android:fillAlpha="0.85" android:strokeAlpha="0.85" d="M 7.119 23.373 H 22.701 V 28.142 H 7.119 V 23.373 Z" fill="#000000" fill-opacity="1.0" stroke-width="1.0"/>
+                <path android:fillAlpha="0.7" android:strokeAlpha="0.7" d="M 7.119 16.119 H 22.701 V 23.373 H 7.119 V 16.119 Z" fill="#000000" fill-opacity="1.0" stroke-width="1.0"/>
+                <path android:fillAlpha="0.55" android:strokeAlpha="0.55" d="M 7.119 8.037 H 22.701 V 16.119 H 7.119 V 8.037 Z" fill="#000000" fill-opacity="1.0" stroke-width="1.0"/>
+                <path d="M 13.87 5.72 L 17.563 5.72 Q 18 5.72 18 6.157 L 18 6.156 Q 18 6.593 17.563 6.593 L 13.87 6.593 Q 13.433 6.593 13.433 6.156 L 13.433 6.157 Q 13.433 5.72 13.87 5.72 Z" fill="#000000" fill-opacity="1.0"/>
+                <path d="M 11.922 5.72 C 12.1633484357 5.72 12.359 5.91565156432 12.359 6.157 C 12.359 6.39834843568 12.1633484357 6.594 11.922 6.594 C 11.6806515643 6.594 11.485 6.39834843568 11.485 6.157 C 11.485 5.91565156432 11.6806515643 5.72 11.922 5.72 Z" fill="#000000" fill-opacity="1.0"/>
+            </g>
+        </g>
+    </g>
+</svg>

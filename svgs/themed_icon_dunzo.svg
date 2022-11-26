@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><svg xmlns:aapt="http://schemas.android.com/aapt" xmlns:android="http://schemas.android.com/apk/res/android" height="174.0" width="174.0" xmlns="http://www.w3.org/2000/svg">
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M69.5 1L81 1.5L69.5 2L69.5 1Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M107.5 2L112 2.5L107.5 3L107.5 2Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M29.5 12L30 15.5L29 15.5L29.5 12Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M28.5 19L29 22.5L28 22.5L28.5 19Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M27.5 27L28 29.5L27 29.5L27.5 27Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M26.5 32L27 35.5L26 35.5L26.5 32Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M25.5 39L26 42.5L25 42.5L25.5 39Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M162.5 39L163.5 41L162.5 39Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M158.5 41L156.5 44L158.5 41Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M155.5 45L154.5 47L155.5 45Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M24.5 47L25 50.5L24 50.5L24.5 47Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M153.5 48L151.5 51L153.5 48Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M150.5 52L149.5 54L150.5 52Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M147.5 56L146.5 58L147.5 56Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M58.5 59L57.5 61L58.5 59Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M62.5 59L64.5 62L62.5 59Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M145.5 59L143.5 62L145.5 59Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M22.5 60L23 62.5L22 62.5L22.5 60Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M142.5 63L141.5 65L142.5 63Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M68.5 64L71.5 68L68.5 64Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M21.5 67L22 70.5L21 70.5L21.5 67Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M139.5 67L138.5 69L139.5 67Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M171.5 67L172 81.5L171 81.5L171.5 67Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M75.5 70L79.5 75L75.5 70Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M137.5 70L136.5 72L137.5 70Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M20.5 74L21 76.5L20 76.5L20.5 74Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M134.5 74L133.5 76L134.5 74Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M83.5 77L85.5 80L83.5 77Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M19.5 80L20 83.5L19 83.5L19.5 80Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M129.5 81L128.5 83L129.5 81Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M89.5 82L92.5 86L89.5 82Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M126.5 85L125.5 87L126.5 85Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M18.5 87L19 90.5L18 90.5L18.5 87Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M124.5 88L123.5 90L124.5 88Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M64.5 90L67 90.5L64.5 91L64.5 90Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M68.5 91L73.5 97L68.5 91Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M121.5 92L120.5 94L121.5 92Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M61.5 93L60.5 95L61.5 93Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M17.5 95L18 97.5L17 97.5L17.5 95Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M119.5 95L117.5 98L119.5 95Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M58.5 97L57.5 99L58.5 97Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M77.5 99L81.5 104L77.5 99Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M116.5 99L115.5 101L116.5 99Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M56.5 100L55.5 102L56.5 100Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M113.5 103L112.5 105L113.5 103Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M53.5 104L52.5 106L53.5 104Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M85.5 106L88.5 110L85.5 106Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M111.5 106L110.5 108L111.5 106Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M15.5 107L16 110.5L15 110.5L15.5 107Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M51.5 107L49.5 110L51.5 107Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M108.5 110L107.5 112L108.5 110Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M48.5 111L47.5 113L48.5 111Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M92.5 112L97.5 118L92.5 112Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M106.5 113L104.5 116L106.5 113Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M14.5 115L15 117.5L14 117.5L14.5 115Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M103.5 117L101.5 120L100 119.5L103.5 117Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M43.5 118L42.5 120L43.5 118Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M40.5 122L39.5 124L40.5 122Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M157.5 124L156.5 126L157.5 124Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M38.5 125L37.5 127L38.5 125Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M155.5 127L154.5 129L155.5 127Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M12.5 128L13 130.5L12 130.5L12.5 128Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M35.5 129L34.5 131L35.5 129Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M153.5 130L152.5 132L153.5 130Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M33.5 132L32.5 134L33.5 132Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M150.5 134L148.5 137L150.5 134Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M11.5 135L12 137.5L11 137.5L11.5 135Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M30.5 136L29.5 138L30.5 136Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M28.5 139L26.5 142L28.5 139Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M145.5 140L138.5 148L145.5 140Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M10.5 142L11 144.5L10 144.5L10.5 142Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M25.5 143L24.5 145L25.5 143Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M20.5 150L19.5 152L20.5 150Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M134.5 150L132.5 153L134.5 150Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M13.5 151L12.5 153L13.5 151Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M17.5 154L16.5 156L17.5 154Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M129.5 154L128.5 156L129.5 154Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M8.5 155L9 157.5L8 157.5L8.5 155Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M126.5 156L125.5 158L126.5 156Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M15.5 157L14.5 159L15.5 157Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M121.5 159L120.5 161L121.5 159Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M13.5 160L12.5 162L13.5 160Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M10.5 164L9.5 166L10.5 164Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path android:fillAlpha="0.1607843" android:strokeAlpha="0.1607843" d="M86.5 171L90 171.5L86.5 172L86.5 171Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M104.5 2L107 2.5L104.5 3L104.5 2Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M33.5 3L32.5 5L33.5 3Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M30.5 9L31 11.5L30 11.5L30.5 9Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M26.5 36L27 38.5L26 38.5L26.5 36Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M160.5 39L159.5 41L160.5 39Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M149.5 54L148.5 56L149.5 54Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M23.5 56L24 59.5L23 59.5L23.5 56Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M65.5 61L67.5 64L65.5 61Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M170.5 63L171 66.5L170 66.5L170.5 63Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M141.5 65L140.5 67L141.5 65Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M72.5 67L74.5 70L72.5 67Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M136.5 72L135.5 74L136.5 72Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M79.5 73L82.5 77L79.5 73Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M133.5 76L132.5 78L133.5 76Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M20.5 77L21 79.5L20 79.5L20.5 77Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M87.5 80L88.5 82L87.5 80Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M170.5 82L171 86.5L170 86.5L170.5 82Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M93.5 85L94.5 87L93.5 85Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M123.5 90L122.5 92L123.5 90Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M63.5 91L62.5 93L63.5 91Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M67.5 91L68.5 93L67.5 91Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M60.5 95L59.5 97L60.5 95Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M74.5 97L77.5 101L74.5 97Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M115.5 101L114.5 103L115.5 101Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M55.5 102L54.5 104L55.5 102Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M16.5 104L17 106.5L16 106.5L16.5 104Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M82.5 104L84.5 107L82.5 104Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M50.5 109L49.5 111L50.5 109Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M89.5 110L92.5 114L89.5 110Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M47.5 113L46.5 115L47.5 113Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M105.5 115L104.5 117L105.5 115Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M98.5 118L99.5 120L98.5 118Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M42.5 120L41.5 122L42.5 120Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M13.5 124L14 127.5L13 127.5L13.5 124Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M37.5 127L36.5 129L37.5 127Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M151.5 132L150.5 134L151.5 132Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M147.5 137L145.5 140L147.5 137Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M27.5 141L26.5 143L27.5 141Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M10.5 145L11 147.5L10 147.5L10.5 145Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M24.5 145L23.5 147L24.5 145Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M136.5 148L135.5 150L136.5 148Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M9.5 151L10 154.5L9 154.5L9.5 151Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M19.5 152L18.5 154L19.5 152Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M131.5 152L130.5 154L131.5 152Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M9.5 169L10.5 171L9.5 169Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M90.5 170L93 170.5L90.5 171L90.5 170Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M83.5 171L86 171.5L83.5 172L83.5 171Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M37.5 2L103.5 2L120.5 5L133 10.5L95.5 87L60.5 58L56 61.5L9.5 158L9 155.5L11 147.5L12 133.5L14 127.5L15 112.5L18 99.5L18 92.5L21 79.5L22 65.5L24 59.5L24 52.5L27 38.5L30 12.5L31 7.5L34.5 3L37.5 2Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+    <path d="M161.5 39L165 43.5L169 55.5L170 66.5L171 67.5L171 81.5L170 82.5L170 89.5L168 99.5L162 115.5Q153.1 133.1 139.5 146L136.5 148Q119.1 165.6 89.5 171Q84 169.5 82.5 172L13.5 172L9 168.5L29 138.5L64.5 91L69.5 93L99.5 120L103 120Q130.4 78.2 161.5 39Z" fill="#000000" fill-opacity="1.0" stroke="#ff000000" stroke-width="1.0"/>
+</svg>
