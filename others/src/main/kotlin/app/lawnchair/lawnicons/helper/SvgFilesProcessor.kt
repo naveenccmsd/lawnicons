@@ -70,13 +70,17 @@ object SvgFilesProcessor {
         if (svgSource.fileName.toString().endsWith(".svg")) {
             val targetFile = XmlUtil.getFileWithExtension(vectorTargetPath)
             val fileOutputStream = FileOutputStream(targetFile)
+            try {
             Svg2Vector.parseSvgToXml(svgSource.toFile(), fileOutputStream)
+            } catch (e: IllegalStateException) {
+                println("Skipping file as its not svg " + svgSource.fileName)
+            }
             try {
                 val attrValue = if (mode == "dark") "#000" else "#fff"
                 updateXmlPath(targetFile, "android:strokeColor", attrValue)
                 updateXmlPath(targetFile, "android:fillColor", attrValue)
             } catch (e: DocumentException) {
-                throw RuntimeException(e)
+                println("Error processing svg file" + svgSource.fileName)
             }
         } else {
             println("Skipping file as its not svg " + svgSource.fileName)
