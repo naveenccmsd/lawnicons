@@ -10,7 +10,6 @@
   <icon drawable="@drawable/combined" package="de.peterge.combined" name="Combined!"/>
   <icon drawable="@drawable/dialer" package="com.asus.asusincallui" name="Phone"/>
   <icon drawable="@drawable/dialer" package="jp.ad.iij.miodial" name="Phone"/>
-  <icon drawable="@drawable/dove_icons" package="com.jndapp.dove.dark.iconpack" name="Dove"/>
   <icon drawable="@drawable/eksi_sozluk" package="com.drdisagree.iconify" name="ekşi sözlük"/>
   <icon drawable="@drawable/erste_hilfe" package="com.cube.gdpc.che" name="Erste Hilfe"/>
   <icon drawable="@drawable/files" package="com.coloros.files" name="Files"/>

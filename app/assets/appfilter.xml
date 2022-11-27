@@ -751,6 +751,7 @@
   <item component="ComponentInfo{xyz.zedler.patrick.doodle/xyz.zedler.patrick.doodle.activity.SplashActivity}" drawable="doodle" name="Doodle"/>
   <item component="ComponentInfo{xyz.zedler.patrick.doodle/xyz.zedler.patrick.doodle.activity.LauncherActivity}" drawable="doodle" name="Doodle"/>
   <item component="ComponentInfo{com.jndapp.dove.light.iconpack/com.jndapp.dove.light.iconpack.MainActivity}" drawable="dove_icons" name="Dove"/>
+  <item component="ComponentInfo{com.jndapp.dove.dark.iconpack/com.jndapp.dove.dark.iconpack.MainActivity}" drawable="dove_icons" name="Dove"/>
   <item component="ComponentInfo{com.jndapp.dove.iconpack/com.jndapp.dove.iconpack.MainActivity}" drawable="dove_icons" name="Dove"/>
   <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.GnDownloadTabActivity}" drawable="download" name="Downloads"/>
   <item component="ComponentInfo{com.android.providers.downloads.ui/com.android.providers.downloads.ui.DownloadsListTab}" drawable="download" name="Downloads"/>
