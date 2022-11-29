@@ -12,7 +12,9 @@
   <icon drawable="@drawable/mastodon" package="org.joinmastodon.android.sk" name="Mastodon"/>
   <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog"/>
   <icon drawable="@drawable/matlog" package="com.pluscubed.matlog.debug" name="MatLog"/>
+  <icon drawable="@drawable/mi_fitness" package="com.metaflow.lumen" name="Lumen"/>
   <icon drawable="@drawable/mi_freeform" package="com.sunshine.freeform" name="Mi Freeform"/>
+  <icon drawable="@drawable/mi_music" package="it.vfsfitvnm.vimusic" name="Music"/>
   <icon drawable="@drawable/nc_photos" package="com.nkming.nc_photos.gitlab" name="Photos (for Nextcloud)"/>
   <icon drawable="@drawable/oto_music" package="de.moekadu.tuner" name="Oto Music"/>
   <icon drawable="@drawable/picpay" package="com.picpay.business" name="PicPay Empresas"/>
