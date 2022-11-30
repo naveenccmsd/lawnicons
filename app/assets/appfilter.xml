@@ -122,6 +122,8 @@
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.activity.AuroraActivity}" drawable="aurora_store" name="Aurora Store"/>
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.view.ui.onboarding.OnboardingActivity}" drawable="aurora_store" name="Aurora Store"/>
   <item component="ComponentInfo{com.aurora.store/com.aurora.store.ui.single.activity.SplashActivity}" drawable="aurora_store" name="Aurora Store"/>
+  <item component="ComponentInfo{com.governikus.ausweisapp2/com.governikus.ausweisapp2.MainActivity}" drawable="ausweisapp2" name="AusweisApp2"/>
+  <item component="ComponentInfo{com.governikus.ausweisapp2.dev/com.governikus.ausweisapp2.MainActivity}" drawable="ausweisapp2" name="AusweisApp2"/>
   <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" name="Authy"/>
   <item component="ComponentInfo{com.authy.authy/.activities.InitializationActivity}" drawable="authy" name="Authy"/>
   <item component="ComponentInfo{org.oxycblt.auxio/org.oxycblt.auxio.MainActivity}" drawable="auxio" name="Auxio"/>
@@ -134,6 +136,8 @@
   <item component="ComponentInfo{com.babbel.mobile.android.en/com.babbel.mobile.android.en.BabbelAppStartPage}" drawable="babbel" name="Babbel"/>
   <item component="ComponentInfo{com.babbel.mobile.android.en/com.babbel.mobile.android.core.presentation.MainActivity}" drawable="babbel" name="Babbel"/>
   <item component="ComponentInfo{com.backdrops.wallpapers/com.backdrops.wallpapers.WelcomeActivity}" drawable="backdrops" name="Backdrops"/>
+  <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.landing.LandingActivity}" drawable="bandcamp" name="Bandcamp"/>
+  <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" name="Bandcamp"/>
   <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.bandlab.core.activity.NavigationActivity}" drawable="bandlab" name="BandLab"/>
   <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.navigation.entry.NavigationActivity}" drawable="bandlab" name="BandLab"/>
   <item component="ComponentInfo{com.bandlab.bandlab/com.bandlab.bandlab.core.activity.navigation.NavigationActivity}" drawable="bandlab" name="BandLab"/>
@@ -1768,6 +1772,34 @@
   <item component="ComponentInfo{mega.privacy.android.app/com.duapps.ad.DuAd}" drawable="mega" name="Mega"/>
   <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.lollipop.ManagerActivity}" drawable="mega" name="Mega"/>
   <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega" name="Mega"/>
+  <item component="ComponentInfo{com.vodafone.android/com.vodafone.android.ui.splash.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.ui.activity.StartActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.myvodafoneapp/com.vodafone.myvodafone.ui.activity.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.load.VfLoadPhoneActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.presentation.main.MainActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.activities.MainActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.VodafoneIreland.MyVodafone/com.vis.ie.ui.activity.SplashIEActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.modules.splash.activities.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.presentation.deeplinking.DeepLinkActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.vodafone.android/com.vodafone.android.activity.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.activities.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.myvodafoneapp/com.myvodafoneapp.ui.activity.LaunchActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.myvodafoneapp/com.myvodafoneapp.activities.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.vodafone.android/com.vodafone.android.ui.activities.MainActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.VodafoneIreland.MyVodafone/com.VodafoneIreland.MyVodafone.MyVodafoneApp}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.main.MainActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.My190}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.appseleration.android.selfcare/com.vis.meinvodafone.view.activity.launch.VfLaunchBaseActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.VodafoneIreland.MyVodafone/com.VodafoneIreland.MyVodafone.activity.splash.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.VodafoneIreland.MyVodafone/com.VodafoneIreland.MyVodafone.MainActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.myvodafoneapp/com.tsse.vfuk.view.VFLaunchActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.vodafone.selfservis/com.vodafone.selfservis.activities.SplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.VodafoneIreland.MyVodafone/com.vis.ie.ui.activity.SplashIEActivity_}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.dashboard.DashboardActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.appseleration.android.selfcare/com.appseleration.android.selfcare.ui.base.VodafoneSplashActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.myvodafoneapp/com.myvodafoneapp.Splash}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{com.VodafoneIreland.MyVodafone/com.VodafoneIreland.MyVodafone.App}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
+  <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.ui.activity.MainActivity}" drawable="meinvodafone" name="MeinVodafone / My Vodafone"/>
   <item component="ComponentInfo{com.samsung.android.messaging/com.samsung.android.messaging.ui.ConversationList}" drawable="messages" name="Messages"/>
   <item component="ComponentInfo{com.android.mms/com.yulong.android.mms.ui.MmsMainListFormActivity}" drawable="messages" name="Messages"/>
   <item component="ComponentInfo{com.android.mms/com.android.mms.ui.ModeChooser}" drawable="messages" name="Messages"/>
@@ -2647,6 +2679,7 @@
   <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Green}" drawable="simple_gallery" name="Simple Gallery Pro"/>
   <item component="ComponentInfo{com.simplemobiletools.gallery/com.simplemobiletools.gallery.activities.SplashActivity.Cyan}" drawable="simple_gallery" name="Simple Gallery"/>
   <item component="ComponentInfo{com.automattic.simplenote/com.automattic.simplenote.NotesActivity}" drawable="simplenote" name="Simplenote"/>
+  <item component="ComponentInfo{com.simplytranslate_mobile/com.simplytranslate_mobile.MainActivity}" drawable="simplytranslate" name="SimplyTranslate"/>
   <item component="ComponentInfo{com.adsk.sketchbook/com.adsk.sketchbook.SketchBook}" drawable="sketchbook" name="Sketchbook"/>
   <item component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.TGCBootActivity}" drawable="sky_children_of_the_light" name="Sky: Children of the Light"/>
   <item component="ComponentInfo{com.tgc.sky.android/com.tgc.sky.GameActivity}" drawable="sky_children_of_the_light" name="Sky: Children of the Light"/>
@@ -3037,6 +3070,12 @@
   <item component="ComponentInfo{br.com.timbrasil.meutim/br.com.timbrasil.meutim.MeuTIM}" drawable="tim" name="Meu Tim"/>
   <item component="ComponentInfo{br.com.timbrasil.meutim/com.mobileaware.tim.activities.LoginActivity}" drawable="tim" name="Meu Tim"/>
   <item component="ComponentInfo{works.jubilee.timetree/works.jubilee.timetree.ui.SplashActivity}" drawable="timetree" name="TimeTree"/>
+  <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivitySplash}" drawable="tinder" name="Tinder"/>
+  <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder" name="Tinder"/>
+  <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivitySplash_}" drawable="tinder" name="Tinder"/>
+  <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivitySplashLoading_}" drawable="tinder" name="Tinder"/>
+  <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivityLogin}" drawable="tinder" name="Tinder"/>
+  <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivitySplashLoading}" drawable="tinder" name="Tinder"/>
   <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.feature.splash.bank.ui.presentation.BankSplashActivity}" drawable="tinkoff" name="Tinkoff"/>
   <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tcsbank.mb.ui.activities.SplashActivity}" drawable="tinkoff" name="Tinkoff"/>
   <item component="ComponentInfo{com.idamob.tinkoff.android/ru.tinkoff.mb.ui.splash.SplashActivity}" drawable="tinkoff" name="Tinkoff"/>
@@ -3064,6 +3103,7 @@
   <item component="ComponentInfo{com.mytolino.app/com.musketeer.host.MainActivity}" drawable="tolino" name="tolino"/>
   <item component="ComponentInfo{org.torproject.torbrowser/org.torproject.torbrowser.App}" drawable="tor_browser" name="Tor Browser"/>
   <item component="ComponentInfo{com.ghisler.android.TotalCommander/com.ghisler.android.TotalCommander.TotalCommander}" drawable="total_commander" name="Total Commander"/>
+  <item component="ComponentInfo{de.traderepublic.app/de.traderepublic.app.ui.splash.LaunchActivity}" drawable="traderepublic" name="Trade Republic"/>
   <item component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.MainActivity}" drawable="trail_sense" name="Trail Sense"/>
   <item component="ComponentInfo{com.kylecorry.trail_sense/com.kylecorry.trail_sense.main.MainActivity}" drawable="trail_sense" name="Trail Sense"/>
   <item component="ComponentInfo{com.osfans.trime/com.osfans.trime.Pref}" drawable="trime" name="Trime"/>
@@ -3131,6 +3171,7 @@
   <item component="ComponentInfo{com.viber.voip/com.viber.voip.registration.RegistrationActivity}" drawable="viber" name="Viber"/>
   <item component="ComponentInfo{com.viber.voip/com.viber.voip.ViberApplication}" drawable="viber" name="Viber"/>
   <item component="ComponentInfo{net.petafuel.mobile.vimpay/net.petafuel.mobile.vimpay.StartActivity}" drawable="vimpay" name="Vimpay"/>
+  <item component="ComponentInfo{fr.vinted/com.vinted.activities.MDActivity}" drawable="vinted" name="Vinted"/>
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.audlabs.viperfx.main.StartActivity}" drawable="viper4android" name="ViPER4Android FX"/>
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.StartActivity}" drawable="viper4android" name="ViPER4Android FX"/>
   <item component="ComponentInfo{com.pittvandewitt.viperfx/com.pittvandewitt.viperfx.MainActivity}" drawable="viper4android" name="ViPER4Android FX"/>
