@@ -115,7 +115,7 @@ object SvgFilesProcessor {
                 "@drawable/" + FilenameUtils.getBaseName(foregroundXml),
             )
         root.addElement("monochrome").addElement("inset")
-            .addAttribute("android:inset", "28%")
+            .addAttribute("android:inset", "30%")
             .addAttribute(
                 "android:drawable",
                 "@drawable/" + FilenameUtils.getBaseName(foregroundXml),
