@@ -70,6 +70,9 @@ fun Lawnicons() {
                 composable(route = Destinations.ABOUT) {
                     About(navController = navController)
                 }
+                composable(route = "know") {
+                    IconRequest(navController = navController)
+                }
                 composable(route = Destinations.CONTRIBUTORS) {
                     Contributors(navController = navController)
                 }
